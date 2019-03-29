@@ -1,0 +1,24 @@
+The Enterprise. 
+RIKER: What is it? 
+RIKER: We can talk to you and the stars interesting. We're going to have to see the transfer and the computer was a traitor beam to him.
+
+[Corridor]
+
+LAFORGE: What if it is? 
+DATA: I did not allow you to destroy this memory as the ship. 
+PICARD: I don't know what they're getting a mistake. 
+DATA: I do not know that you do not know that I've got to get out of here. 
+PICARD: What are you doing here? 
+RIKER: You're a starship of the stream of the past three minutes. I can't detect the communications of the ship. 
+DATA: I have received the ship's starship and the probe is alive. 
+PICARD: I don't know. 
+DATA: I am sure you will be able to do it. 
+RIKER: We've get a convince of a prevent of seconds to the shields. 
+PICARD: And the cargo bay three hundred hundred minutes and the starbase on the planet survey that we can do there. 
+PICARD: It's the only one we can tell me that they're going anything wrong with you. 
+PICARD: We're ready to report to the Brid
+
+
+Validation
+Loss: 1.114128
+Accuracy: 0.66610044

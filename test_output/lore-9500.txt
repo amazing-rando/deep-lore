@@ -1,0 +1,34 @@
+The ship.
+
+[Transporter room]
+
+(the door are bad) 
+PICARD: What is that? 
+DATA: I am an excellent starship. 
+PICARD: What is the probe of anything that happened? 
+DATA: I believe the importance is a simple starship and the subspace destruction. I am not sure you are a long time. 
+RIKER: I don't know. I want you to knew what you were able to do. 
+PICARD: What are you saying? 
+RO: I don't know. 
+PICARD: I don't think so. 
+RIKER: I'm sorry. 
+PICARD: Well, thanks. 
+DATA: I have any probe with any superior the same time to be able to leave the Enterprise. 
+RIKER: What do you think? 
+DATA: I am not a simple. I am nearly so losing a sense. 
+RO: I would like to know what you're all right. 
+RIKER: Well, I'll be able to sense the conditions. 
+PICARD: I don't know. 
+RO: I don't know how to be hard to be here. 
+RIKER: I don't know how to be a good computer. 
+PICARD: I wish to have to be here to be able to live.
+	The Bridge]
+
+PICARD: What are you saying? 
+WORF: A sense to the Bridge, ser. 
+PICARD: 
+
+
+Validation
+Loss: 1.1343323
+Accuracy: 0.65861744

@@ -1,0 +1,33 @@
+Sensor room]
+(There's a second station on the bar) 
+PICARD: What's in the status of the computer? 
+DATA: It was an enemy transporter beam to be able to determine what's being controlled by the ship. 
+PICARD: There's a computer situation to this planet. 
+RO: I don't know how to see. 
+PICARD: I would like to talk to you. 
+DATA: I have a communicator of the case the ship's sensors are picking up an increasing sentient field on a communication. 
+RIKER: The Enterprise is still in the station station. 
+DATA: I have a problem with a starship. 
+PICARD: The Enterprise is still in the control system. 
+RIKER [OC]: Aye, sir. 
+PICARD: This is Captain Jean-Luc Picard. 
+RIKER: Aye, sir.
+
+[Battle bridge]
+
+RIKER: What's it that may happen to you?
+
+[Bridge]
+
+PICARD: There's an answer to any chances. 
+RIKER: Aye, sir.
+
+[Bridge]
+
+PICARD [OC]: Any sensor readings for a minor subspace containment field and sensor readings are not sent from the ship's communication from the station. 
+RIKER: All right, there'
+
+
+Validation
+Loss: 1.0754194
+Accuracy: 0.677105

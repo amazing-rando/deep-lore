@@ -1,0 +1,23 @@
+this ship is a possible ship. 
+PICARD: What is it? 
+PICARD: I don't know what you're going to be hard to be about to do. There are no many people who wanted to be a little boy. I don't want to see you to me a few more thing I don't want to discuss the possible things to die. 
+PICARD: What about the ship? 
+DATA: I do not know. 
+PICARD: I don't know. 
+CRUSHER: I don't think I don't know. 
+PICARD: Is there any other thing I don't want to do that? 
+DAVA: I didn't want to stop that we have to be a find anything wrong.
+
+[Bridge]
+
+RIKER: The station is the same ship with her starship in a signal and then they will need a lot of the ship's station. 
+PICARD: The probe has been able to destroy the ship. 
+PICARD: The position is to be a security station in this cargo. 
+PICARD: Mister Worf? 
+WORF: Captain, the security ships were ready to receive the surface. This is an answer to be in the ship. The Enterprise has been a second field at this ship. 
+PICARD: Then the ship is in a state of the ship i
+
+
+Validation
+Loss: 1.1511288
+Accuracy: 0.6545612

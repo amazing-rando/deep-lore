@@ -1,0 +1,28 @@
+The Enterprise and the shuttlecraft is being coming back to a shuttlecraft]
+
+RIKER: The problem is it to be a ship. 
+DATA: I am attempting to restrict the power system through a command of the surface. 
+PICARD: Thank you, Captain.
+PARDEK: You should be able to transport the transporter back online for a few minutes. It was a ship on this ship to the ship. 
+RIKER: That's why this is the ship in this sector to the Bridge. It's there.
+
+[Bridge]
+
+PICARD: Computer, run a complete contact. 
+CRUSHER: They have the Borg ship. 
+PICARD: Thank you, Commander. 
+RIKER 2: The ship's computer, the ship is doing. 
+DATA: Commander, I am ready to beam up to the ship. 
+PICARD: Thank you, Mister Worf. We're going to be on the Bridge.
+
+[Cavern]
+
+(The sensors is alive, an and a strength of a planet is a sensor station and starts beamed into the ship) 
+RIKER: The point of this contract, I can tell you. 
+COMPUTER: Access to the ship is necessary. 
+PICARD: Captain, there is no sign of the same contact with you
+
+
+Validation
+Loss: 1.0915768
+Accuracy: 0.6727312

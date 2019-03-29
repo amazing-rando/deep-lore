@@ -1,0 +1,21 @@
+The Enterprise Commander. The Enterprise is still beaming toward the Enterprise and send a command of the shuttlecraft. 
+RIKER: Any idea? 
+DATA: The computer has been able to record our sensors. 
+RIKER: Transporter room three, set course four two three four two. 
+COMPUTER: Accessing. 
+PICARD: Maintain the surface. 
+DATA: The contact with the ship is at this sector, the ship is at all three seconds to create an energy for transporter sensors and second sentor and transfer and the subspace field is coming forward. 
+RIKER: The sensor standing beam is on the ship's surface. 
+RIKER: All right, let's go to the ship. 
+DATA: The containment field is in command of the Enterprise. 
+PICARD: We have to get the subspace field off a signal. 
+DATA: Aye.
+
+[Ten Forward]
+
+(Data is standing between the warp core and sets a control of history, then she picks up a chair and the door opens to his hand and starts here and starts headed by a fire and getting the same time on the floor. He set a course for the
+
+
+Validation
+Loss: 1.077493
+Accuracy: 0.67721945

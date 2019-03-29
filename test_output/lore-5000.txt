@@ -1,0 +1,29 @@
+to the presence of the cargo bay and the ship is being standing by the ship.
+
+[Sickbay]
+
+(Troi is a floor in the case of the station) 
+RIKER: What's that thing is the programme? 
+WESLEY: It's the ship that you are aline. I don't know what you were to be a security of the ship. 
+PICARD: What does the transporter containment? 
+DATA: It would be sense to be a subspace complete. I am a second thirge that your people is an entry to the ship. 
+PULASKI: What do you think? It's too late. 
+DATA: The ship will see if you and I have been a chance of a security of the ship. 
+PICARD: What do you think? 
+DATA: I don't know. 
+PICARD: What do you know what you did the safe than that this? 
+DATA: It was not a control. 
+WORF: I am not a serious survival for your captain. 
+PICARD: Why? 
+WORF: I am not a second.
+
+[Bridge]
+
+WORF: Commander Riker, the ship's computer is not a signal. 
+PICARD: Why don't you think the ship will be able to run a second communicator standing by a computer course. 
+PICARD: I am 
+
+
+Validation
+Loss: 1.1677363
+Accuracy: 0.6501144

@@ -1,0 +1,23 @@
+The Bridge. 
+PICARD: And the second chamber is a simulation of a starship the Enterprise will be discussed. 
+RIKER: I could send a child be a problem with the Enterprise and it is a possibility of the ship in a course to the Enterprise and a child entry in the planet substance to an interesting starship. 
+PICARD: And that was the point on the Borg shields, the ship will be able to commence them. 
+PICARD: And it is a completely simple an interesting powerful sensor readings and the computer.
+
+[Bridge]
+
+PICARD: I will send you a child engineering to the Enterprise. 
+PICARD: In the planet, where is the starboard control of the ship? 
+DATA: It was a signal and a single star can be able to destroy the planet. I am an entire computer in the ship and the Enterprise was a passing and an anterior. It is a possible probe. 
+RIKER: That would be an entire power to a chance.
+
+[Bridge]
+
+PICARD: I want you, sir, I want you to take an explosion. 
+PICARD: I'm afraid to stop this. 
+PICARD: I don't know.
+
+
+Validation
+Loss: 1.1078362
+Accuracy: 0.66800034

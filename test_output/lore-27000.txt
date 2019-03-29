@@ -1,0 +1,25 @@
+The star system. 
+PICARD: Then the sensors don't have a problem with the internal confinement field in the planet. 
+DATA: I am not supposed to be able to report. 
+PICARD: The sensors are supposed to be able to detect the shield standards on the starboard power. 
+PICARD: Why did you get a lot of transport? 
+LAFORGE: We'll stay here to the shields on board. 
+PICARD: We can talk to me. 
+PICARD: The shuttle is in planet. 
+PICARD: What's going on here to do? 
+LAFORGE: I don't know what you can say. We're going to be able to see it. I want you to see you in the contrary. 
+PICARD: I'm not sure what they were down there. 
+DATA: I will be able to personal reason why the cause of the ship is interfering with this casing. 
+RIKER: I do not know what you want. 
+PICARD: I wouldn't. 
+TROI: What about your situation? 
+TASHA: No. No, I'm not getting a little thing to say. 
+PICARD: What are tou doing? 
+DATA: I am a second team that is a possibility. 
+LAFORGE: Well, I've get a starship on the ship. 
+DATA
+
+
+Validation
+Loss: 1.1012127
+Accuracy: 0.6702671

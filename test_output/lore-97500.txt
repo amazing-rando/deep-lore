@@ -1,0 +1,27 @@
+Crusher of Sickbay.
+
+[Corridor]
+
+(Data is sitting at the corridor and then the shuttlecraft is still on a body) 
+PICARD: What do you think is that you were able to do that to the Bridge? 
+DATA: The shuttle is in the programme. 
+RIKER: The condition is still at all to transport. 
+RIKER: We could get out of here. 
+PICARD: Why? 
+DATA: I am not sure. It is not an entrance that the secondary ship has been able to disappear. 
+PICARD: That would have too been a containment probe. 
+DATA: The situation is not a possibility of the ship. 
+PICARD: What is it? 
+LAFORGE: I didn't know. It was trying to stop the power source of the ship. 
+RO: The cardisis in the magnetic field was supposed to be in the plasma conduit. 
+PICARD: What is it you want? 
+DATA: The shield was concerned about its seconds as a security team. 
+RIKER: Why don't you give us a choice? 
+RIKER: It's a matter of second. 
+PICARD: What is it? Well it's a good idea. 
+DATA: I want to take that position and the control room is imminent t
+
+
+Validation
+Loss: 1.0736358
+Accuracy: 0.6780836

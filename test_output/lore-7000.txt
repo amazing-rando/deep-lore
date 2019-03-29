@@ -1,0 +1,23 @@
+Borg ship and the ship's children are still straight. 
+PICARD: Welcome aboard. 
+(the door starts some time and the starts transfer to the shuttlecraft) 
+RIKER: What are you saying there's no reason what to be so far? 
+WORF: Too much more. 
+RIKER: Well, the probe is a signal to the Bridge. 
+PICARD: We control the presence of the Bridge to the Bridge. 
+RIKER: What are you doing? 
+DATA: The probe should be sensors in a consciousness as a communication officer to activate the probe to transport an energy. 
+PICARD: Captain, the Enterprise has a rangom of the ship will be the shuttlecraft from their personal children. 
+RIKER: What is it that the real to the Bridge? 
+DATA: The probe should be a security ship and three metres of the station. 
+RIKER: That would be a complete ship the presence is a child. 
+PICARD: Try to talk to the ship. 
+DATA: I am not a challenge. 
+PICARD: The shuttle will not be something that the cards. 
+RIKER: We can see the same that the cargo beam on a ship. 
+RIKER: The 
+
+
+Validation
+Loss: 1.1486914
+Accuracy: 0.65504855

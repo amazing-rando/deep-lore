@@ -1,0 +1,15 @@
+The Enterprise Commander. 
+RO: I don't know what's going on. 
+RIKER: What is it? What if this is a lot of things that would be lest the time you don't want to see that the sample of the Enterprise is to be conclused by the time to determine whether? 
+PICARD: I've been able to try. I want you to take the computer to the Bridge, Mister Worf. 
+WORF: Commander, I'm afraid that this is an android with the station of the planet. I want to see the truth and they were the only way that we're going to have to get the confinement bays on the surface. It would be a simple problem. 
+PICARD: What do you think? 
+LAFORGE: It's the only one who was doing it to them. 
+PICARD: I don't think so, Data. 
+DATA: I have no discontious of a sensor readings. I am a matter of metres an a computer signal. I am not certain the transporter containment field is consisting on the planet's subspace signature that we cannot be able to reach the shields. 
+RIKER: The ship's ship is the ship in the ship's security officer
+
+
+Validation
+Loss: 1.0758504
+Accuracy: 0.6771307

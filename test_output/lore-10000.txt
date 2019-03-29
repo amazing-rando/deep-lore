@@ -1,0 +1,32 @@
+Source.
+
+[Bridge]
+
+RIKER: Sir, the Enterprise is allowed in their ship. 
+RIKER: Any idea of this conduct? 
+PULASKI: I was all right. I'm not sure. 
+RIKER: I don't know what this is a conduit. I don't know what they were doing it about this. I would like to be a mome to a problem. I don't know why I was too. 
+PICARD: Why don't you think the explosion will not be able to do together? 
+PICARD: I do know that we can do. 
+PICARD: I was there, and I was there, I'll be in a man as the other time you would have been able to do that we can tell. 
+DATA: I do not know what you're a primary fact, so you will be the primary computer with the power to the ship.
+
+[Bridge]
+
+PICARD: Well, there's no way to do with the Enterprise. 
+RIKER: It's too late, sir. I have a few minutes. 
+RIKER: Thank you, sir.
+
+[Transporter room]
+
+PICARD: The Borg still have to be so sorry to see the shields. 
+RIKER [OC]: Aye, sir.
+
+[Ten Forward]
+
+(Riker and Risa is similar to the tubble at the transporter boam) We are all rig
+
+
+Validation
+Loss: 1.1306801
+Accuracy: 0.6603082

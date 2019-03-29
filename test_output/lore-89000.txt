@@ -1,0 +1,24 @@
+The Ferengi Section. 
+CRUSHER: I'm not sure. I can't leave you. I'm sorry, Captain. I was there. I couldn't have the computer. 
+PICARD: I do never think you're right. 
+RIKER: I'm sure you're a chance. 
+PICARD: Are you sure? 
+CRUSHER: I don't think I did any here. 
+DURKEN: I can't stop the problems again. 
+PICARD: I'm not sure. 
+CRUSHER: I didn't know. 
+PICARD: What do you think? 
+DURAS: The son of the Klingon ship was not a child as a stronger that is the only one who could be distrayed. 
+PICARD: We have no reason to believe that you are a little tire to construct a security control and a complexity of a few day on a second section. 
+RIKER: And when the computer should be able to complete the ship and stand by for an entire sensor reaction to the ship and the starship Enterprise is settled and shields up. 
+PICARD: And when they all represent?
+
+[Bridge]
+
+PICARD: Anything to do that that we can do? 
+DATA: I am afraid I am attempting to destroy the power transporter room three to the Brid
+
+
+Validation
+Loss: 1.0767285
+Accuracy: 0.6770281

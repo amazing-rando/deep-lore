@@ -1,0 +1,28 @@
+The Best Off Starbase Captain Picard's head of Brevilla's quarters. 
+PICARD: What's the same time? 
+DATA: I am afraid the signature will not be able to determine the previous patting of the shields. 
+PICARD: The probe was a simulation, Data, I want you to keep that to this planet. 
+RIKER: I was about to see you as we can tell you about the comparison.
+
+[Bridge]
+
+PICARD: Mister Worf, prepare to read me and respond to the shields and respond to the conduit. 
+DATA: Aye, sir. 
+PICARD: Mister Data, what if the secondary ship is stable? 
+DATA: There is a possibility of security teams are not a particle subspace frequency. 
+PICARD [OC]: We'll have the ship in the cargo bay from the Bridge.
+
+[Transporter room]
+
+PICARD: Come. 
+RO: I don't know. 
+PICARD: What is it you want? 
+DATA: There are no responses to an artefact. 
+PICARD: What about that? 
+DATA: I am after that to the past two hundred years old. 
+RIKER: What are you saying that they can see it as a computer signal to any support system wh
+
+
+Validation
+Loss: 1.0762743
+Accuracy: 0.6772234

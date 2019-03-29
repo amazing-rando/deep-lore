@@ -1,0 +1,28 @@
+The Captain 
+
+[Corridor]
+
+(a pirched body appears to have a part of another back of a shuttlecraft) 
+PICARD: In the station, I will. I have no idon where you are. 
+DATA: I have a personal research. 
+RIKER: What's going on?
+
+Captain's log, Supplemental. We have recognise the ship.
+
+[Bridge]
+
+RIKER: Transporters and sensor sensors indicate than we can start all aboard the ship. 
+PICARD: Transporter room, we can't see the ship with the computer than to be able to return. I can't get to the ship. I'm sure that's that we're going to be able to resent the shuttle. 
+RIKER: I was trying to get the ship. 
+DATA: It is a security that would be able to destroy the control of the contract. 
+PICARD: What about the prisenar to this ship? 
+DATA: It is not an entire chance to ready that the power could have been expected. 
+PICARD: Thank you, Mister Data. 
+DATA: I am not concentrating an android on the planet as a strategy. 
+RIKER: That's the same thing. I can't get it to them. 
+DATA: The power stuff is
+
+
+Validation
+Loss: 1.0830616
+Accuracy: 0.6749961

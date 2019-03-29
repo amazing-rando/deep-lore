@@ -1,0 +1,24 @@
+The Enterprise in the Bettle of Star System. The Bridge is reading one of the star systems as the beam is still out of here. 
+PICARD: I'm sorry. 
+RIKER: I'm sorry, sir. 
+PICARD: Why do you allow me to see your shield to study the shuttle to the shuttle? 
+WESLEY: It seems to be a consciousness. 
+PICARD: That is not a prisoner on the Engineering system. 
+DATA: It is not a possibility that the Enterprise is at a close ship. That would be the only one we could complete the planet. 
+PICARD: And if the ship was a control room to the surface? 
+RIKER: I don't know. 
+PICARD: And if that is an energy system that we couldn't help us, we can stay at anything there. 
+RIKER: Aye, sir. 
+RIKER: I'll be able to run the shields on the Bridge. 
+PICARD: Make it so, Mister La Forge. 
+WORF: Aye, sir. 
+PICARD: Standard orbit, Mister La Forge. Let's see where they were too late. 
+PICARD: I don't know. 
+RIKER: I do not see it any of them and then this is a computer. 
+PICARD: I'm not sure what to do. 
+RIKER: I'
+
+
+Validation
+Loss: 1.0786791
+Accuracy: 0.67719775

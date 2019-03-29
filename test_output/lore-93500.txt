@@ -1,0 +1,34 @@
+The Bert 
+
+Captain's log, stardate 41215.2. The Enterprise has received a signal from the shuttlecraft. 
+RIKER: That would be true. 
+DATA: Aye, sir.
+
+[Bridge]
+
+RIKER: The ship will be able to contact the Enterprise. 
+WORF: Aye, sir.
+
+[Sickbay]
+
+(The doorbell rings are still an and sending a straight off the ship) 
+DATA: They are still attacked in the station. 
+LAFORGE: The containment field is down on the ship. 
+RIKER: That shield started alive? 
+LAFORGE: I don't know. 
+PICARD: We would have to let you talk about it. 
+(Troi leaves) 
+PICARD: I was there as a computer. I was to take a look at this position. 
+DATA: The same time I wish I will not save a single choice, it is a sense of time. 
+RIKER: We will not survive. 
+TROI: Well don't think of that. 
+PICARD: I am a concern to you. 
+TROI: I wouldn't have to do this for the same time I've got to get this to the Enterprise. 
+PICARD: What is it you want? 
+TROI: I'm sure I'm sorry. 
+TROI: I won't be sure I can do. I thought you're going to h
+
+
+Validation
+Loss: 1.0789826
+Accuracy: 0.6767539

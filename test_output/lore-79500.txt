@@ -1,0 +1,32 @@
+Capacity 
+Captain's log, stardate 44797.1. We have arrived at Starbase two one seven. 
+RIKER: Transport ship has been able to receive a stranger and transport a ship to the surface. 
+DATA: I am receiving this computer to set up an away team to the ship anywae. 
+RIKER: Report. 
+LAFORGE: Take us out of here. 
+WORF: Sir, where are they?
+
+[Bridge]
+
+RIKER [OC]: They are all right. 
+PICARD [OC]: I can tell you that you're ready. 
+(They are standing by the boy, and the doorbell chimes and stands back into a ship) 
+RIKER: I've got to get them out of here.
+
+[Bridge]
+
+WORF: Commander, what is it? 
+PICARD: We've got a little something that may be able to do. 
+RIKER: I don't think so. I'll take the shields through this planet. 
+PICARD: What's wrong? 
+DATA: I do not know. 
+RIKER: I don't know. 
+RIKER: I've never seen a moment of a secure the shuttle as well. 
+PICARD: I would like to take a look at you, Counsellor. 
+TROI: You're not going to be alone. 
+PICARD: You're not going to be a little like th
+
+
+Validation
+Loss: 1.077853
+Accuracy: 0.6770873

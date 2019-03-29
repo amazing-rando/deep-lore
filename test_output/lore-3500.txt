@@ -1,0 +1,25 @@
+Tress container and the stars in the problem with the star back on this planet is a power from the planet starship. 
+PICARD: It's a little starband and send the ship. I want to be a starship to the street. I am sure they were not in the prisoners.
+
+[Bridge]
+
+PICARD: That's a station of the Enterprise. 
+PULASKI: The point is not a parents of the Enterprise.
+
+[Transporter room]
+
+(The ship is still into a consistent and takes the shields and a straight an a matter of the shuttle) 
+PICARD: Thank you. 
+PICARD: It's also anything. 
+WORF: I want to stay in a starbase to the station. 
+RIKER: I don't know how to do with you. 
+PICARD: I want to be able to discuss. 
+PICARD: I will not be able to do that that was not too sure. 
+PICARD: It was a simply and something about it to all the problems. I've got to go any more aboard the Enterprise. 
+LWAXANA: Well, that's a little deal. I want to be some thing that I was a lot of the starship and a starbose the prime that we will be able to do it. 
+PICARD:
+
+
+Validation
+Loss: 1.1941667
+Accuracy: 0.6440065

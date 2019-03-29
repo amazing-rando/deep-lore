@@ -1,0 +1,30 @@
+Captain's quarters]
+(The Enterprise is still in the streen of the corridor) 
+PICARD: Transport and transport and see if we should try to determine what that was. 
+PICARD: The planet's control is at all. 
+DATA [OC]: And the probe is out of here. 
+PICARD: Transport a security team to Engineering 
+
+LAFORGE: Aye, sir. 
+PICARD: Mister Data, what about the shuttle? 
+WESLEY: I'm going to have to go to the surface. 
+LAFORGE: There are those people on the ship. 
+PICARD: Mister Data, we can try to accept the computer.
+
+[Bridge]
+
+PICARD: There's an energy sister. It would be something. 
+DATA: The probe has arrived at the programme. 
+PICARD: That's a good chair. 
+DATA: The programme has been restricted by the starboard command. 
+PICARD: Tell me, what's the probe? 
+DATA: I am an instinct to the structure of this probe and the programme and the planet is a class of the planet.
+
+[Battle Bridge]
+
+DATA: The ship is detecting the programme to the surface and the shield computer and the ship is secting o
+
+
+Validation
+Loss: 1.0759102
+Accuracy: 0.6768604

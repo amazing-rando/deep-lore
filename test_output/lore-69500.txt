@@ -1,0 +1,17 @@
+The Battle of Station. Sensors are beaming up a starship computer system for a similar control pad. There is nothing wrong with the ship. 
+PICARD: What are you doing? 
+DATA: This is no longer in the same confinement field. I am prepared to read to subspace field. 
+PICARD: That was the only word with them. 
+RIKER: It's a problem. 
+PICARD: I don't think so. It seems to be a possible sensor system. 
+PICARD: I was the one that we can do to the shuttle to the ship. 
+DATA: I am attecking you to Starfleet Command. 
+PICARD: I don't think that's what I've been able to see. I don't know. 
+RIKER: It's the only way to do what I want to say. It's the only one that I'm going to have to do. I'm not sure that's what I'm sorry to do is see. 
+PICARD: We could held the possibility to start to see if they're all right and the only way that we've got. 
+DATA: I am not a simulation on to a programme to be a simulated to the ship as an anti-time. It is a subspace field of a programme to continue to destroy it
+
+
+Validation
+Loss: 1.0809851
+Accuracy: 0.67564905

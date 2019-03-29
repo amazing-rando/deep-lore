@@ -1,0 +1,27 @@
+The Security office]
+
+[Troi's office]
+
+PICARD: Welcome to the Erterprise. I'm afraid I can't get you the same thing anywhere assignment. 
+PULASKI: I'm sorry. I've got to go away from her. I'm going to help you. 
+(The discussions are back into a shore light and gets the first station) 
+DATA: I have no control of the subspace signature. 
+LAFORGE: You know, I didn't see them with the starship Enterprise. I'm sorry. I've been the some of the sensor bank to the subspace status. 
+DATA: The subspace designation is complete. 
+PICARD: Mister Worf, complete transporters. 
+WORF: Sir, the ship's contract is continuing to decide within the ship. 
+PICARD: Mister Worf. 
+WORF: Aye, sir.
+
+[Shuttlecraft]
+
+PICARD: Mister Worf, I've get a lot of power transfer for a few days. 
+WORF: Aye, sir. 
+PICARD: Well, Mister Worf, can you see them? 
+DATA: It will not be a presence of an alien. It is a status of a starship Enterprise. 
+PICARD: That would have been a ship on the Enterprise and the subspace computer an
+
+
+Validation
+Loss: 1.0837444
+Accuracy: 0.67479086

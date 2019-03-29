@@ -1,0 +1,31 @@
+Some ship. The Enterprise is transferring at the surface of the Enterprise. 
+PICARD: Mister Worf, what is the same time? 
+WORF: I am able to see them to be able to destroy it.
+
+[Transporter room]
+
+(The transmission leaves) 
+PICARD: Can we go to the Bridge. 
+WORF: The probe is completed, sir. 
+PICARD: Mister Data, what's wrong? 
+WORF: It is a possibility that the surface will be disabled the ship. 
+PICARD: Take us to the Enterprise. 
+WESLEY: I'm sorry, sir.
+
+[Bridge]
+
+PICARD: Make it so. Mister Data. 
+DATA: The security of the planet's surface is containing a simulation to the probe site to the Enterprise. I was all right away to be able to determine what it is about. 
+PICARD: All stations are alive. 
+LEAH: I want you to tell me what they were about to do. 
+(Worf gets a ship is the shuttle range) 
+RIKER: I would have thought that you can't. 
+(The ship shoots him to the screen) 
+WORF: I will not be serious. 
+WORF: I am not coming about these people about. 
+TROI: I do not know how. I want
+
+
+Validation
+Loss: 1.0903205
+Accuracy: 0.6738952

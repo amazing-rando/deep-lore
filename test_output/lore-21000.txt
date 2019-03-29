@@ -1,0 +1,33 @@
+The ship and the door opens to his face) 
+PICARD: What about the ship? 
+DATA: I have no research for a progress to my sensor systems. 
+RIKER [OC]: The shields are attacking the shuttlecraft. 
+PICARD: That is not a problem.
+
+[Bridge]
+
+DATA [OC]: And than a position on the Bridge. 
+RIKER [OC]: Aye, sir. 
+PICARD: Mister Data. Data, we're going to handle that. 
+PICARD: Then we're going th this time. 
+PICARD: We have a sense of possibility.
+
+[Bridge]
+
+RIKER: The shuttle is in command. 
+PICARD: Mister Docare in the shuttlecraft. 
+WORF: Thank you, sir. 
+RIKER: They were to be destroying the ship. 
+RIKER: That's a problem. I want you to know what you were. 
+PICARD: Then what about the same signal? 
+DATA: I have never seen an answer. 
+RIKER: Well, it would be a power transporter room three hundred years ago. They're not sorry about. 
+PICARD: Why didn't you destroy you? 
+PICARD: Then what if it is a precise problem? 
+DATA: The probe has been destroyed by the prisoners to sense the ship. 
+PICARD:
+
+
+Validation
+Loss: 1.1079596
+Accuracy: 0.6670711

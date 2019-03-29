@@ -1,0 +1,20 @@
+tor a counsellor. The station wasn't the only one who was in a communication of the channel to the computer with a communication of the ship and the ship and the ship is completely ready to stay on the Enterprise. 
+RIKER: What is that this is a little computer start? 
+RIKER: I can't go to the same thought to stay. 
+PICARD: Yes, I can tell him to stop you. 
+PICARD: We're going to have a chance that they've bean able to stay here. 
+PICARD: What is it? 
+DATA: It is always sure you were such a ship to accomplish the planet. 
+RIKER: You're a concerned that you were a little child. 
+RIKER: I'm sure the story is a mission to stay his father who was a communication. 
+RIKER: Yes. I was a long time I'm sure that we can get them to stop the ship and the strength. 
+ROBAN: I was a chance to have a completely sensor system to the ship. 
+PICARD: I couldn't have to be a lot of medical state. 
+PICARD: I'm not sure. 
+PICARD: You have a medical activity. I have a long time. 
+RIKER: I don't know. I'm not 
+
+
+Validation
+Loss: 1.1646057
+Accuracy: 0.6498757

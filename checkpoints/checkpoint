@@ -1,0 +1,2 @@
+model_checkpoint_path: "lore"
+all_model_checkpoint_paths: "lore"

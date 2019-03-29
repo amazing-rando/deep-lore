@@ -1,0 +1,36 @@
+Transporter room]
+Captain's log, stardate 45270.1. We have returned to the Bridge. The Enterprise has returned to Starbase two four on the Enterprise to the Bridge. 
+RIKER: The survivors? 
+PICARD [OC]: Transporter room, prepare to see the power transfer.
+
+[Engineering]
+
+LAFORGE: I can't find any of the sensors. 
+DATA: Transporter room, sensor readings are not ready. 
+LAFORGE: That seems to be a subject of the planet.
+
+[Bridge]
+
+DATA: Captain, I am picking up a possibility on the ship's subspace. 
+PICARD: On screen.
+(the planet is standing by) 
+RIKER: This is Captain Picard. 
+RIKER [OC]: We're ready.
+
+[Engineering]
+
+LAFORGE [OC]: They're alive. 
+RIKER: I'm going to have to start with you in a minute for the ship. 
+DATA: That will require the power to the shields. 
+PICARD: That would be a class starship.
+
+[Bradge]
+
+RIKER: I've got a chance to return the sensors. 
+DATA: Captain, I'm afraid that's why they came to this planet. 
+PICARD: I would have thought that you're responsible for them 
+
+
+Validation
+Loss: 1.077061
+Accuracy: 0.6769117

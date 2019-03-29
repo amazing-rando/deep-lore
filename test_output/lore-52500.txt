@@ -1,0 +1,28 @@
+Cast of Data and Data stops the devect on the street) The second thing is doing. 
+PICARD: Where's the problem? 
+LAFORGE: We will bring the ship's starboard shields and the communications are all about to destroy the ship. It is a close the communicator. 
+RIKER: They were all right. 
+DATA [OC]: Aye, sir. 
+RIKER: We're ready for the shuttlecraft as the ship. 
+RIKER: We're receiving a simulative shields and transporter room three. 
+PICARD: Make it so.
+
+[Bridge]
+
+PICARD: The Enterprise is set in a channel. 
+WORF: Sir, the sector is not responding to the ship. I have been transferred to the shields. 
+PICARD: The ship's computer, this is Captain Picard.
+
+[Bridge]
+
+PICARD [OC]: What isn't that what happened? 
+DATA: The computer is not sure. 
+PICARD: Then what is that? 
+DATA: I am a computer security team than I have been communicating for the crew of a starship entire substance for an accident to a similar technique. 
+PICARD: That is a problem. It won't be a challenge. 
+RIKER: I would have th
+
+
+Validation
+Loss: 1.0845124
+Accuracy: 0.6743884

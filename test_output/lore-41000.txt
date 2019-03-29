@@ -1,0 +1,32 @@
+Bridge]
+
+[Bridge]
+
+PICARD: Well, the ship will be destructed to start a power. 
+(the ship is beamed away) 
+RIKER: What is the probe? 
+DATA: I am not superior to a position of the shuttle. 
+PICARD: Mister Data, what is that? 
+DATA: The probe is increasing. 
+PICARD: Mister Worf, you have the Entity. 
+DATA: A ship is immune to the planet in the surface. 
+PICARD: We will not be able to report to the Bridge. 
+RIKER: Aye, sir, I want to see you anything. 
+RIKER: I'll be able to see the power systems. 
+DATA [OC]: Aye, sir. 
+PICARD: Where is thes? 
+DATA [OC]: Accomplished to the plasma containment field. 
+PICARD: What are they? 
+DATA: The present power systems are being showing a secord probe of the shuttle. 
+PICARD: Mister Data, what is the safe to send this theory? 
+LAFORGE: That's why I'm sure they've been trying to send a problem from the shuttle. 
+RIKER: It wouldn't be a possibility. 
+PICARD: It would be a problem. I don't know. I don't know. It is a problem. 
+PICARD: What do we do?
+
+[Obs
+
+
+Validation
+Loss: 1.0895603
+Accuracy: 0.672968

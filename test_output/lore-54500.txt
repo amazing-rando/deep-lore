@@ -1,0 +1,36 @@
+This Six on Sickbay]
+
+[Bridge]
+
+RIKER: We're going to have to go and the only one we had to do. The controls are still about to see if the starboard ship is sent to the surface at the ship. 
+RIKER: What is it you want? 
+DATA: I am reading an analysis of the shield and ready to beam up the computer. 
+RIKER [OC]: Riker to Captain Picard of the Enterprise.
+
+[Bridge]
+
+PICARD: Mister Worf, are you all right? 
+WESLEY: Yes, sir, but they've got to get a look at these. 
+PICARD: I don't know what you've got. 
+DATA: There is no problem with the surface. 
+PICARD: It is a stars into the parameters. 
+PICARD: It is a possible. It is a sentient possibility. 
+DATA: I am a security person in a possibility. 
+PICARD: Well, that is a second planet. 
+DATA: It is a sensor range of the ship is concerned about the ship. 
+RIKER: What are you doing? 
+DATA: I am reading a power subspace signal.
+
+[Bridge]
+
+RIKER: What is it? What is it? 
+WORF: The probe is stabilising its survivors.
+
+[Ten Forward]
+
+(the transport
+
+
+Validation
+Loss: 1.0872585
+Accuracy: 0.6743608

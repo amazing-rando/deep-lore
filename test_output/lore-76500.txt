@@ -1,0 +1,25 @@
+Captain's log, Stardate 42896.3. We have already recommended a particular positronic subspace signal. 
+PICARD: In a manner, I don't think so, but it's a long time to continue to restore you and I'm afraid I'll get you there anywhere. 
+RIKER: I don't think so. 
+WORF: I am receiving the power surprise. It is not entirely as if they are a complex position. 
+PICARD: It would have been that well. 
+DATA: I was a traitor beam out of here. 
+PICARD: Well, it's a little more than a problem who had an ancient decision to determine why you will be right. 
+DATA: It was a promotion. 
+RIKER: I don't know. I don't know. I don't know. 
+PICARD: Well, it's not the most simple of the cause of the confidence. 
+DATA: I am a problem. I will be right. I am a probe to complete the power sunce. 
+PICARD [OC]: And we have a problem.
+
+[Bridge]
+
+RIKER: We've got to take the containment field. 
+PICARD: We have a life form on the Bridge. 
+WORF: Aye, sir.
+
+Captain's log, Stardate 41636.6. We have returned to the Bridg
+
+
+Validation
+Loss: 1.0814617
+Accuracy: 0.67538863

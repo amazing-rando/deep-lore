@@ -1,0 +1,25 @@
+Core of Gather 
+
+Captain's log, stardate 45021.1. The Enterprise has recovered a starship. 
+RIKER: When we see it, we'll begin that to the surface which may be able to deceive the precise problems to the shields. 
+DATA: The Enterprise is continuing to determine that the ship has been continuing to destroy the Enterprise to repair the surface from the Enterprise through the probe. 
+RIKER: What is it? 
+WORF: The Enterprise is continuing to restore an energy field. 
+RIKER: The Enterprise will report to the Enterprise as well as the shie is supposed to have the shields of the ship and a station. 
+DATA: It is an empty day of the probe. 
+RIKER: We have to go back to the Enterprise. We can trace it onto this planet surface.
+
+[Bridge]
+
+PICARD: They are all over there. 
+RIKER: And they were the shields to the Bridge, sir. They're at the planet surface.
+
+[Bridge]
+
+PICARD [OC]: What is that? 
+DATA: To the surface with the ship in the starbase of two minutes, seventeen hours to team the ship into 
+
+
+Validation
+Loss: 1.077759
+Accuracy: 0.6773437

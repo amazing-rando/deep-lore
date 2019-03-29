@@ -1,0 +1,27 @@
+This ship.
+
+[Bridge]
+
+RIKER: And the problem is in a computer signature. 
+RIKER: The ship's ship is in the structure of the ship's computer systems and the ship's struggle is the ship and see if the ship is all right the ship's channels and the shuttle is all right about the starboard sensor station. The present control ship is in thirty seven percent of the computer computer. 
+RIKER: There's a problem. 
+PICARD: The sensor room. I want to see that the ship is a child. 
+PICARD: Well, the ship is a signal that we've been trying to sense this ship and see if you will not be able to stay with me. 
+RIKER: I don't know why you would be able to do that. 
+PICARD: Well, I want to stop you. 
+(the doorbell roam) 
+RIKER: What's happened? 
+DATA-IHAT: I don't know. I am not surprised to be a member of this ship. 
+PICARD: It was a minute of the shuttle. 
+PICARD: We have to stay here to see you.
+
+[Bridge]
+
+RIKER: Are there something to stay? 
+DATA: The ship's command of the ship is alive. 
+PICARD: Wha
+
+
+Validation
+Loss: 1.1229628
+Accuracy: 0.662352

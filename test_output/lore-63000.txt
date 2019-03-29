@@ -1,0 +1,25 @@
+Sir 
+PICARD: There's a great deal of a plan and the ship was still. 
+DATA: That is a presence. 
+LEAH: I was the leader. 
+PICARD: I was a long time. I will not be able to tell you about this. I want you to talk about it too long ago. 
+TROI: Why didn't you talk to me when I should have talked about the components? 
+PICARD: It's a good time that's a good idea. 
+TROI: Why? 
+PULASKI: I would like to take the ship's ship. 
+PICARD: It's not the most thing that you're a very. 
+DATA: I am not an accident. I am an exception to accept to the crew. 
+LAFORGE: Well, I'm surprised that the Enterprise will bring you and then they will be to the ship. 
+WORF: I will not see that they are not an android. 
+LAFORGE: I want to stop the ship.
+
+[Bridge]
+
+WORF: Shuttle one one four. Three million kilometres are down. 
+PICARD: Mister Data, what is the point? 
+DATA: There is no way to continue to detect that position with a state of treatment in this ship and the Enterprise. The Entity has been attempting to do 
+
+
+Validation
+Loss: 1.0806476
+Accuracy: 0.67665523

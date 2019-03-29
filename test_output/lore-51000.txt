@@ -1,0 +1,30 @@
+Ten Forward]
+
+(The team is still on a ship and takes a computer container) 
+RIKER: We're ready to receive the planet surface from the shuttle. 
+DATA: The starship is complete.
+
+[Bridge]
+
+PICARD: This is Captain Picard.
+
+[Engineering]
+
+RIKER: This way, Data. 
+DATA: The ship is clear of a plasma contact with the planet surface. 
+PICARD: What if it is any of these things? 
+DATA: It is not the cast. 
+RIKER: Then this is a point of painting interesting to destroy the surface. What did you do? 
+DATA: That is the matter of a starship with the substacces. 
+PICARD: What if the shields have a programme to survive? 
+DATA: The plasma ship is not a power drink. 
+PICARD: The probe's decisions have a problem in the ship. The same though that's the cause of the process. The computer was all right. 
+DATA [OC]: Aye, sir. 
+(The shuttle and the transporter ship is staring at a stranger and the turbolift doors open.) 
+RIKER [OC]: Any of the temporal range? 
+PICARD: The Ferengi are all about to set a couple
+
+
+Validation
+Loss: 1.0896738
+Accuracy: 0.67383206

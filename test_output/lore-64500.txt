@@ -1,0 +1,22 @@
+The Enterprise 
+CARMICHAEL: We're going to have to see the power transfer beam. 
+WESLEY: Yes. 
+PICARD: I wish I could see the results to the ship. I have to transport you the ship.
+
+[Bridge]
+
+DATA: It is a simulation of a similar transporter bank to send this ship. 
+PICARD: The Enterprise is still in a secuing security system, the same change of the same containment field is set in the planet. 
+DATA: The computer has been consistent with the energy field in the shuttle and the shuttlecraft is coming into a control pad ship. 
+PICARD: The ship will be able to start with the shields. 
+WESLEY: Aye, sir. 
+PICARD: The containment field is in the control room. 
+WORF: A force field could be self into the sensors and containment field in the ship. 
+PICARD: They can tell me. 
+DATA: I am afraid I have a security of the ship to command of the starboard beginning is a computer control readings. 
+PICARD: The shield is in the second three hundred and twelve metres one hundred hours through the ship. 
+
+
+Validation
+Loss: 1.0819116
+Accuracy: 0.6757931

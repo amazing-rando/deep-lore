@@ -1,0 +1,24 @@
+The Bord Courtest 
+(The core is sitting on a shuttlecraft in the star)
+
+[Bridge]
+
+DATA: Temperature is similar. 
+PICARD: Captain, the Enterprise has been able to destroy the shields at the planet surface. 
+PICARD: What are you suggesting? 
+LAFORGE: I can't start them at the ship. 
+PICARD: Any other ship is able to retrieve the planet's station at the shuttle and the ship's programme. 
+DATA: The ship is attempting to reach the structural poler. It was a random sensor sister of the starboard back. It is time to continue to return to the surface and returned to the shields. 
+RIKER: We have to go to the Bridge at the shuttle. 
+DATA: The shuttle is a man in the sensors and shields. 
+PICARD: What is it? 
+DATA: That is correct. It is a signal. It is a static area. 
+LAFORGE: We can't go through the control section. 
+DATA: I have received a secure tractor beam to set a course for the Bridge.
+
+Captain's log, stardate 45363.4. The Enterprise is closing to the ship's command. There are an alternat
+
+
+Validation
+Loss: 1.0801102
+Accuracy: 0.6760989

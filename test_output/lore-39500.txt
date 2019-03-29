@@ -1,0 +1,33 @@
+Control of the Corridor]
+
+(a broken ship is still onto a bed of their station) 
+LAFORGE: Welcome to the Bridge. 
+RIKER [OC]: I've already running through the stars in the ship.
+
+[Engineering]
+
+LAFORGE: I'm sure they're all reght away. 
+PICARD [OC]: What are you doing? 
+DATA: The power subspace signals are designed. 
+RIKER: That's a little long ago, sir. 
+PICARD: Well, I don't know where to see you about this. 
+DATA: I am a parent. 
+PICARD [OC]: I was just about to try to tell me what you're going to have to do.
+
+[Bridge]
+
+DATA [OC]: And the security of the arrival is considered the computer in the ship's strength of the starboard structure.
+[Bridge]
+
+DATA: Captain, ten Forward is in the ship. 
+PICARD: Well, I'll try to see you anything to do. 
+PICARD: We will need to see if you can't get any of the conferent in orbit. 
+LAFORGE: I'm sorry. 
+PICARD: I wanted to stay here. I thought you're going to try to take this to the shuttle. 
+PICARD: I'm sorry. 
+PICARD: Why do you think that we have
+
+
+Validation
+Loss: 1.0930412
+Accuracy: 0.67282

@@ -1,0 +1,27 @@
+The Borg of the Enterprise Command stations) There's no one who's going to have to see you about me. 
+(The ship is staring a little lattle) 
+PICARD: We can see what happened. 
+RIKER: I wasn't sure. 
+CLEMENS: I'm not sure you have a power transfer beam in the planet. 
+WORF: Sir, the Enterprise has been destroyed with the shields. 
+PICARD: Take us out of through the transfer. 
+WORF: Sir, I am a lifeform of an accurate sensor starship. 
+RIKER: We're right  
+DATA: The cardiag sensitivity is continuing one point three seven seven. 
+PICARD: The ship is doing in the planet. 
+WORF: Aye, sir. 
+PICARD: Ensign, let's go there. 
+PICARD: Mister La Forge, we have a rest of the plot that we're going to be too late. 
+DATA: That is correct. 
+LAFORGE: I think I can't get the ship. 
+RIKER: I don't know. 
+ROBIN: We don't have that. 
+PICARD: Well, the Enterprise had been told the truth is a matter of thing. 
+RIKER: We'll have to see the ship. 
+RIKER: I'll stay on the Enterprise. 
+RIKER: We had a lot of sen
+
+
+Validation
+Loss: 1.0841429
+Accuracy: 0.67515785

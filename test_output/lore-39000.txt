@@ -1,0 +1,26 @@
+Control Station 
+
+Captain's log, stardate 45001.1. The Enterprise is completely interfaced. The Enterprise is control of the starbase.
+
+[Bridge]
+
+PICARD: Captain, this is Captain Jaan-Luc Picard. 
+PICARD: Counsellor, what is the matter of failure? 
+TROI: I'm not sure. 
+CRUSHER: What? 
+WORF: The Enterprise is coming from his shuttle. That is an expert the safe thing. 
+PICARD: I don't know what you want. 
+RIKER: Then you will not be an excellent. 
+PICARD: I don't know what that was there. 
+DATA: The sensors indicate a constant thing is concerned to transport. 
+RIKER: That should be an entire starship between the Enterprise that the Enterprise has a confidence with the starbase to a structure of the stream of any security charts than the Enterprise. 
+RIKER: It's a situation of any of us. 
+PICARD: I want you to take an activate to the shuttle. 
+WORF: I have not come to the Enterprise. 
+PICARD: We have to get them three to starboard to the Bridge. I'm sorry, sir. 
+PICARD: Then is that what 
+
+
+Validation
+Loss: 1.0945166
+Accuracy: 0.6719756

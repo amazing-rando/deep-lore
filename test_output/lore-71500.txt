@@ -1,0 +1,23 @@
+Contact 
+
+Captain's log, stardate 42209.1. We are continuing to accept a security chamber of the shields. 
+RIKER: When we're reaching the crew of the ship's status from the containment field, we could be a communication. 
+PICARD: What is the safety? 
+DATA: That's what it would be a complete position to transport.
+
+[Bridge]
+
+RIKER: That's what the shuttle will be. 
+RIKER: The security systems have been transformed into a computer range. The shuttle has all stopped. 
+PICARD: We're ready. 
+COMPUTER: All systems and sensors are probed. 
+PICARD: We're ready. 
+COMPUTER: There is no reading that we are all ready. 
+RIKER: The cranits are alive in the starbase one seven point seven point three percent of the starboard shields in our computer. 
+RIKER: We have a computer readings of the shuttle is to be able to discuss the subspace field. It was not the case of the crew. 
+PICARD: I want to talk that there are the configuration of the ship with the shuttle was a complex captain that we have a powe
+
+
+Validation
+Loss: 1.0787601
+Accuracy: 0.6761344

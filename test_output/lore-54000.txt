@@ -1,0 +1,20 @@
+Southesting Station 
+Captain's log, stardate 41166.6. There are no radio assignment to send a surge to transport a command of a subspace signal for the ship. 
+RIKER [OC]: The Enterprise had been in the plasma control. 
+PICARD: And what about the planet? 
+DATA: The shields are still in position. 
+PICARD: Then there is an experiment of anything wrong. We have to continue to stop the crew on the ship and the problem. 
+LAFORGE: It's the same way to do it anything. 
+PICARD: Then when they return to the ship, they will be able to return to the surface to stay here and return to the surface. 
+PICARD: I was trying to start a secure that would be a few minutes. 
+PICARD: I haven't tradered anything to do in the same conduit. 
+DATA: The computer holodeck has been all standing by to stabilise the shield systems of the surface. I am ready. 
+LAFORGE: I can't explain it. 
+PICARD: That would be in the same control. I don't know how to say that. 
+DATA: I have been able to destroy the ship. 
+PICARD: The
+
+
+Validation
+Loss: 1.0870122
+Accuracy: 0.67474943

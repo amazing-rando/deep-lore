@@ -1,0 +1,22 @@
+Control 
+
+Captain's log, stardate 46368.2. We are recovered at a sensor reading of a static power frequency. There is no second of a starship with the cargo bay to create a presence of the plasma structure an another similar control path. There is no other substance of the ship in the starbase one seven point seven hours. 
+RIKER: Thank you, Captain. 
+PICARD: Mister Data, is it an interesting programme of the ship? 
+WORF: The cargo bay five is no section for this sector. 
+PICARD: Thank you, Commander. 
+RIKER: I don't think so.
+
+[Troi's quarters]
+
+(Troi is back into the past are searches at the console) 
+DATA: I have found a second capability. I have already been able to respect the computer to a complete power transport. 
+TROI: That would happen with them to be so sorry that you were all right. 
+PICARD: Yes, I can tell you the ship in time to complete the probe. I want you to kill me as a father to see you. 
+DATA: I am not an entity to the ship as well. 
+PICARD: I would like to be alive
+
+
+Validation
+Loss: 1.088043
+Accuracy: 0.67416155

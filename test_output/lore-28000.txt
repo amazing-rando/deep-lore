@@ -1,0 +1,26 @@
+Transporter room]
+
+PICARD: What is it that you want to do? 
+WORF: No. I am a significant case. 
+PICARD: I don't think they were able to discuss this to the surface of a subspace signal. 
+PICARD: I'll see you a lot of time to see you. 
+PICARD: I'm sorry, Counsellor. 
+RIKER: What about the command conduit? 
+DATA: It is not the same. I am not sure. It was a man when I am a support of the shuttle. 
+PICARD: I do not know what you're doing. 
+DATA: I am not sure you are prepared to see the process. 
+PICARD: I don't know what to do. 
+DANILO: I don't know what to see that this man was the same time to do is the others. I would like to know what they were. 
+RIKER: I'll be in the cargo bay. 
+RIKER: What about the contract? 
+DATA: Yes. 
+LAFORGE: I don't know. 
+ROBIN: What's the situation? Why? What is in your starship? 
+DATA: I am not sure you were able to contact the Enterprise to destroy the Empire. 
+KELSEY: Why would I die that you will be able? 
+PICARD: I don't know. I would like to know what 
+
+
+Validation
+Loss: 1.098956
+Accuracy: 0.67064

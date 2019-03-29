@@ -1,0 +1,28 @@
+The Control room]
+
+(The starship wall in the control computer and a shake of a state of the computer, the controls and a shooting on a state of a strange shoulder) 
+RIKER: What is that? 
+DATA: The ship's communicator is a moment in the parameters. 
+PICARD: I want to keep you a little time to choose. 
+DATA: I am not sure that the Captain has a computer computer and a man who will be destroyed the station of the shuttle. 
+PICARD: I was the one who was a lot of more company. I was allowed to go to a ship. I would lise you to go to the Enterprise. 
+RIKER: I know that. I would like you to get to help you. I was just a little longer. 
+TASHA: I have a lot of control. I can't let you ask your son and the cargo bay. 
+PICARD: What is it? 
+DATA: To the planet surface. 
+PICARD: We have to go to the Bridge. 
+PICARD: We haven't seen to talk to them. 
+RIKER: We're going to have to get out of here.
+
+[Bridge]
+
+RIKER: Report. 
+WORF: Aye, sir. 
+(Picard enters) 
+RIKER: Come in. 
+(Troi and Romalan and Wesl
+
+
+Validation
+Loss: 1.0943774
+Accuracy: 0.67115295

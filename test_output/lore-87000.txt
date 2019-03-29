@@ -1,0 +1,33 @@
+Control sensation of the shuttlecraft to start a ship at the same. 
+PICARD: The ship is still intercepted.
+
+[Shuttlebay two]
+
+LAFORGE: We've got any idea what they went to. 
+PICARD: The shields have seen the power system in the ship in the plasma shields. 
+DATA: The security, this is the Bridge of the ship. 
+PICARD: Take us on our way. 
+CREWMAN [OC]: Captain, they're on monitor of trouble to the ship. 
+PICARD: We're going to be able to contact them. 
+WESLEY: They're still all right. 
+PICARD: Thank you, Mister Data. 
+DATA: I am ready to stand by. I am all right. 
+LAFORGE: What is it? 
+LAFORGE: I don't know what they were in there. 
+PICARD: What are the presents they would be able to determine that? 
+DATA [OC]: I have a possible structure into the ship.
+
+[Shuttlebay]
+
+(the three ship is starting to be death on the shuttlecraft)
+
+[Bridge]
+
+WORF: Captain, I am reading a power surge to transporter room three four for two minutes. 
+PULASKI: That's all right. 
+RIKER: That's the same thing. I'
+
+
+Validation
+Loss: 1.0829021
+Accuracy: 0.6753946

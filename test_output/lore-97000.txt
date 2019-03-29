@@ -1,0 +1,35 @@
+Crusher's quarters]
+(Troi is starting to go back to the shuttlecraft and she shows the device on a body at a body and the stream is standing out of the shuttlecraft is a panel)
+
+[Bridge]
+
+RIKER: We are all right.
+
+[Bridge]
+
+PICARD: Mister Data, I wanted to stay with this.
+
+[Troi's quarters]
+
+(Troi is standing back to a star has been through the bed and the door is still alone) 
+RIKER: What about you?
+
+[Troi's office]
+
+(The terms are back to the floor) 
+TROI: I'm not sure I'm sure. I'll see you. 
+(Troi leaves) 
+RIKER: What is this? 
+DANILO: What if you're trying to say that? 
+RONIN: I think I'm sure you were a little discussed by that. 
+RIKER: You'll be able to transport them to the Borg. I was just thisking about the parent that I've been there. 
+TROI: You didn't know that? 
+PICARD: I don't know. I want you to know why you're right. 
+DATA: You are a life form when you are the only one who can do that. 
+TROI: Yes, sir. 
+PICARD: I will tell you that there is a lot of possibilities and we
+
+
+Validation
+Loss: 1.0739373
+Accuracy: 0.67788434

@@ -1,0 +1,18 @@
+Station ships with the cargo bay and throw us the cargo bay off the collective and a strategy. 
+PICARD: That's all right. I'm already there. 
+PICARD: I'm sorry. I want to take a chalce of the career. I was a chance to respect the containment field. 
+RO: It was a minute. I was a good time to determine that the care will be able to talk. 
+RIKER: The past of the computer was a completely sensors. 
+RO: The man who say the calcular ship in the cargo bay on this sector. I am sure yes. 
+RIKER: It would be able to tell you that I've been able to determine that. It's almost a shields. I wouldn't have to get them to the Enterprise. 
+PICARD: Thank you. I must have a confernation to accept that. I wouldn't be able to return to the cargo ship. 
+PICARD: Thank you. 
+(a few days off the corridor, and a group, the deal of the team shakes) 
+PICARD: They're a long time. It's all right. 
+PICARD: I will not be sure to the ship. I was a good time to tell you that you're all right. 
+PICARD: I wasn't sure you
+
+
+Validation
+Loss: 1.1439359
+Accuracy: 0.6569484

@@ -1,0 +1,34 @@
+Ship's Control system that the shuttlebay traces have returned to the Enterprise.
+
+[Bridge]
+
+PICARD: The ship is important. 
+LAFORGE: Aye, sir.
+PICARD: Transporter room, prepare to reach the ship and the shields are fully continuing to start. 
+LAFORGE: I don't know what the shields aleng the ship and the status. 
+DATA: I am appreciated. 
+PICARD: Ensign, set course. 
+WORF: The Enterprise has been designed to adjust. 
+RIKER: I do not know what that was about. 
+PICARD: Is that a position? 
+DATA: Yes, sir. It is a subspace device of the surface to sense the ship is attacked by. 
+PICARD: The ship is in the ship and the shields. 
+DATA: I am picking up another shuttle through the control systems. 
+PICARD: Thank you, Mister Data. 
+DATA: The shields are down to twelve million kilometres. 
+PICARD: The ship is in the ship. 
+DATA: The Enterprise is controlling the Enterprise to the Bridge.
+
+[Engineering]
+
+LAFORGE: I don't know what they can't do. 
+PICARD: They have an energy surge.
+
+[Bridge]
+
+WORF
+
+
+Validation
+Loss: 1.0816661
+Accuracy: 0.6766789

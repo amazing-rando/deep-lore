@@ -1,0 +1,36 @@
+Castain Picard.
+
+[Bridge]
+
+WORF: Sir, the sensor readings within the planet surface in the starboard bow. 
+PICARD: Standard orbit. 
+WESLEY: Shields up. 
+RIKER: Set course to Sixteen seconds. 
+WESLEY: Aye, sir.
+
+[Bridge]
+
+PICARD: Maintain shuttlebay two.
+
+[Bridge] 
+
+RIKER: Report. 
+RIKER: Stand by. 
+(The ship starts to come back into a control pad, a computer stream goes off and starts standing on a ship)
+
+[Bridge]
+
+WORF: Shields are dead by the planet. 
+PICARD: Stand by. 
+(the ship starts taking the ship's charber and a stars around the ship is staring out of the containment field. The shuttlecraft are being attacked by the boy and she puts the ship and the shuttlecraft are beamed away. The ship is standing on) 
+PICARD: Maintain a course for Starbase one three three two one. 
+WESLEY: Aye, sir. 
+RIKER [OC]: Stand by. 
+(They are beamed out of the conduit when they are back out of the corridor. 
+PICARD: I want you to take a complete power to complete a second. 
+RIKER: I want to say a cond
+
+
+Validation
+Loss: 1.0829564
+Accuracy: 0.6756175

@@ -1,0 +1,27 @@
+Called Strategema 
+(Picard enters) 
+PICARD: Well, we'll be able to see if they would be something that the shield will be able to reach this ship that we've been destroyed. I would like to see them as an android. 
+PICARD: I don't know what you're dead. 
+(the shield leaves) 
+LAFORGE: I don't know. I didn't think she was able to tell. 
+TROI: I don't know what's going on. 
+PICARD: I don't know. I'll be alone. 
+PICARD: I don't know. I don't know what you have the concern. 
+RIKER: Well, I don't know. I don't know. 
+PICARD: I'm not sure I'm not going to be a little big. 
+RIKER: What's wrong?
+
+[Corridor]
+
+RIKER: I've asked you to know what they want. 
+PICARD: I am sure you were to be a longer than the container. 
+PICARD: Well the shuttle is allowed to be so sorry. 
+PICARD: Well, there's a problem with the Enterprise and the ship's computer is a little. I was able to stay here to the ship. 
+PICARD: Well, I'm not sure I don't know. 
+RIKER: What is it? 
+DATA: There is a sense of survey of an anc
+
+
+Validation
+Loss: 1.110143
+Accuracy: 0.66693497

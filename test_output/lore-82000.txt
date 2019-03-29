@@ -1,0 +1,29 @@
+The Betreen 
+(The ship is beamed away) 
+TROI: I think I should have some second thing to see you. 
+PICARD: I wonder what they're going to be. I wanted you to take a look at this. 
+(the books are beamed out of his hand)
+
+[Transporter room]
+
+PICARD: Come, Mister Data. 
+DATA: The power is imminent, sir. 
+RIKER: They were a lot to take a security toam and set a course to the ship.
+
+[Bridge]
+
+DATA: It is a simulation on the shuttlecraft and the sensors are being seen as a simulation of the survivor. 
+PICARD: On screen. Mister Worf, we're ready.
+
+[Bridge]
+
+DATA: Captain, this is the Borg. 
+PICARD: Transporter room three, this is Commander Riker. 
+RIKER: Actually the programme is near your part of any surprises in the past two yours ago, I was a ship and I was about to see. I don't know how they were able to consist that the particle field was a static ship. 
+RIKER: The shuttle is still in a change of an ancient power surge. It's always well the same time too much to take a ship. 
+PICARD: Wha
+
+
+Validation
+Loss: 1.0738673
+Accuracy: 0.6776851

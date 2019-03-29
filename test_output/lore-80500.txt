@@ -1,0 +1,36 @@
+The Captain's log. Computer, set a power transfer. 
+WORF: Aye, sir. 
+RIKER [OC]: Aye, sir.
+
+[Bridge]
+
+DATA [OC]: An antimatter sensor response, Captain. 
+PICARD: What's the probe? 
+DATA: The sector is not a problem. 
+LAFORGE: The probe's power surge in the probe was a security stream. The ship's sensors are already designed to transport them to the surface and represent the shields. 
+DATA: The present controls, the ship's power systems are sent to the probe. 
+RIKER: We have to transport them on the starboard contact with the ship's course to the ship's shields. 
+WESLEY: Aye, sir.
+
+[Bridge]
+
+RIKER: What is it? 
+LAFORGE: I've got to try to destroy the station. 
+RIKER: Where is it? 
+LAFORGE: I'm not sure. 
+RIKER: Where are you? 
+LAFORGE: The sensor readings are still on the probe.
+
+[Engineering]
+
+LEAH: We have an away team to the Bridge. 
+RIKER: We're ready to beam up. 
+PICARD: Make it so. 
+WORF: The ship is in the ship's sensor shield. 
+RIKER: They're all right. 
+RIKER: I'm not all right
+
+
+Validation
+Loss: 1.0804197
+Accuracy: 0.6758838

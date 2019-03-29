@@ -1,0 +1,28 @@
+The Enterprise. 
+PICARD: Come. 
+RIKER: We're ready to start. 
+PICARD: We are all still in transporter room four three one four one two one five. 
+WORF: Sir, the power readings are ready. 
+PICARD: Mister Worf, we're going to have to see it and transport him out of the shields. 
+DATA: I am able to determine the starboard control system. 
+PICARD: Make it so. 
+WORF: Captain, we are approaching this ship. 
+RIKER: Make it so. 
+WORF: Captain.
+
+[Bridge]
+
+PICARD: We have to go to warp six on main shields. 
+DATA: Aye. 
+PICARD: Engineering is ready to recognise the shields. 
+WORF: Aye, sir. 
+(Troi and Data are attacking the chip and the door opens and the desk state of a security team are seen in and starts to set us a little thing with a strench of the shields and stands by the shields. Troi in the corridor are still alive) 
+PICARD: Mister Worf. 
+(They are standing on a shake) 
+RIKER: We're ready. 
+WORF: Captain, there is no reason to do it and sense the communication with a starship of the plan
+
+
+Validation
+Loss: 1.0797063
+Accuracy: 0.6759983

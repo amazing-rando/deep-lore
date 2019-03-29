@@ -1,0 +1,24 @@
+The ship with a serious chance to start the same problem.
+
+[Bridge]
+
+DATA [OC]: I have no conclusion of a problem.
+
+[Bridge]
+
+DATA: I am not a present possibility. It is a possible sensor system we have been able to contact the ship in the shuttlecraft there is a simulation. 
+RIKER: Where are they something? 
+DATA: It is not a subspace subspace sensors and a shuttlecraft will not be able to detail our shields. 
+PULASKI: The sensor room is supposed to be able to do the shields. 
+DATA: There is no one who has been able to distract the Enterprise. 
+RIKER: Then what about the shields and the crew on this? 
+DATA: The subspace field is a problem with the ship in the control power. 
+PICARD: Why don't you discuss it and then that is an android when you're able to determine the command. 
+RIKER: It should be a good conclusion. 
+PICARD: Well, the shuttlecraft is a strange supply system with an emergency surface with the Enterprise. 
+PICARD: The probe has a probe to see the control reading  and we
+
+
+Validation
+Loss: 1.1201802
+Accuracy: 0.66453993

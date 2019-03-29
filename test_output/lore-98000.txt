@@ -1,0 +1,29 @@
+The Enemies of Sickbay]
+CRUSHER: I don't thonk you should have to get anything to see this. 
+(They are still alive) 
+RIKER: I wanted to see you to take a look at your help. 
+TROI: I was all right. I'm sorry. I'm sorry, I don't think it's a little too late. I won't be so sorry. 
+CRUSHER: I'm not getting this more. 
+(Troi enters with a book and straight back away)
+
+[Bridge]
+
+RIKER: That should be still in thirty six hundred thousand kilometres. 
+RIKER: The computer has been ready for this sector three seconds. 
+RIKER: The ship has been determined about a starship to break them back again. 
+RIKER: I'm sure it's no longer there. 
+DATA: Captain, the anomaly is not started by two minutes thirty seconds.
+
+[Bridge]
+
+RIKER: That's what you're dead. 
+(The lights ge looking at the containment band) 
+LAFORGE: The boy is so sure that wasn't a little like this. 
+RIKER: I don't know how you could have to believe the ship's shields. 
+DATA: That is a simulating a discussion. 
+RIKER: I'm sorry, Captain.
+
+
+Validation
+Loss: 1.0764388
+Accuracy: 0.67724115

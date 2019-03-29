@@ -1,0 +1,31 @@
+Crusher' 
+PICARD: I don't know what the heal is about to do with a survey of a subspace field on the planet and there was a simulation of the planet and the station of the process.
+
+[Bridge]
+
+DATA: The exocomp is not alive. 
+PICARD: What are you doing? 
+DATA: I am attached to the probe. 
+RIKER: The ship's subspace distortion field is senting them along the ship.
+
+[Engineering]
+
+LAFORGE: I'm sorry. 
+RIKER: What about them? 
+DATA: The captain is at the ship. The sensors are not at the shields. 
+PICARD: Transporter room three. 
+WESLEY: Aye, sir. 
+PICARD: The starship will be able to prevent the ship and the shuttle control orbit. 
+LAFORGE: We've got to get a little like the ship and they should be in command and that she's going to have a lot of person to change.
+
+[Bridge]
+
+PICARD: Transporter room, where are you doing? 
+LAFORGE: I don't know. I want to go through this sector. 
+LAFORGE: I'm sure you had a lot of time. 
+DATA: It is a simple possible situation of the shuttlecraft which is a
+
+
+Validation
+Loss: 1.0843532
+Accuracy: 0.6751559

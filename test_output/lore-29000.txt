@@ -1,0 +1,30 @@
+Completely several thirty seconds.
+
+[Bridge]
+
+PICARD: What's the mate of station? 
+LAFORGE: I've been able to start the shuttlecraft and the stars is the shuttlecraft. 
+PICARD: The shields are still in the ship's station. 
+PICARD: The shield has been transferred in the stream of the transfer. 
+RIKER: The shield is still in a communicator on the starboard shields and they were to stay out of the transporter room. 
+RIKER: The Enterprise is to the shuttlecraft as they are all surprised. 
+RIKER: There is no response. 
+DATA: It will be a possibility.
+PIKER: There are several times to stop them. The station is a second transporter range. There is no way to see if they can talk about two people through the structure. 
+RIKER: I don't know. 
+PICARD: Increasing to the starbase. There is a second officer. 
+PICARD: Thank you. 
+WORF: Aye, sir.
+
+[Cargo bay]
+
+(Picard is at the corridor as the transporter room]
+
+RIKER: Where are you doing? 
+DATA: The ship's computer is at a continent system. 
+RIKER: I
+
+
+Validation
+Loss: 1.0975118
+Accuracy: 0.6709438

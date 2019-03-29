@@ -1,0 +1,29 @@
+Commander Riker's quarters]
+
+CRUSHER: I've got a few hours ago. 
+RIKER: I think I don't wish to see the same thing that you were. 
+PICARD: I would be able to send the surface from the Enterprise. I've got to go to the shuttle. 
+RIKER: I think I've been there.
+
+[Courtyard]
+
+(Picard in a second of the contract with the contract on the ship shakes) 
+PICARD: What's the moment? 
+CRUSHER: I hope you were about to see me.
+
+[Ten Forward]
+
+(Picard is a star off a strength of the ship's controls and starts beamed abourd) 
+PICARD: We can't look for the same time. 
+RIKER: We wish to be able to send to the ship there was an entity the containment field in the core. 
+PICARD: I am not sure they were about them. 
+PICARD: I don't know how to do with the computer and thank you. I'll stop you and I wanted to see you again. 
+(The security guard is still being hands the back of the bar) 
+RIKER: What are you doing? 
+DATA: The sensors indicate that the security of the ship is alive. 
+PICARD: Well, it would b
+
+
+Validation
+Loss: 1.096695
+Accuracy: 0.67181975

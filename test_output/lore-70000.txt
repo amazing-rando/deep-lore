@@ -1,0 +1,25 @@
+The Contiction. The Enterprise, ser officers are on a security command on the Bridge. 
+RIKER: The ship was able to return. 
+RIKER: The Enterprise is the same ship as well. 
+RIKER: The Enterprise has been attacked before we can get the probe. 
+PULASKI: I can't get the ship and take a look at this ship. 
+RIKER: What is it? What about the planet? 
+RIKER: The Enterprise has a control of the matter of the shuttle crash. 
+RIKER: We're not going to help him. I want to know why I wanted to see him. I didn't think I'd like to say about. I don't think so. I don't know.
+
+[Ten Forward]
+
+(The ship is a straight beacon) 
+PICARD: I'll see you this simulation. 
+WORF: Sensors are pinking up a power surge.
+
+[Batris corridor]
+
+(Picard is standing at the border of the station and starts to start to start at the station) 
+RIKER: The Enterprise has a sensor readings from the survivors. 
+DATA: The sensors are being strong reports from the communication of the shuttle are standing by for the contact with the 
+
+
+Validation
+Loss: 1.0810263
+Accuracy: 0.6757556

@@ -1,0 +1,32 @@
+Bridge.
+
+[Bridge]
+
+RIKER: I don't know.
+
+[Bridge]
+
+RIKER: We've get the saucer section of a second signal for the computer systems. 
+DATA: The shuttle is complete. 
+RIKER: I couldn't have to go. 
+PICARD: We're not going to have a second thirty seven hundred hundred hours and several three hondur of the ship.
+
+[Transporter'room]
+
+(Picard and Doca entirs carrier is still an interest to the source of the starship Enterprise to the ship shows the computer resonance on the ship)
+
+[Bridge]
+
+PICARD: What are you sure? 
+DATA: I have a second signal for the same signal to the ship. I will not believe that I will not support the computer to send the ship and track to the ship. 
+PICARD: We'll be the same sign of this planet. I have a lot of tried to say to you to show me to do that. I wasn't trying to do it. 
+PULASKI: It's a planet. 
+PICARD: I'm sorry, I can't do it. 
+(The door bears his head are being striked and the planet subsprces and a shield are beamed at the planet) 
+PICARD: What is it? 
+D
+
+
+Validation
+Loss: 1.1557066
+Accuracy: 0.6527028

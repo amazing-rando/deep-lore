@@ -1,0 +1,26 @@
+The Borg of Commander Data and Data enters) The second ship is not a command of the Enterprise to the shuttle. 
+PICARD: That ship will not be able to see them. 
+DATA: Aye, sir. 
+PICARD: We're going to take the shields to the ship and the Enterprise have been the only one that would be a state of time. 
+RIKER [OC]: Aye, Captain. 
+PICARD: Anything the explanation will be so considered a security sentiment? 
+DATA: The cargo bay five is not a class star system. I am picking up a computer transfer to the subject for an antimatter structure of the plasma shift and the ship's ship. 
+LAFORGE: There's nothing there that we can see. 
+DATA: Aye, sir. 
+PICARD: Sometimes, I don't know. 
+RIKER: We're all right, Captain.
+
+[Bridge]
+
+PICARD: Transporter Room, have you been this thing? 
+DATA: The ship is at the same signs of their containment field. 
+PICARD: The Entity is the one who's going to be something wrong with the same time.
+
+[Bridge]
+
+DATA: Captain, the ship has a reading on the ship in the are
+
+
+Validation
+Loss: 1.0791683
+Accuracy: 0.6766375

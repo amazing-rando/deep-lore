@@ -1,0 +1,21 @@
+Cargo bay 
+
+Captain's log, stardate 45359.1. The Captain is a security team and another of the Enterprise will be able to distreate the transporters. 
+PICARD: Are you sure that the shields are still in a manner too bad and seems that the shields are doing. 
+DATA: I believe so. 
+RIKER: We've got the same thing to discover what they do. 
+RIKER: I was thinking about it to make this ship to be the best time than I was a long time and I've been this interesting. 
+DATA: I will try to see you. 
+LAFORGE: I'm sure they're going to have to talk to him. 
+CRUSHER: I'm sure that's why I'm going to be. I want to see you. 
+(the disruptors are back to see the bar on the floor) 
+RIKER: What is that? 
+WESLEY: Well, to see you again, Doctor. I'm sure you're going to be able to see the same. 
+(They walk to the back at the book) 
+WESLEY: I think I've got the command star here. I'll stay aword and stay away from the Enterprise. 
+(the beat of a start with a big strange passage and the door opens and sits in 
+
+
+Validation
+Loss: 1.0786966
+Accuracy: 0.6758838

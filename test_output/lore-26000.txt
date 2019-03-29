@@ -1,0 +1,31 @@
+Corridor. 
+RIKER: It's a possible computer from the Enterprise as well. 
+PICARD: All right, the controls are alive.
+
+[Sickbay]
+
+CRUSHER [OC]: What is it? 
+RIKER [OC]: I'm sorry, sir. 
+RIKER: We've been interested in the computer. 
+RIKER: Aye, sir. 
+PICARD: We're going to have to see the contact. 
+RIKER: Aye, sir.
+
+[Sickbay]
+
+CRUSHER: I can tell you there are some time to determine what I couldn't be able to do. 
+PICARD: We can tell me that the security contact will have to do is an answer. 
+RIKER: We were all right. I can tell you that you will be allowed to be something to represent the programme. 
+PICARD: Well, the concern is that we'll be able to represent the control of the computer subspace field. 
+PICARD: What are you said? 
+DATA: I have an interface. 
+PICARD: We could contact the power transfer. 
+RIKER: All right, we'll get in a few days ago. 
+RIKER: What are they doing? 
+DATA: The controls are now at the matter of the problem. 
+RIKER: We have to detect the computer system with 
+
+
+Validation
+Loss: 1.100732
+Accuracy: 0.6686691

@@ -1,0 +1,29 @@
+Computer, sir.
+
+[Bridge]
+
+DATA: It is a problem.
+
+[Bridge]
+
+DATA: The shield is designed to be able to destroy the planet and the shuttle is controlling the ship. The Enterprise is coming through. 
+PICARD: They're not supposed to be a problem. 
+LAFORGE: The signal is the only one of the starship Enterprise. 
+PICARD: The computer will be able to send them back. 
+DATA: I am not confined to the computer. 
+RIKER: The shields are still into the ship. The ship is still in the station. 
+PICARD: The second time is the other way to this ship in the planet surface. 
+DATA: I will be able to rule the shields. 
+RIKER: We've got to take a chance of a ship in the starship Empire within sensors. 
+DATA: I would like to stay here and the ship will be able to contact the shuttle and transport a ship in the ship. 
+PICARD: What's the ship? 
+LAFORGE: I've been able to see the shields. 
+DATA: The shields are destroyed. 
+PICARD: They were attacked. 
+LAFORGE: I'm sorry, sir. 
+PICARD: That's not that. I won't b
+
+
+Validation
+Loss: 1.0858376
+Accuracy: 0.6737058

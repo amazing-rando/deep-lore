@@ -1,0 +1,23 @@
+Shuttlecraft]
+
+PICARD: I will not see the truth of a surge of this ship and the ship is too langer of the crew. 
+RIKER: What is the point? 
+WESLEY: I don't know. I'm not sure. 
+PICARD: What do you mean? 
+PICARD: I'm sorry. I was a matter of command. I think it was a man in this. 
+PICARD: I'm sure you don't know what you didn't see. 
+DATA-FRANK: You will have to take a look. 
+RIKER: I've got any longer there. I think it's not there. I'm sorry. I'm sorry, I thought I could do that for you. 
+PICARD: When you are to do it and this is a ship and the problems with the station. I don't know what you've discussed my father and than you will be considered the past. 
+PICARD: I'm not all right. 
+PICARD: I'll try to stop this. 
+(The doors appeers) 
+PICARD: I'm sorry, Captain. I'm sure the ship is a compater of the ship's surface. I want to see if I was the only one on the ship and a starship. 
+PICARD: What is it? 
+PICARD: I thought you're going to have to see them and I have any of this. 
+PICARD: 
+
+
+Validation
+Loss: 1.1088979
+Accuracy: 0.6670395

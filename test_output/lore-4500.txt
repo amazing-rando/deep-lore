@@ -1,0 +1,24 @@
+Bridge.
+
+[Bridge]
+
+RIKER: What is that? 
+WORF: I am not sure that is it is that she's a sentiment of the Enterprise to transport. 
+PICARD: It's all right. I don't thought I was trying to see you the ship will have to be a man and this is a power from the ship. 
+RIKER: I don't know we could get a chance to see you. I can't stop it to be a particular transport. 
+RIKER: What are you doing? 
+DATA: Aye, sir. 
+RIKER [OC]: And that would be a programme to see you. 
+RIKER: I've seen any signal from this ship with the same thing I'mesure you will be a little time. I want you to see that you wish to be a present that I could say that I was trying to do it to the same sime that I can't decide that you're going to be about to be a problem. 
+PICARD: And that is it that I want to do it. 
+RO: Why don't you think they will be dealing that you wanted to be able to send the control of the probe? 
+WORF: I am not a particular probe. 
+RIKER: I'm not sure I've got to get to the containment probe.
+
+[Bridge]
+
+
+
+Validation
+Loss: 1.176583
+Accuracy: 0.64815736

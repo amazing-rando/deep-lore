@@ -1,0 +1,36 @@
+The Street. 
+(The station shakes and throw the door open) 
+PICARD [OC]: I want to see you. 
+PULASKI: That's what's going on? We've got a look at it. 
+PICARD: I'm sorry, Doctor. 
+CREWMAN [OC]: Aye, sir. 
+PICARD: Well, this is Captain Picard of the USS Yamato. 
+PICARD: What is it? 
+WORF: I am not supposed to be able to retrieve the ship. 
+RIKER: We have a minimal station on the ship. 
+PICARD: What's wrong with? 
+DATA: The possibility in the ship's status on the ship is continuing.
+
+[Bridge]
+
+PICARD: Welcome to the Bridge. 
+WORF [OC]: Aye, sir. 
+(The ship shoots the desk) 
+LAFORGE: What's the problem? 
+DATA: I beg your progress, Commander. 
+RIKER: Sir, I'm going to be able to recognise the ship. 
+PICARD: I'm sorry, Data. 
+DATA: Thank you, Captain.
+
+[Bridge]
+
+WORF: Sir, the shields are still in transporter room three. 
+PICARD: Then what is it? What are you doing? 
+DATA: It is possible for an energy fluctuation in the planet. 
+PICARD: Transporter room three. 
+(The ship is staring at the shu
+
+
+Validation
+Loss: 1.0837334
+Accuracy: 0.67469025

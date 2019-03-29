@@ -1,0 +1,20 @@
+The Console and Riker and Riker are at the shuttlecraft) The sensors are being run in a sensor range. The cargo bay field is six hours to find a way out of the ship with the shields. 
+PICARD: That's what they're doing. 
+RIKER 2 [OC]: I want you to risk yourself to make it so. 
+RIKER: I'll stay out to the shuttle and the ship's shield goes back to the Bridge. 
+RIKER: I don't know. I'll try to get this shield at the ship. 
+RIKER: I'm sorry, Commander. I'm going to have the shields and see if the cargo beam has been transported. 
+PICARD: I'll go to your ship. 
+WORF: The second ship had been distorted. 
+RIKER: I would like them to report to the ship and the ship is a simulation of the ship. 
+PICARD: That's a good time. 
+DATA: I have no choice. 
+PICARD: I'm sorry, I don't. 
+DATA: The ship is in continuing research. 
+PICARD: I don't know. I was a little simple at a matter of transporter room to the probe. I don't know what the cause is to do. 
+RIKER: The ship is a significant personnel than 
+
+
+Validation
+Loss: 1.0769545
+Accuracy: 0.6771366

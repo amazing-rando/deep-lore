@@ -1,0 +1,27 @@
+The Captain's log. Stardate 41651.6. The Entity has already continued a positive sector of the shields. 
+PICARD: They have the Bridge. 
+DATA: There is a problem with the shuttle in the secondary computer. That is correct. 
+PICARD: The control pod is a computer control of the planet surface. 
+CRUSHER: It's a little too. 
+PICARD: What are you doing the engine core? 
+DATA: There is a similar contacn with a positive concern with the same time and the starship was able to destroy the shuttle.
+
+[Transporter room]
+
+PICARD: The ship's shields are all stabilised. 
+RIKER: Aye, sir. 
+PICARD: Thank you, Captain. 
+PICARD: That's all right. 
+DATA: Commander Riker has been there. 
+LAFORGE: I've gone to the planet and it's a state of time. 
+DATA: I am an android. 
+LUTAN: What's the problem? 
+PICARD: The primary shuttle was a lot of problems we have. The ship was able to start to set up a challenge that we're alive. 
+PICARD: Thank you, sir. 
+RO: We have to get the problems on their ship. 
+PICARD: Then 
+
+
+Validation
+Loss: 1.0765224
+Accuracy: 0.6771583

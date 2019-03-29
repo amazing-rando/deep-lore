@@ -1,0 +1,31 @@
+The Borg 
+
+Captain's log, stardate 41995.2. We have returned to the Enterprise to a computer reception. 
+RIKER: The Enterprise is in case they have a presence of the ship they couldn't have a problem. 
+PICARD: Well, that is the same control of the crew. 
+RIKER: We'll be all right.
+
+[Bridge]
+
+RIKER [OC]: Aye, sir. 
+PICARD: Mister Worf, there is a power surge that the ship will not be interfering with to bear this planet and there's no sense of the same concert. 
+PICARD: We have a problem that they have the same time to deseroy a problem.
+
+[Bridge]
+
+RIKER: The ship will be able to determine what happened. We have to see it to me. 
+RIKER: Thanks, Data. 
+DATA: Aye, sir. 
+(The ship shoots his ship in the cargo bay) 
+LAFORGE: The problem is improsed in the ship. 
+PICARD: Mister Data? 
+DATA: The shield is at a control system, sir. 
+PICARD: Mister Worf, take us out of here. 
+WORF: Aye, sir. 
+PICARD: We've got to get to the ship. 
+RIKER: We're going to head if the storms are set contact with th
+
+
+Validation
+Loss: 1.082686
+Accuracy: 0.67470604

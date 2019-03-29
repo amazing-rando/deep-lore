@@ -1,0 +1,27 @@
+Control parts 
+CRUSHER: What is it? 
+DATA: The shuttle is at the secondary communicators. 
+LAFORGE: What about their probe? 
+DATA: I believe the controls are alive, sir. 
+RIKER: What are you doing? 
+DATA: To the ship within the sensor range. 
+RIKER: When we can get together to the Bridge, we could have a reading to the ship. 
+PICARD: I don't know what you want. 
+LAFORGE: I don't know. 
+PICARD: It'll be a good reason to be a little more than that as well. 
+DATA: I believe there are no reasons for the computer and any of the entire computer around here. 
+PICARD: It would be a preventive advanced comparator. 
+DATA: I believe the carding of the shuttle's contact. 
+RIKER: The problem will take an away team to stop this ship and die in the planet and the shuttle's starship has been destroyed. 
+DATA: The problem will be detailed. 
+PICARD: That's what I was to do in the ship about the same. I want you to keep this ship and the power source of the planet surface. 
+WORF: Aye, sir.
+
+[Sickbay]
+
+CR
+
+
+Validation
+Loss: 1.0810776
+Accuracy: 0.6760338

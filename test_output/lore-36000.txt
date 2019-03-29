@@ -1,0 +1,26 @@
+The Enterprise. 
+PICARD: The ship was a station of the planet. The sensor range is a security power for the shield shuttlecraft. 
+LAFORGE: The ship's contact was sensible. 
+DATA [OC]: Aye, sir.
+
+[Crusher's quarters]
+
+(Troi is sitting a couple of hours ago and then stops the boy) 
+PICARD: I want you to stay here and I want to be a death as a stranger. I was all right about your ship. 
+RIKER: You know that? 
+RIKER: I'm sorry. I will not be able to get the shields and I will be back through. 
+(Troi and Troi are back in the control pad) 
+LAFORGE: You know what to do? 
+LAFORGE: I'm sorry, I would like to be able to get to the ship. 
+RIKER: Well the way I can find the cargo face that we're going to help you again, the one they did. 
+RIKER: I don't think they were going to be so far for a long time. 
+PICARD: You have the Bridge. 
+(the doorbell rings) 
+LAFORGE: I've been trying to stay hard. I want to see you. 
+(the door appears out of the control pad) 
+PICARD: Transporter room, let's see what
+
+
+Validation
+Loss: 1.0958935
+Accuracy: 0.67155147

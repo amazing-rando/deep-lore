@@ -1,0 +1,26 @@
+The Bridge. 
+PICARD: Are you all right? 
+LAFORGE: I wouldn't believe the computer is all right. 
+RIKER: Well, that's all. 
+RIKER: We haven't been a long time to do. 
+PICARD: I wouldn't have the control of you. I'm sorry I won't. I'm sorry I want to see you to see you that the rest of the ship. I have the same time that you're ready. 
+PICARD: Are you all right? 
+DATA: The shuttle is necting the same sensors are activated. 
+PICARD: I wish the shields are alone. 
+PICARD: And you should see the ship is too computer to the subspace control. 
+RIKER: Any of the crew is the reason for the ship around this ship? 
+DATA: The communication is not successful, sir. 
+RIKER: I have a second than the same section.
+
+[Bridge]
+
+PICARD: In an antimatter star of the surface. 
+RIKER [OC]: I've got to transport the subspace field officer at a stream. 
+PICARD: Are you sure? 
+RIKER: The shuttle in a complete condition. 
+PICARD: In the same ship and the Enterprise is trying to reach the shuttle and altern the sa
+
+
+Validation
+Loss: 1.1380658
+Accuracy: 0.65878904

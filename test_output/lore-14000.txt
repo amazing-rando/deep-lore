@@ -1,0 +1,22 @@
+The place of Starfleet Command of the ship's ship and the ship is staring and a static)
+
+[Ten Forward]
+
+(Geordi is still back in the control chip) 
+RIKER: I told you there's no sign of a little time about it. I was already too care of an anti-tist and communication. 
+RIKER: I don't think so. I'll be trying to stay hard to this ship. 
+RIKER: I thought I can tell you that I was the only one who was all right. 
+RIKER: I'll be able to stop you. 
+PICARD: I thought I'd like you to get to my son. 
+(The ship starts to be fallen by the cargo bay) 
+RIKER: We can't get the same time on the ship. 
+PICARD: I thought you're a child, there's a long time. 
+RIKER: I think I've been able to take them back to the shuttle thing. 
+RIKER: What's that the saucer concentration only this is? 
+DATA: I am not supposed to be a barge on any of the control pattern of a state. I haven't been a lot of the ship with a complete conclusion. It is an anderial to the planet. 
+PICARD: I told you, I'd like to talk to them. 
+
+
+Validation
+Loss: 1.118007
+Accuracy: 0.66467214

@@ -1,0 +1,31 @@
+The Bet of Second officer Soong as the computer station)
+
+[Courtyard]
+
+(They are beamed away) 
+RIKER: The contrary will be able to continue to destroy the subspace. 
+LAFORGE: I don't know. I did not know whether yet we've got to do with this ship.
+
+[Bridge]
+
+RIKER: The Borg stips have been all ready to stay with the shields. 
+WORF: Counsellor, I am not certain that we are not at all. 
+PICARD: We have to start a contact with the surface. 
+DATA: It is no subspace recepting a programme.
+
+[Bridge]
+
+RIKER: We have to contact the shield and reach the plasma star systems. 
+DATA: There is a possibility of any support in the star of the surface. 
+PICARD: Then why? 
+DATA: The shields are complete. 
+LAFORGE: Commander, there are no response from the plasma. 
+DATA: Commander, I have a ship in the matter of the star system to sensor range. 
+PICARD: We have to complete a second. 
+DATA: There is no response to anything to sense. The second is necessarily to be too long as that. 
+PICARD: What about th
+
+
+Validation
+Loss: 1.0883011
+Accuracy: 0.6736979

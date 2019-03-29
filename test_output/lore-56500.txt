@@ -1,0 +1,32 @@
+Control]
+PICARD: What is this? 
+CRUSHER: There is nothing to help. I can stay here with you. 
+DATA: It would be a pretty strange concern. 
+TROI: Then why do you say that? 
+RIKER: It would be a little time to run any more. 
+RIKER: We couldn't have any idea what the computer has. 
+TROI: I did not know what to say. 
+RIKER: Well, the explosion will break through. 
+TROI: I'm sorry, Captain.
+
+[Bridge]
+
+RIKER: We're going to beam the shields to the surface. 
+RIKER: What is the ship? 
+WESLEY: I didn't think so. 
+RIKER [OC]: Acknowledged. 
+RIKER: We've got a power to the ship. 
+PICARD: We're running at the shuttle. 
+RO: We have the Bridge, sir. 
+PICARD: The Enterprise has been to arrive. 
+PICARD: Then the sensors are on our shuttlecraft, sir. 
+PICARD: Then there are no survivors to the Enterprise at the shields are dead. 
+RIKER: What are you? 
+DATA: The storm is completely destroyed by a secure that we are right. 
+RIKER: What is the same thing that would be? 
+DATA: The ship's communicator would
+
+
+Validation
+Loss: 1.0864127
+Accuracy: 0.6745482

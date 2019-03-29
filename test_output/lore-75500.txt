@@ -1,0 +1,22 @@
+The Battle of The Bridge]
+PICARD: We have a little sure that they were all right. I was already been transformed. 
+DATA: I am attempting to determine that the starboard control shields are at a partial sensor range. 
+PICARD: That's what they're dealing with. 
+DATA: The cargo bay here is a signal there and the planet surface. 
+RIKER: It's the same time of static and the ship is still in computer. 
+DATA: I am reading a second. I am reacting the shuttle. 
+PICARD: I want to see yet.
+
+[Bridge]
+
+RO: I'm sorey, sir. I've been able to start with a ship. 
+PICARD: Why don't you get a look at the ship? 
+DATA: There is no response to the surface. 
+RIKER: I think we can take a chance for the cargo bay. 
+PICARD: I'm sorry. I want to know what the experience will be doing if they were the only way to detect. 
+DATA: The sensor readings are attacked in thirty seconds. It is position of a survivor. I am not concerned. I am at the same sense of structure an android an android. I am able to discuss that t
+
+
+Validation
+Loss: 1.0801531
+Accuracy: 0.6759647

@@ -1,0 +1,23 @@
+Cheir hands) 
+PICARD: We can see that you were able to run a ship and a sensor strength of the planet. It's the field in this ship. 
+RIKER: It's a starship. I'm sorry. 
+PICARD: Well, there were so experience than that. 
+RIKER: What does that? 
+DATA: The arrival is a matter of the planet and the ship is in the container and the shuttle will be able to report to their ship. 
+RIKER: It wasn't the shuttle s consider to try. 
+PICARD: It is the other time they were supposed to be a little strange things. 
+PICARD: We have a look at the ship. 
+PICARD: I don't think so, Commander Riker. 
+PICARD: We have to stay here to the ship. 
+RIKER: What do you think? 
+PICARD: What is this anything that we can do it? 
+DATA: I am a second signal for a way to do. 
+RIKER: I think it was an exploration of the problem. 
+PULASKI: The ship is alive. I don't know why they were about to get to the ship. 
+DATA: The ship was successful. 
+PICARD: I want you to control the computer, I was the only way to see, we were su
+
+
+Validation
+Loss: 1.1163863
+Accuracy: 0.66549283

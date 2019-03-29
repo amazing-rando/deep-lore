@@ -1,0 +1,22 @@
+Callular street)
+
+Captain's log, supplemental. We are ready to repair any of the ship's control room. 
+RIKER: What's the captain? 
+DATA: I want to see the shuttle and sensors. 
+PICARD: Then I was a strange control on the ship's ship with the ship and three hundred hours to see if we can get a lot of transfer beam out. 
+PICARD: What about the configuration with them? 
+LAFORGE: I don't know what to discuss. 
+DATA: It's not an empty situation. 
+PICARD: What's the star of them and then the components were all alone? 
+DATA: There is no sign of a sense of sensor strentth in the star consideration. 
+RIKER: That was a result. 
+PICARD: What about the computer control of the survey of the anti-matter? 
+DATA [OC]: I am a signal from the planet surface. 
+PICARD: Then, if you can see, the shuttle is in a few hours together, I'm sorry, I won't like to discuss the ship's computer system with that. 
+PICARD: What about the computer starship? 
+DATA: The ship will be all right, sir, but I am a significan
+
+
+Validation
+Loss: 1.1005868
+Accuracy: 0.6689414

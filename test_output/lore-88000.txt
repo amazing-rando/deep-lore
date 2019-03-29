@@ -1,0 +1,33 @@
+The Booth 
+
+Captain's log, stardate 46161.1. We have returned to the Bridge. We have recover a three distontence to access the shuttle control synchronic station. 
+PICARD: Take that offline from the ship. 
+WORF: Computer, access cargo bay two five three four three four three.
+
+[Bridge]
+
+PICARD: Captain, what if the Bridge is complete? 
+DATA: Aye, sir. 
+PICARD: Transporter room three, we're all reght about.
+
+[Bridge]
+
+PICARD: This is the Bridge. 
+LAFORGE: Aye, sir. 
+PICARD: Commander Riker, what is the ship as well? 
+DATA: I believe I have no information to compensable. 
+PICARD: Well, we can try to continue with the shuttle at the computer. 
+DATA: The ship's containment beam is closing in the core. 
+PICARD: We're goine to have th talk to the Bridge. 
+DATA [OC]: Aye, sir.
+
+[Engineering]
+
+LAFORGE: The ship's control power is clear. The computer can be able to complete the planet surface. 
+DATA: Captain, I have analysed this control of the ship's command. 
+PICARD: We could have the ship to
+
+
+Validation
+Loss: 1.0772381
+Accuracy: 0.676673

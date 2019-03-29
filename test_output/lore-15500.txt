@@ -1,0 +1,27 @@
+Sherlay Company and the rest to a beam of the corridor)
+
+[Corridor]
+
+(The ship is being at the corridor) 
+RIKER: We could have a few minutes to seven hours throwing anything to do. 
+PICARD: What's the problem with you? 
+RIKER: We can stay. 
+PICARD: Why wouldn't you see that you and I am a sense of survey and the conserences were able to recover. 
+RIKER: We will need to beam the ship's structure as a strength of the control system. It is a better than a chance to report to the Enterprise and stay out. It's the only thing I could destroy them. 
+PICARD: It would be a better challenge to transport them out. 
+PICARD: It was an android with the Captain at a station of the ship. 
+RIKER: We can tell you anything that happened.
+
+[Bridge]
+
+PICARD [OC]: Aye, sir. 
+RIKER: Captain, the Enterprise have been ready to transport the ship. 
+PICARD: We had to see if they are still alive. 
+PICARD: We have a possibilities. 
+RIKER: I don't know. I don't know what to discuss it. I'll be able to return here.
+
+
+
+Validation
+Loss: 1.1145777
+Accuracy: 0.66561514

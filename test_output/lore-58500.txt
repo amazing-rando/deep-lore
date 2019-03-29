@@ -1,0 +1,26 @@
+Countain Cases of the Council and a strong strength) The programme is in an intensity shield. The planet is still alive. 
+PICARD: What's going on? 
+DATA: The power creature is destroying the surface. 
+RIKER: We're going to be all right, but I don't know what they were. 
+PICARD: I'm sorry, Captain. I'm sorry. I wouldn't believe that what's going on. 
+PICARD: I don't know. I'm sorry, I don't know. 
+DATA: That is a possible status of things and I was a sensitive consideration. 
+RIKER: Why would you like to say? Why? 
+PICARD: I don't know what that is to do. 
+DATA: Too much.
+
+[Bridge]
+
+PICARD: Mister Data, is it the only one to do the shuttle with a planet survivors? 
+DATA: I am not at any contact with the surface and standing by. 
+PICARD: Where's your containment field? 
+DATA: There is no window in the subspace signal. 
+PICARD: Mister La Forge. 
+LAFORGE [OC]: I can't see the shuttle. 
+PICARD: Make it so. What do you think you're doing hare as a matter of thousand years? 
+DATA: The sensor 
+
+
+Validation
+Loss: 1.0850428
+Accuracy: 0.6747238

@@ -1,0 +1,26 @@
+The Constance of Sickbay. 
+PICARD: I wanted to see you in an android with this ship to meet you.
+PICARD: I am not an all of you. 
+RIKER: What? 
+DATA: I have an ancient signal for the probe. 
+RIKER: I don't think so. I would have been a lot of time to remain and tell you about this problem. 
+DATA: I assume that you and I will be able to send a search of an external action to a second. 
+JELLICO: Yes, yes. 
+PICARD: I am not a ship. 
+TROI: I don't know. 
+CRUSHER: I don't know. I don't know what you're. 
+RIKER: Why? 
+DATA: I don't know what the computer has been able to send a sensor reaction to the Enterprise. 
+PICARD: We are not a second of them. 
+DATA: The contact is a considerable distortion field. 
+LAFORGE: I don't think that would be an answer for the possibility. 
+RIKER [OC]: We have a power to set a course for a starship warp engines. 
+RIKER: Increase to the planet. 
+DATA: Captain, the shuttle had no contact. 
+RIKER: The Enterprise has a simple computer, and that's all right. 
+DATA:
+
+
+Validation
+Loss: 1.0843997
+Accuracy: 0.67506117

@@ -1,0 +1,31 @@
+Called Four. 
+(The star of the cardon are standing at a starship and starts to stop the core foom) 
+RIKER: What is it? 
+RIKER: I'm not sure. I wouldn't have to get to you. 
+WORF: Aye, sir. 
+PICARD: Make it so. 
+(The ship is doing a shuttlecraft)
+
+[Engineering]
+
+LAFORGE: I've been able to report the control readings of the corridor. 
+RIKER [OC]: Aye, sir. I've brought him a lot of tractor beam and the ship in the starbase three seconds to the shield station. The shuttle is a possibility. 
+PICARD: Mister La Forge, what's the shuttle in the ship? 
+DATA: I am at the plasma containment. 
+LAFORGE: Aye, sir. 
+(The ship stands to take an alien straight on the cargo band onto the star station)
+
+[Engineering]
+
+LEAH: I can't get this to the Bridge, sir.
+
+[Bridge]
+
+DATA: Captain, the Enterprise has been received at the ship's ship and the station will brenge a ship and supposed to be in the ship. 
+PICARD: Commander Riker, we are a position. I want you to stay on the Bridge. 
+RIKER: And the shuttle
+
+
+Validation
+Loss: 1.1162248
+Accuracy: 0.6649029

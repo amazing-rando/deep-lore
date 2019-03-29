@@ -1,0 +1,32 @@
+The Station Control 
+LAFORGE: What are you saying? 
+WESLEY: We're all right. 
+PICARD: What's the point? 
+DATA: The ship is attacked by the planet. It's the same ship and the planet's ship was set onto the ship. 
+PICARD: Well, I've been transporting us to the shields. 
+DATA: It is a problem there are no subspace fields and intensity consideration will be able to disconnect the ship. 
+PICARD: Transporter room, take us out of there, Mister Data. Data, this is the Bridge.
+
+[Bridge]
+
+DATA: That is an impact. 
+PICARD: That is the only one who could have been assigned. They are attacking the shuttle. 
+PICARD: What's wrong?
+
+[Bridge]
+
+DATA: The ship is a similar transmission, Captain. 
+PICARD: The pressure is to be sure of that starbase. 
+WORF: Aye, sir. 
+PICARD: Mister Data, what are you doing? 
+DATA: I am an accepting power to the ship.
+PICARD: We have an immine to the ship. 
+DATA: The shields we are deteriorating. 
+RIKER [OC]: I can't seem to have the problem. 
+PICARD: It is a signal. 
+DATA
+
+
+Validation
+Loss: 1.0761288
+Accuracy: 0.6769295

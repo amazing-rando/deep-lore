@@ -1,0 +1,33 @@
+Career surface with a star system. 
+PICARD: I'm not sure. 
+CRUSHER: Why did you go through the shuttle? 
+DATA: There is a possibility to determine. 
+RIKER: Why would they be absolutely a sente and decide with an explanation? 
+PICARD: There are no one on the ship. 
+PICARD: I was a problem. 
+TASHA: The primary stream in the shuttle and the problem. 
+PICARD: We will be in the shuttle. 
+RIKER: Why did they hear a complex? 
+DATA: I am attempting to retrieve the ship in the planet. 
+PICARD: The sensors are decided the shuttle is caused by the parents.
+
+[Bridge]
+
+PICARD: We have to go through. 
+PICARD: Well, I have a probe in a sensor range. 
+PICARD: What are you doing? 
+DATA: It is a problem. 
+PICARD: Why do you think? 
+PICARD: I was a problem. I was able to describe them. 
+PICARD: I would like to be in a second team. 
+PICARD: I would like to bright the precise position from the Enterprise. 
+PICARD: I assure you, I will be in a chance.
+
+[Transporter room]
+
+PICARD: I've got a course to Starfl
+
+
+Validation
+Loss: 1.0967599
+Accuracy: 0.67135614

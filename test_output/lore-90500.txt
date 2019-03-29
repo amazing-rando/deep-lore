@@ -1,0 +1,31 @@
+Command 
+
+Captain's log, stardate 44960.4. We have recovered the antimatter computer. 
+PICARD: Increase programme to secure the surface at the controls are accused. 
+COMPUTER: Thirteen minutes, sir. 
+RIKER [OC]: We are not going to give us a change of status.
+
+[Ten Forward]
+
+RIKER: I'm now sure you were able to destroy the crew.
+
+[Transporter room]
+
+(There are six months ago where he seems that the doorbell chimes are back out of the shuttlecraft. 
+PICARD: I want you to see me with you. 
+RIKER: We're not going to be able to get to the Bridge.
+
+[Bridge]
+
+PICARD: Mister Data, what's gain a lot? 
+DATA: I am attempting to detect the anomaly in a simulation. 
+PICARD: What if they were able to determine what we want? 
+DATA: The ship is completing the surface as a starship. 
+PICARD: That would seem that the ship was alive. I can't accept a completely important thing. I do not want you to know what to do. 
+DATA: I am not a concern of substance. 
+RIKER: What are the experimnce of a station of t
+
+
+Validation
+Loss: 1.0780008
+Accuracy: 0.67665523

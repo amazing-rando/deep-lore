@@ -1,0 +1,23 @@
+Command of the Bridge]
+
+DATA: The antimatter in the ship is completely disturbing an antimatter section of any communications of a creature on this sector, sir. 
+PICARD: What is it? 
+LAFORGE: It should be a sensor readings from the subspace section is some sort of starship in the starbose sector. 
+PICARD: That would be a problem. 
+RIKER: When they can't get there to transport a command of the Enterprise, we're all right he was able to stort the ship and the ship's stations are all starshin they're going to have to be able to discover that they were able to contact the ship to starbase the ship at the transporter room three. 
+RIKER: We are already on the Bridge. 
+RIKER [on viewscreen]: What if they are dead? What do you think? 
+LAFORGE: We'll be able to see if there were a containment field to the surface. 
+PICARD: We'll have to get to the ship. 
+DATA: Aye, sir. 
+RIKER: Thank you, Captain. 
+PICARD: We have an exterior sensor report of the Enterprise.
+
+[Engineering]
+
+LAFORGE: Captain, I'
+
+
+Validation
+Loss: 1.0931411
+Accuracy: 0.6719717

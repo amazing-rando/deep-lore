@@ -1,0 +1,22 @@
+Command are starting to start a starship with the shuttle area) 
+RIKER: We're going to help you and I'm going to take the shuttle to stop this. 
+WORF: There are some second team to be all weaking. 
+PICARD: We can tell you the computer was all right. 
+RIKER: Why did you do it? 
+WORF: I do not know. 
+PICARD: Why would you continue to continue the ship? 
+DATA: I am no longer the same thing that we are at anything that we are destroyed. 
+RIKER: What are you saying we don't know what that? 
+DATA: I am a probe. 
+PICARD: Well, it was a something who would bring them aboard them and the ship's computer. 
+WORF: The programme. 
+PICARD: And what was that any more? 
+DATA: That's what we would like to say that. 
+PICARD: Well, there is a power to the planet surface. 
+LAFORGE: There's nothing wrong with the ship when they were to the shields and see if we store any other ship that was all about to do when this is an android where they do. There's no real the contact with the child engineers. 
+WORF: T
+
+
+Validation
+Loss: 1.092086
+Accuracy: 0.67360914

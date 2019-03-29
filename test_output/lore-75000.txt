@@ -1,0 +1,22 @@
+Cargo bay 
+CRUSHER: Where are you? 
+(They set the passage on the ship and takes him on the starboard bow) 
+CRUSHER: Well, I'm going to have to go to the Enterprise. I'm going to have to get the ship's computer to the surface.
+
+[Transporter room]
+
+PICARD: We have a chance that the cargo boy is about to talk to the same. 
+DATA: I am a man with a ship and tried to contain an analysis of the crew as a starship. 
+PICARD: The same thing we can do to take this ship? 
+DATA: It is a possibility of the programs and the same containment beam. 
+LAFORGE: Why did they say that they don't have any conversations? 
+DATA: The control rooms are still in power to subspace stations. 
+RIKER: The same signal? 
+DATA: I am prepared to react a second time the ship was a matter of the same change of the planet. 
+PICARD: The man we could continue this time that we can get a channel to the ship. I wonder if you're ready to get the same thing. 
+(the container and the sensor array and two ships have been transferred
+
+
+Validation
+Loss: 1.0791786
+Accuracy: 0.67693734

@@ -1,0 +1,35 @@
+Caperity of Sick and the Enterprise is beamed away) There are secondary computer ships in a computer power from the Borg control. 
+RIKER: Where are they at a second? What if it is there? 
+DATA: The secondary computer is attempting to determine where you are afforming to destroy this ship. 
+RIKER: Aye, sir. 
+PICARD: Where are you saying? 
+LAFORGE: We can't get to the ship. 
+RIKER [OC]: Aye, sir.
+
+[Transporter room]
+
+PICARD: Computer, activate the Bridge and transport.
+
+[Bridge]
+
+RIKER: Where is the possibility? 
+DATA: It is a passible tractor beam. 
+PICARD: Mister Data, you will return the contact with the Enterprise. 
+DATA: I am at any subspace field. 
+LAFORGE: What are you saying? We've got to take the communication from the ship. 
+RIKER: We have to start at their computer. 
+PICARD: What if this is to be the only choice?
+
+[Bridge]
+
+DATA: I am attempting to reach a secure to the ship as a channel. I am all right.
+
+[Ten Forward]
+
+DATA: I have. 
+(The ship starts the shape of the correct 
+
+
+Validation
+Loss: 1.0779041
+Accuracy: 0.67650527

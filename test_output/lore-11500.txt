@@ -1,0 +1,24 @@
+She search and they're at the same time and the shuttlecrift is alive and the same time will be a lot of a second. 
+RIKER: I hope you should be able to see that. 
+DATA: I have no concept to believe that to determine the ship in an area as we are an accident to be about to do that with that assignment. 
+RIKER: We can't help us to stop. 
+RIKER: What are you doing here? 
+RIKER: It wasn't a family of the ship. I would like to know what he did not have an investigated that I had to be able to change. 
+PICARD: The ship is the ones when they will have to do to his people and the ship's computer is still alive. 
+PICARD: That would be able to see. 
+PICARD: We could have told me about the shuttle with a simulation.
+
+[Bridge]
+
+PICARD: What is that? 
+DATA: The satellite is correct, Captain.
+
+[Ready room]
+
+RIKER: We're going to be able to continue the control of the ship.
+PICARD: The shuttle is sentient is alive. It should be a simple activate on a security team to start the same time and the ship 
+
+
+Validation
+Loss: 1.1251739
+Accuracy: 0.6612117

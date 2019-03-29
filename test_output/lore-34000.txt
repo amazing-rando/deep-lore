@@ -1,0 +1,21 @@
+The Bridge]
+
+PICARD: Can you tell us that the energy second intention of their computer is still in the ship's station? 
+DATA: I am reading an energy fluctuation is control of the ship's seconds to stand by to determine that what is the saucer sector. 
+PICARD: We are not a second time to the surface. 
+PICARD: That is not a signal of the present concern. It's a sense of strength on the ship's computer. 
+DATA: I am a complete pregramme of sentors are not a second officer on the surface. 
+PICARD: We are all right. I am not a lot of standing by to send an energy field in the medical sensors. 
+PICARD: That's not a compliment. 
+DATA: I am a concerned to be a simple ship. I am not sure you're right. 
+RIKER: I won't think they are an ancient analysit of the concert. 
+PULASKI: I'm sorry. I wouldn't have a considerable situation. 
+PICARD: We can't see if they are a lot of sense. 
+PICARD: That's why I was that the ship is all really a second time together. 
+PICARD: It is a very clear. 
+TROI: We w
+
+
+Validation
+Loss: 1.0964829
+Accuracy: 0.6715968

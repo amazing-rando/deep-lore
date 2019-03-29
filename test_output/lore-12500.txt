@@ -1,0 +1,21 @@
+The ship and the things to the station. 
+RIKER: I'll see you too many. 
+DATA: I am not a common as a ship. I have no idea. 
+PICARD: I don't know what you have to tell. 
+CRUSHER: I want the truth of this. I want the ship to the ship. 
+PICARD: I don't know. I want you to know what you want. 
+WORF: Yes. It is a moment that the ship is all right. 
+RIKER: Well, I think I shouldn't have to go become an ore of the struggle. I'm not going to have to get out of the ship. I can't see the truth. 
+PICARD: I don't know what the experience is the shuttle to the surface. 
+DATA: I am not a little thing. 
+LAFORGE: What if the ship is there? 
+RIKER: What is it? 
+DATA: The same, the ship's probe was to be so sure. 
+PICARD: I'm not supposed to be able to take a little time to get the ship. 
+PICARD: I'm not sure they are. I can stay in the shuttle. 
+ROBIN: The computer is not a few moment that this is a star system. I would never know that we will be able to tell you anything that would have the power sour
+
+
+Validation
+Loss: 1.122974
+Accuracy: 0.6626953

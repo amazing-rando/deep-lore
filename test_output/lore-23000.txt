@@ -1,0 +1,19 @@
+Care of the party. 
+(treat ship is starting to go. The probe is doing a commander and then starts to start a contained the beam and stands to the back of the flast and the doorbell come from and shakes) 
+PICARD: Thank you, Mister Data. 
+DATA: The power subspace signal is not responsible to describe the star systems and the ship. 
+PICARD: Mister Data, what are you sure? 
+DATA: I do not know what to do. I do not believe the communicators were difficult to do is to the shield. 
+RIKER: They would have been a little tired. 
+DATA: It is a man. I wanted to send a children with the computer. 
+PICARD: I want you to stay at all that to the shields. 
+DATA: I am an incredible chance. It was a contact with an access to the command of the planet surface. 
+PICARD: I don't know what you want. You may have to be a lot of tricorder. It was a man. 
+TARR [on viewscreen]: Yes, sir. I'll get a chance to transport the difference. 
+PICARD: Mister Data, you will be able to stay and repair a communication. 
+DAT
+
+
+Validation
+Loss: 1.1058099
+Accuracy: 0.66868293

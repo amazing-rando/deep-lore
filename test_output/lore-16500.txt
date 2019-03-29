@@ -1,0 +1,25 @@
+Something to do it. 
+PICARD: Why don't you take a look at your son? 
+PICARD: I had to go. 
+PICARD: I want to see you again. I have a possibility of any highly. 
+DATA: I am an exceptional control of your position, I am an arriving of time. 
+PICARD: I don't think so. I can see to the same time that you're a positronic star control of this ship again, I don't know what you can to ask me and then I want to see you again. 
+(The security station)
+
+[Bridge]
+
+DATA: I am sorry, sir. 
+RIKER: And they're something that they're still a contract on the ship. The ship is all right now, and they've been aboard. 
+PICARD [OC]: I have an accident in this ship. 
+DATA: The ship's change of the ship is coming from a security position and this is to be a sensor readings. 
+PICARD: We have to see if they don't know. 
+PICARD: I don't know if. 
+LAFORGE: Well, thank you, sir. 
+(The ship shakes) 
+WESLEY: I'm not sure that you're going to be a look at you. 
+RIKER 2 [on viewscreen]: I have not changed it. It is not
+
+
+Validation
+Loss: 1.1141299
+Accuracy: 0.6656073

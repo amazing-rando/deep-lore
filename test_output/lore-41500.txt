@@ -1,0 +1,16 @@
+The Bridge. 
+PICARD: The Enterprise had already been. 
+PICARD: In a matter of tractor beam, we're going to have to try and this work will never be able to stay on the planet. I can tell you the rest of them. 
+DATA [OC]: I am not a power transfer beam. 
+RIKER: We have a little simple change of the ship. 
+PICARD: I want to take an expert that a people are a lift of a memory. I could have a consistant that would have been able to contact you. I don't know what this is to be the only one where you can. 
+PICARD: It was a positive positron of the stars in the ship. I was trying to see you and the precise person who was about to be allowed by the children. 
+DATA: It is a programme they were all right. 
+PICARD: What about the planet? 
+DATA: The problems are almost a matter of the process of any of the probe. 
+TROI: We will be the only one who was too clear to me about the process. I was considered that the probe is completely clear that I will not be the one where this is a better than that is
+
+
+Validation
+Loss: 1.0912255
+Accuracy: 0.67281604

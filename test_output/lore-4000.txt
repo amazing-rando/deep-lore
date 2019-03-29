@@ -1,0 +1,24 @@
+sting starships. 
+RIKER: It's a feeling what you're got to go. 
+(a complete computer) 
+POCTOR: I don't think I'm sorry, I've been the only one we've got to go. 
+(They see the computer) 
+RIKER: We've been able to stay to the ship. 
+PICARD: I'm sure you all really die in the ship. 
+PICARD: I don't know. 
+PICARD: I'm sorry, Commander.
+
+[Bridge]
+
+PICARD: There is no residuation of this computer and the control in our personal control. I wasn't there. 
+RIKER: We're, there's a sound of the command of the control.
+RIKER: I'm sorry, I don't know what you've got to go through the ship. 
+PICARD: I don't know that. 
+PICARD: I was a computer system who want to be about to talk to the shuttlecraft than the engines are new. I did not answer that. I want you to take a course to the computer. I have a computer shield into the star systems. I want you to stop it to them. I won't be able to see. 
+RIKER: What is it? 
+RIKER: I don't know what you will be a lottle starship in our computer. I want to talk t
+
+
+Validation
+Loss: 1.1856158
+Accuracy: 0.64567155

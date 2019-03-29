@@ -1,0 +1,21 @@
+Someone's quarters]
+
+(Data and Riker are back and starts to contained the ship) 
+PICARD: I wouldn't be so serious about the ship and that you were to see the part to make it so to take the constant that you're all right. I don't take any choice. 
+PICARD: I don't know. I'm sure you are a little more than that. 
+PICARD: What's that that? 
+DATA: It is a second to be a second and a moment. I have nothing to come aboard. 
+TROI: I didn't know what that may be able to do what you do in this moment if you were able to do it again. 
+DATA: It is no longer a chance to destroy the same concerns. 
+TROI: What is these people on this ship? 
+DURAS: They were not a man who wants to be able to destroy this pleasure to accept. 
+TROI: What do you think? What about this? 
+DATA: That is a massive part of the ship as a conversation in the first step of a programme and interfering. 
+LAFORGE: They're all right. 
+DATA: It is not a starship that I am a particular matter. 
+LAFORGE: I've been thinking about it. I 
+
+
+Validation
+Loss: 1.0935777
+Accuracy: 0.6722301

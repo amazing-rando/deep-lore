@@ -1,0 +1,31 @@
+Bridge]
+
+CRUSHER: Transporter room three. 
+CRUSHER [OC]: Captain, we've got to get through the station of an energy readings. 
+RIKER: Aye, sir.
+
+[Bridge]
+
+RIKER: We're ready to continue to restarch the shuttle to the ship.
+
+[Bridge]
+
+PICARD: Make it to me. 
+CRUSHER [OC]: Captain, the Enterprise is all right. 
+PICARD: Make it so. 
+(the shuttle rooms are showing a control path) 
+PICARD: Mister La Forge, when we're searing the ship with a consideration. 
+RIKER: And to a sensor research? 
+LAFORGE: I don't know. I could stay here with the strength. 
+PICARD: And what if the security of the shuttle has to be all right? 
+DATA: The shuttlecraft is not. It is a secority ship. 
+PICARD: Well, if you can do that, we won't have a little chance to stop it. 
+RIKER: I think it's a contince of an android.
+
+Captain's log, supplemental. We are contacting the Enterprise that the Federation starship Enterprise was a starship of the Enterprise. 
+RIKER: The sensors stand about to see it at the same containmen
+
+
+Validation
+Loss: 1.0962459
+Accuracy: 0.67068934

@@ -1,0 +1,17 @@
+The Alien Command. The Enterprise's programme has been at twenty seven hours from the configuration of the crew and the controls and the computer can be able to contact Shelby. 
+PICARD: I wouldn't be in the same containment field. 
+DATA [OC]: Aye, sir. 
+(and the complex ship is standing at a comm. bank of the shuttlecraft to the corredor) 
+PICARD: What is it you want to do? 
+DATA: The energy signal is completely destroyed. The shuttlecraft here is considering that. 
+PICARD: We have a power transfer of a second communication aboard the Enterprise at the station and the Enterprise. We're all right. 
+PICARD [OC]: Aye, sir. 
+PICARD: What is the possibility they're talking to me? 
+DATA: I am not certain that we hope it interested in the presence of the survivors that wer no life forms have arrived at the ship's ship is the same concert and complete any subspace signals the shields we can destiou the shuttlecraft. 
+PICARD: Transporter room, thank you for your ship to see your progress. 
+DATA
+
+
+Validation
+Loss: 1.0852371
+Accuracy: 0.67488754

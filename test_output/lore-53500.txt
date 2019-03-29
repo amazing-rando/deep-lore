@@ -1,0 +1,24 @@
+The Boy. 
+CRUSHER: I'm sorry, I don't think I'd be able to do it. 
+RO: Yes, sir. 
+PICARD: I'm sorry that you're not a ship to meet. 
+CRUSHER: Well, I'll see you again. 
+PICARD: I was able to stay into this. I won't try any more and I was too sorry. 
+TROI: I would have said that I was a little more than anything. 
+PICARD: I was a solution to telepath candles in a moment. It was an entire planet and the other sides of a security converter was a strength and start to get to the shuttle.
+
+[Bridge]
+
+RIKER: We have to get the computer to the Bridge. I'll see if we could compensate the ship. 
+PICARD: Any way to see if we can do to the shuttle with a ship to send a complicated threat? 
+LAFORGE [OC]: Aye, sir. 
+PICARD: Mister Worf, we'll see. I can't seem to be able to start a forcefield. I wanted to stay here with the ship. 
+PICARD: Any way to the Enterprise? 
+LAFORGE: I don't know. 
+RIKER: I'm not sure what this would be the ship as we left the Enterprise. 
+PICARD: Anything that was to be all
+
+
+Validation
+Loss: 1.0848573
+Accuracy: 0.6752387

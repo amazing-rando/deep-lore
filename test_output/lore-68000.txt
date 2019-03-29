@@ -1,0 +1,28 @@
+The Next One on Starbase 44405.3 12001.4 1941 and she considers a contract of the console. The shuttle is standing by to the ship) 
+DATA: There are no response to a programme of the ship's surface. It is a previous reason. 
+PICARD: Then why did you stop the shields?
+
+[Bridge]
+
+DATA: Captain, I have not been able to detect the shields. 
+PICARD: Well, that's why I can start. 
+DATA: It is not a possibility.
+
+[Engineering]
+
+LAFORGE: The second subspace field is complete. 
+DATA: Commander, tell me, sir. 
+PICARD: Come. 
+WORF: Acknowledged, Commander, but I am not sure. I am not a considerable contract. 
+PICARD: What about the ship? 
+DATA: I do not know. 
+LAFORGE: What do you think is wrong? 
+DATA: The contract in the compound of an interesting problem. I was an android and the same thing I could help. 
+LAFORGE: Well the same time I don't know why I could have to go back. 
+DATA: I am not a second contact with the ship which is an emergency power for the same case of the confinement field. 
+TR
+
+
+Validation
+Loss: 1.0799313
+Accuracy: 0.67650527

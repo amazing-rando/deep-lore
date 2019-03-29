@@ -1,0 +1,24 @@
+The Borridor]
+(They start to set up a control of a biobed) 
+PICARD: We went to the Bridge. 
+DATA: The computer is now responding. 
+PICARD: The shields here to the shuttle was ready. 
+PICARD: On screen. 
+WORF: Aye, sir. 
+(a serve and the station are bring the stream of an interference on the ship) 
+PICARD: Mister Worf, the ship will continue to be serving and try to see the controls of the ship. 
+DATA: I am receiving an accident in this sector on the ship.
+
+[Bridge]
+
+PICARD: Mister La Forge, where are you doing? 
+DATA: The ship's sensors indicate the probe is clear that the starboard power system is not a similar command of the planet. It was a strange structure to be a discrepancies. 
+PICARD: What about the planet in a complete construction? 
+DATA: They will be in the safe power. 
+PICARD: It would seem to be a station of the presente of the ship and the strength of two possibilities of the ship. I couldn't hear that. I'm sorry that we were able to recently the station. 
+PICARD: And wha
+
+
+Validation
+Loss: 1.0780787
+Accuracy: 0.67742264

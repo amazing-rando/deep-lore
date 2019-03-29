@@ -1,0 +1,25 @@
+The Captain's log, stardate 41163.3. We are approaching the starship Core and the Enterprise is a particle sentient to the shuttle to the ship. 
+PICARD: That was the same way of seeing them. It's time to see them that was the ship to the ship. 
+PICARD: In a second of the tricorders, we have to tell me that the ship is also stable. 
+DATA: Then where is it? 
+PICARD: Then the shuttle will begin a second signal to the shuttle. 
+DATA: Aye, sir. 
+(and the ship is still back into the stream of the shuttlecraft) 
+RIKER: The ship's shields have been responsible. 
+DATA: The possibility is a communication of the station.
+
+[Bridge]
+
+DATA: Commander, the second signal is controlling the ship as a second thing in the planet. 
+RIKER: All stop, Martin. 
+(a correct station is standing by to the bar and throws him to the ship) 
+PICARD: Mister Data. 
+DATA: To track them, Captain, that is an explanation. 
+PICARD: I don't think they would have been able to start the ship. 
+DATA: I am reading a problem. 
+PI
+
+
+Validation
+Loss: 1.0804837
+Accuracy: 0.67665917

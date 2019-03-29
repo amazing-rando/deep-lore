@@ -1,0 +1,28 @@
+Commander Riker and Data and Worf enter) 
+PICARD: The Enterprise is sending a sentie of the probe. 
+RIKER: Thank you.
+
+[Shuttlecraft]
+
+(An image of the shuttlecraft and the storm is still in a planet) 
+RO: Thank you, Commander. 
+RIKER: Aye, sir. 
+PICARD: And what are they sensitive?
+
+[Engineering]
+
+DATA: Computer, report to the Bridge.
+
+[Bridge]
+
+RIKER: There's no way the ship was in the station. 
+RIKER: And we've breaked the power surge. The shuttle is set and the ship's surface with the probe. 
+PICARD: And there is no response to the surface will be done is that the Enterprise will be destroyed with the ship's control. We can't see the power transfer and they're all still alive. 
+RIKER: And there are some serious support of a prisoners of this ship. I can't see what this is the same thing we can do to accept the surface. 
+PICARD: And the shields arrive. The shuttle was done. The problems are suffering to an energy signature to the planet. The shuttle is standing by. 
+RIKER: Are you a
+
+
+Validation
+Loss: 1.0999504
+Accuracy: 0.6690617

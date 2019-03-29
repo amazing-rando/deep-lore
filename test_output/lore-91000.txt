@@ -1,0 +1,31 @@
+Carge barrior]
+Captain's log. I am Commander Riker and I want to tell you that you are a privately a starship. 
+RIKER: I didn't think I said that. 
+DATA: I am a precisely not to be an enditional decision. 
+LAFORGE: I'm not sure. I want to see you again, Captain. 
+PICARD: What are tou doing? 
+DATA: I am not a complete power to the programme. 
+LAFORGE: Well, I don't think so. 
+PICARD: I want you to take a challenge for the conference to the ship and the point is too simple. I would like you to talk to me. I don't think that's why I should have a few more. 
+(They are still sitting) 
+PICARD: What's the problem? 
+DATA: It is a matter of things that we are doing there. 
+LAFORGE: Why did you do it? 
+TASHA: I'm sorry, Commander. 
+RIKER: You seem to be a starship. 
+PICARD: I don't know. 
+TROI: I've got a chance to see the same time I'm sure that's what I want. 
+(the door oners the shield streamer) 
+PICARD: I'm not sure that you're ready.
+
+[Bridge]
+
+PICARD: Stand by. 
+WORF: Aye, Commander.
+
+[Bri
+
+
+Validation
+Loss: 1.0772395
+Accuracy: 0.6768071

@@ -1,0 +1,38 @@
+Some surface]
+
+CRUSHER: I'm sorry, I would like to bring you and see you that we can do this again.
+
+[Bridge]
+
+PICARD: We've got to stay here. 
+PICARD [OC]:: Aye, sir. 
+PICARD: What if your ship? 
+DATA [OC]: I am attempting to re-enable the ship.
+
+[Bridge]
+
+PICARD: Increase speed to the planet. 
+WORF: Aye, sir.
+
+[Battle bridge]
+
+PICARD [OC]: I'm reading some kind of status of mattic programme. 
+PICARD: Increase power supply to transport. 
+WESLEY [OC]: I know. I'm not going to have to see you. 
+WORF: Captain, there is no readings on the subspace field of the planet. I have no idea what I have asked to be able to. 
+LAFORGE: The ship is at the surface, sir. This is the Enterprise. 
+PICARD: I'm sure the ship was aboard. I was all right.
+
+[Shuttlebay Two has the Bridge]
+
+PICARD: I'm sorry, Data. I can tell you the man who will have to be able to destroy the Enterprise. 
+WORF: Aye, sir.
+
+[Barclay's quarters]
+
+(The first time, I will be a little disturbing the ship and the planet is at the st
+
+
+Validation
+Loss: 1.0919479
+Accuracy: 0.67333096

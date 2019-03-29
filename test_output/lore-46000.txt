@@ -1,0 +1,17 @@
+Some shields 
+PICARD: They're not going to help you. Where is this? 
+WORF: It was a security team of the ship. 
+PICARD: What about the ship? 
+DATA: It is a possibility. The Enterprise was sent to stay at an entertainment for a malfunction of an antimatter control of the procossion of the ship. 
+PICARD: Welcome aboard the Enterprise. We're going to have to see the ship and the position will need to see if they've got a strange shield and they've got to get on the surface. 
+WORF: Contraction is still in power system. 
+LAFORGE: What is the prisoner? 
+DATA: I have been able to reach the ship's control system. It was not a position of the same. I am not sure that I am prepared to be a long signal. 
+RIKER: The positronic status is the point of the ploter that we could have supplyed the shuttle to the planet and they discover the shuttle the ship is something they could have been able to determine what happened. 
+RIKER: It's not an entire shuttlecraft. 
+DATA: I am not sure we cannot allow the
+
+
+Validation
+Loss: 1.0899886
+Accuracy: 0.6727371

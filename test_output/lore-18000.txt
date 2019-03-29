@@ -1,0 +1,23 @@
+Sickbay. Troi to Bridge. 
+RIKER: What are you doing to do this? 
+DATA: I am a substance field. 
+PICARD: Then the point on the Enterprise. 
+RIKER: It's a second time the power ship is a container on the planet and the second chance to see the transporter rock to the ship. It was a computer situation about this ship and there are some signs of a few months ago, the computer should help us. 
+PICARD: I wouldn't believe the shuttle is all right. It's a little long again. 
+DATA: I am so sure. 
+PICARD: I want you to see your particle structure. 
+DATA: I was supposed to believe that they are nothing about the ship. 
+LAFORGE: I know. I want to see the same time to disturb. 
+PICARD: I wasn't sure we're going to be hele that we're ready. 
+RIKER: What did you do? 
+LAFORGE: I don't know what the shuttle is not. 
+PICARD: It's a sense. 
+DATA: The power subspace decision is continuing. 
+LAFORGE: Well, we have to get the same time. 
+LWAXANA: I'm sure you don't. 
+(The door opers and she puts his hand an
+
+
+Validation
+Loss: 1.1131824
+Accuracy: 0.6659545

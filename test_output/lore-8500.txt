@@ -1,0 +1,26 @@
+100102. We're reading the ship with the ship's control of the ship's structure of the ship and the crew is coming on the creature.
+
+[Bridge]
+
+PICARD: Mister Data, what do you know what to do? What do you know what to do to? What are you doing? 
+WORF [OC]: I didn't know why you're doing here to start. It wouldn't have anything to discuss the problems. 
+RIKER: Why don't you? 
+RIKER: We will not be able to stay onto him to the command of the same time. 
+PICARD: Well, there's a good station of a shield ship. It would never know why you were right, Captain. 
+PICARD: What are you saying? 
+TROI: I don't know. I'll go. I can't determine you were too much to meet you and I can't do. 
+RIKER: I'm sure that we're going to have to do to her and help. 
+(They should have a shot and throws him and gets them to the controls of the corridor)
+
+[Jefferies tube]
+
+RIKER: That was the construction that I can do that. 
+PICARD: What about this? 
+DATA: I am an enterior on the planet. 
+RIKER: What about you? 
+DA
+
+
+Validation
+Loss: 1.1402615
+Accuracy: 0.6563289

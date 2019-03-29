@@ -1,0 +1,20 @@
+The Enterprise. 
+COMPUTER: The confidence we have a programme. 
+PILOT: The planet surface is not a shuttlecraft. 
+RIKER: That's true, Captain. 
+PICARD: The Enterprise has taken thirty two hundred hours to see them. 
+RIKER: The problem is increasing. 
+RIKER: The planet survived it all the only way to start there is the particle station and the starboard ship wasn't a little bit to be all right.
+PICARD: I don't think there's nothing that might be about to do. 
+LAFORGE: It's the only world of the computer. I do not want to believe the ship. 
+PICARD: That's why I'm going to be sure they'll be able to transport them to the Bridge. I'll be in the Enterprise. 
+WESLEY: I don't know. I don't know how much time we come to the surface. 
+RIKER: We've got to try to start a chance to take a ship and the storm in two minutes and the containment field. 
+RIKER: What are they standing by? 
+DATA: I have no choice to see that the ship is to stop the ship. 
+PICARD: We have the Bridge. We have the Borg ship
+
+
+Validation
+Loss: 1.0890077
+Accuracy: 0.6736486

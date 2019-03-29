@@ -1,0 +1,26 @@
+Career 
+(the ship starts to be able to get a state of the station) 
+PICARD: There is no other thing. I'm sorry that I could have been a lot to discover what to destroy the Enterprise together. I don't know how you were an order to think of your father. 
+PICARD: The ship was to the probe. 
+DATA: I am no  sure. I have never had the shuttle. 
+RIKER: The problem is a possibility of such a particular design of the planet. 
+DATA: I am not sure they will be able to complete the ship to the ship. 
+PICARD: Then the Enterprise has a problem there. 
+RIKER: That'll.
+
+[Troi's quarters]
+
+(Picard is being seen a power tricorder and stands and the ship is back in the buttle and the shuttle takes the shuttle to the surface. The storms are bad for a chance. The device is a past through the ship's ship)
+
+[Bridge]
+
+PICARD: We have to get through the shuttle. 
+DATA: The star can breathe in the planet's surface. 
+RIKER: Transporter room, take us out of tractor beam, Mister Worf. 
+WESLEY: Aye, sir. 
+PICARD: 
+
+
+Validation
+Loss: 1.0929862
+Accuracy: 0.67253786

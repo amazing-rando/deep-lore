@@ -1,0 +1,27 @@
+Based of Darkon Two. He shoots the shuttlecraft in the ship) 
+RIKER: Why? We have the Bridge to the Bridge. 
+RIKER: They're ready for a minute for a second. The shuttlecraft has been able to do the shuttlecraft and the planet isn't a child. 
+PICARD: What's the problem? 
+DATA: It was a missing position on a complete console and the shields. I hope they are not at the shuttlecraft. 
+RIKER: We're going to take the shuttlecraft through the ship. 
+PICARD: The power ship has been doing the shields. 
+WORF: Aye, sir. 
+PICARD: Well, we're going to take a lot of strength. 
+DATA: Thank you, sir. 
+PICARD: We have the Bridge. 
+WORF: Aye, sir. 
+PICARD: That would hape. 
+DATA: The ship is a massive signal that the ship is causing the shuttlecraft and are rising their commands of this ship and the computer was already in the ship. 
+PICARD: What are you doing to do? 
+LAFORGE: I'm not sure. 
+RIKER: What are you saying?
+
+[Bridge]
+
+RIKER: We have to get an analysis on the shuttlecraft. 
+PICARD: Where are 
+
+
+Validation
+Loss: 1.0899673
+Accuracy: 0.6728496

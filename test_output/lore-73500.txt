@@ -1,0 +1,32 @@
+The Borg ship 
+CRUSHER: The same way, I think I didn't know. I'll be too long to see that we should get together and see if we shall be on the surface. 
+PICARD: And that is true. 
+(the security team is beamed aboard) 
+RIKER: Some of the ship was some kind tf power systems to the planet. 
+PICARD: And what is this?
+
+[Bridge]
+
+PICARD: All right. 
+WORF: Aye, sir. 
+PICARD: Set course for the Bridge, Captain.
+
+[Bridge]
+
+PICARD: All right, what's transporting on this sector? 
+LAFORGE: I didn't know if the career is there, sir. 
+RIKER: The computer was something to do this is there. 
+PICARD: And what are you saying? 
+LAFORGE: I don't know. 
+PICARD: All right, we're going to talk to him any line. 
+(the ship starts too standidg) 
+LAFORGE: So to see that what we've got? I don't know. I think I can't get them through. 
+LAFORGE: I know that what I'm going to have to do. 
+(The ship starts standing and shares the ship and three positions) 
+RIKER: They're going to take them to shot. 
+PICARD: I was try
+
+
+Validation
+Loss: 1.0767746
+Accuracy: 0.6775035

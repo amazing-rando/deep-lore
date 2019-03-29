@@ -1,0 +1,40 @@
+Transporter room theee.
+
+[Bridge]
+
+DATA: Captain, I am concerned about the ship in the ship's computer, sir.
+
+[Bridge]
+
+PICARD: Mister Worf, we can't be able to repair the ship. 
+LAFORGE: Aye, sir. 
+(Transmission ends) 
+RIKER: Where is this programme? 
+DATA: It was no longer as the computer will be able to report to the Enterprise. 
+PICARD: Mister Worf, we have to stay on the Bridge, Mister Data.
+DATA: Computer, respond for a central contract on the starboard programme on the Enterprise and any sensor readings. 
+RIKER: Are you all right? 
+LAFORGE: I've got the container at the cargo bay thirty thousand twenty five minutes.
+
+[Bridge]
+
+PICARD: Mister La Forge, I've been able to see if you've got to get out of there. 
+(The door opens and the ship and Data are back on the bod)
+
+[Bridge]
+
+PICARD: Counsellor, we have to stop it. I can't explain. 
+RIKER: I'm sure I'll be able to talk to you.
+
+[Bridge]
+
+PICARD: Mister Worf, we've got to get to the Borg.
+
+[Bridge]
+
+RIKER: Captain, we're going t
+
+
+Validation
+Loss: 1.1025072
+Accuracy: 0.6690617

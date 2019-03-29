@@ -1,0 +1,20 @@
+The Borg Holodeck, sir.
+
+Captain's log, stardate 41166.1. The Enterprise is a complete procedure to this ship and the starship with a continuum to accept that ship is complexed in the process of the shuttle. 
+LAFORGE: I didn't know. I would have been trying to do that. 
+DATA: The sensors are also detecting an energy fluctuation on the subspace field. 
+LAFORGE: It was a little time to do that. 
+DATA: It is correct, sir. 
+RIKER: It's a little something that I want is to do that. 
+DATA: Thank you.
+
+Captain's log, supplemental. The Borg are already being started to send a security computer of the Enterprise and the station of the ship will be able to destroy the shield and the ship's surface is a state of an energy fluctuation. 
+LAFORGE: We have a lot of sense that the crew is such a conclusion they were able to destroy the planet surface. We could have seen anything to do. 
+DATA: That is carrier to this ship as well. 
+PICARD: A challenge? 
+DATA: The command is continuing to receive the po
+
+
+Validation
+Loss: 1.0786636
+Accuracy: 0.6772688

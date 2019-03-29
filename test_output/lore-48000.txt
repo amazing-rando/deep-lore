@@ -1,0 +1,30 @@
+Some on the Bridge]
+DATA: The computer's pregramme is coming from this planet, sir. 
+PICARD: Mister Data, what is it you were doing with this? 
+DATA: I believe I am prepared to be making a secondary communication of the computer. 
+RIKER: What about the planet siling and than a second chance to save the ship?
+
+[Shuttlecraft]
+
+PICARD: Counsellor? 
+RIKER: I don't think I've got to see you and I want you to start a warrior.
+
+[Sickbay]
+
+CRUSHER: What is this? 
+CRUSHER: I want to see you again. 
+RIKER: I want you to know what you're going. 
+RIKER: Well, I don't think I'll be all right. 
+RENICO: I will not be sure you will be ready to beam the beam. 
+WORF: I was a similar team. 
+PICARD: I'm sorry, Counsellor. I'm sorry, Commander. I've been able to determine what he wants to do. I can still have to do it. 
+PICARD: I'm sorry, I can tell you. 
+RIKER: I'm not sure. 
+CRUSHER: Well you haven't been a lit less than a chance. 
+PICARD: Well, I'm sure you won't let me go there. 
+ROBERT: You are still 
+
+
+Validation
+Loss: 1.0874311
+Accuracy: 0.6737394

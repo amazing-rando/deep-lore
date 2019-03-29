@@ -1,0 +1,28 @@
+Conory]
+(They are already transported into a shuttle to starboard) 
+PICARD: I think we should be able to return to the surface. 
+RIKER: I'll be able to start a ship to the Bridge. 
+PICARD: The sensors are still talking about the ship. 
+RIKER [on monitor]: I am not sure that you are a problem when the Ferengi are still on and stand by to report to Starfleet. I have a problem with your concern. 
+PICARD: I told you, Captain. I'm sure the Enterprise has been assimilated to transport to the Bridge.
+
+[Bridge]
+
+RIKER: I'm not sure. 
+PICARD: The ship is to take us into the ship. 
+WESLEY: They're not going to have to set us out of the shuttle. 
+PICARD: I'm sure you were sure that the Federation's analyses of an android will be able to stop in the ship. 
+PICARD [OC]: And we can't stop this planet.
+
+[Troi's quarters]
+
+(The boy is sitting at the floor) 
+CRUSHER: What does that mean? 
+RIKER: What do yor mant me to see them? 
+ROBIN: I'm sure the explosion will be trying to get to the ship. 
+TROI: I'
+
+
+Validation
+Loss: 1.084804
+Accuracy: 0.6748402

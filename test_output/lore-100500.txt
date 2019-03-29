@@ -1,0 +1,27 @@
+Tree of the Berrider's back. The shuttle is beamed away. The shuttlecraft and their ships are beamed away) 
+PICARD: Mister Worf, you have to continue to come to the Bridge. 
+RIKER [OC]: Aye, sir. 
+PICARD: Mister Data, what is that? 
+WORF: Aye, sir. 
+(a corridor is still beamed out of the shuttlecraft as a child)
+
+[Bridge]
+
+DATA: The probe was at the same signature of the planet survivors. 
+RIKER: What about them? 
+DATA: Ten Forward, this is a signal that could be able to recognise the shuttle to recommend them. 
+PICARD: Mister Worf, we have a securety of the ship to any computer. 
+WORF: Sensors indicate that the shuttlecraft has been reaching the shields. 
+PICARD: Mister Data, we have an awful location of anything we can do to discuss.
+
+[Shuttlecraft]
+
+LAFORGE: I could hear them. 
+PICARD [OC]: Mister Worf, when we are already trying to see the shields to the surface. 
+PICARD: We haven't accessed anything than we can do to the subspace command cortex. 
+RIKER: I've been able to stay with
+
+
+Validation
+Loss: 1.0746708
+Accuracy: 0.67738515

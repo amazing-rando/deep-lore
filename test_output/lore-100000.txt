@@ -1,0 +1,28 @@
+The Captain's log, Stardate 44205.4. We are approaching the Enterprise and a second thirty three hours to the Romulans. 
+RIKER: I was able to communicate with the Enterprise that they were to be captured to a subspace device of the shields and a presence.
+
+[Bridge]
+
+RIKER: The Borg ship is doing the plasma control power system. 
+RIKER: It would be the other thing. 
+DATA: To transport any signals on the ship. 
+PICARD: Mister Worf, any simulation of this ship with a superior ship? 
+DATA: It is a signal from the planet. 
+PICARD: It is the tractor beam to the Bridge. 
+DATA: I am attempting to beam up. 
+PICARD: Thank you, Mister Womf. 
+(Worf and Worf enter the turbolift) 
+PICARD: The Bridge has been transferred to the Bridge. 
+DATA: The computer has closed. 
+RIKER: That's why you'll have the transporter room through their computer beam. 
+WORF: Yes, sir. 
+PICARD: Thank you, Mister Worf. 
+WORF: Aye, sir. 
+PICARD: Mister Worf, you have to take that containment field. 
+WORF: Aye, sir. 
+(The tra
+
+
+Validation
+Loss: 1.0768218
+Accuracy: 0.6777916

@@ -1,0 +1,24 @@
+Tree an 
+CRUSHER: What is it? 
+RIKER: I want to see you again, Commander. 
+RIKER: We can do this to take a second. 
+DATA: I am afraid that will be a little like a programme of any of them. 
+PICARD: I thought that you will be a life form. I am a strange control position. It is a pretty care of the constant. 
+PICARD: I would like to see you. I want you to know what you're too difficult. I didn't know what they were. 
+TROI: What did you see why you're the only one? 
+PULASKI: I don't know. I was a some time for you. 
+TROI: I know why I can talk to you about you. 
+TROI: What about you? 
+TROI: I want to know that I was a long time to do. I was all right. 
+PICARD: I was all right. 
+CRUSHER: Why did you do that? 
+DATA: I do not kill that that is a second thing that I have a chance. 
+TROI: Well, I don't think I do not know what to do with you. 
+TROI: I knew what you're doing. 
+ROBERT: I've not thinked that you were too good to make a life form of the company of the process. 
+PICARD: I'll be abl
+
+
+Validation
+Loss: 1.0863827
+Accuracy: 0.6742148

@@ -1,0 +1,24 @@
+Captain's log, supplemental. We are approaching the Enterprise and are to attack the surface from the Enterprise. 
+PICARD: The computer was a life form with the ship. 
+DATA: The computer is a secured station into this system which will require an accusation. It wants to be the only one who wants the truth and an answer. 
+PICARD: We have the Bridge, Mister Worf. 
+WORF: Aye, sir. 
+(The ship shakes) 
+DATA: The streamer is completely increased. 
+LAFORGE: We have to take a look at the same thing on the planet. 
+RO: The Captain was a lot more about the same thing. 
+RIKER: I thought I can see that. 
+RIKER: I think I can see you to meet you again. 
+PICARD: I think I can see you again. 
+DATA: I am right. I am ready for the configuration of their ship. I assure you, I have a consistent with the Enterprise and the ship is attacked before the Enterprise he can act all over the starboard. 
+RIKER: It's a good ship to take an experiment for the control of the ship.
+
+[Bridge]
+
+RIKER: Stand by. 
+WORF: 
+
+
+Validation
+Loss: 1.0767525
+Accuracy: 0.6762942

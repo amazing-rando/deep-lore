@@ -1,0 +1,27 @@
+The Bottom of the Bridge]
+PICARD: What's the ship about the shuttle is that? 
+DATA: The shuttle is simply in the shuttle. 
+RIKER: We have to see them. 
+DATA: The ship is still in progress. 
+RIKER: The shuttle is some of them out of here. 
+PICARD: The shuttle's in the sector controls of the planet surface, the shuttle was all right. It should be a long time. 
+PICARD: What is it you do? 
+DATA: It is an excellent choice. 
+PICARD: What is this? 
+WOMAN: It is, a sense of an important computer would have been able to detect the problems. 
+RIKER: It was a strange communication. 
+RIKER: I would like to try the security of a chance. 
+WORF: Aye, sir. 
+(They startle to the bar and gets the book of the containment field. He starts at a control pone) 
+DATA: There are sense of the ship's subspace signal from the subspace distortion from a second threat to the surface and the ship's computer was completely respected.
+
+[Bridge]
+
+PICARD: Transporter room one. 
+RIKER [OC]: Aye, sir. 
+(The Borg are at th
+
+
+Validation
+Loss: 1.0816336
+Accuracy: 0.6755169

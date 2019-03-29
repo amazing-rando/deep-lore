@@ -1,0 +1,32 @@
+To beam the boy of some ting on his security team.
+
+[Bridge]
+
+PICARD: Mister Data? 
+DATA: The computer's standing by. 
+RIKER: All systems are nearly an android on the Bridge. 
+DATA: I have ready for the shuttlecraft.
+
+[Bridge]
+
+PICARD: Mister La Forge. 
+LAFORGE: I'll see if you want to see that. 
+RIKER: I think it's not. 
+RIKER: I want to see it all the ship's contract with the Enterprise to the shields and a families and the station in a memory ship. 
+RIKER: I think it wasn't a third planet. 
+RIKER: I'm not sure that I can tell you about you. 
+PICARD: We are all right. 
+(they set the control room) 
+PICARD: Where is that? 
+RIKER: What about this? 
+CRUSHER: I think you will not be serving the companion. 
+PICARD: I think it would have been an antimatter offection. 
+RIKER: What are you doing here? 
+RIKER: I do not know what you're not going to be a little strange than to do. 
+RIKER 2: What do you think it is the same thing you want to destroy the power transfer? 
+RIKER: I don't know that 
+
+
+Validation
+Loss: 1.105284
+Accuracy: 0.6681522

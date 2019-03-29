@@ -1,0 +1,36 @@
+The Enterprise Crusher's shuffle and there is a problem with the container. The strength of the probe is still and her standards on a station with an interference. 
+RIKER: What are you doing? 
+DATA: I am not sure. 
+RIKER: That's all right. 
+(Troi and Troi and the ship starts beamed) 
+RIKER: Where are you?
+
+[Bridge]
+
+WORF: Shields up.
+
+[Bridge]
+
+RIKER: Thanks. 
+RIKER [OC]: And there's no way to do that. 
+RIKER: Why? 
+RIKER: We have to go. 
+RIKER: Aren't you afraid we have a complete power system to their character? 
+WORF: Aye, sir. 
+PICARD: Where are they? 
+WESLEY: They're getting up to a second orbit. 
+PICARD: Transfer to the shuttle. 
+WORF: Shields up. 
+RIKER [OC]: And too much for you to do this thank you. 
+PICARD: I don't think so. I wouldn't be able to do it. 
+RIKER: What about this ship? 
+RIKER: It was not the same thing. 
+RIKER: What are you doing here? 
+DATA: The shuttlecraft is now at the starbase to the Enterprise. 
+PICARD: Where are they all about? 
+DATA: I have no chance to 
+
+
+Validation
+Loss: 1.0818422
+Accuracy: 0.6751618

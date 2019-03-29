@@ -1,0 +1,23 @@
+Sound of Sickbay]
+Captain, this is a great deal of this sector. 
+PICARD: I'm sure there's no reason to see you. 
+PICARD: I'm sorry. I would learn to be able to ask you any of your security security team.
+
+[Bridge]
+
+PICARD: Computer, increase power systems are failing. 
+RIKER: The containment field is still alive. 
+RIKER: What about the shuttlecraft? 
+DATA: The shuttle is similar to the ship's status. 
+PICARD: That way, we're going to have to settle the ship. We have to be supposed to stop the ship. 
+PICARD: And that would be the computer system with a planet in the ship that was too much as we can detect any sensor readings. 
+PICARD: I don't know what happened. Where is the problem? 
+DATA: The shield is completely interested in a sensor sensor readings of the power systems. 
+PICARD [OC]: And what if they're ready to see if to find a sensor range of the Federation star system? 
+WORF: I am sorry I had to be able to stay at a course for the Engineering. 
+PICARD: Any sign of the ship in th
+
+
+Validation
+Loss: 1.0963037
+Accuracy: 0.671368

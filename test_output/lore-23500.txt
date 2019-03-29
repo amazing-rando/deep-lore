@@ -1,0 +1,29 @@
+Call and starts to talk about the shuttle) 
+PICARD: We will be strong. 
+RIKER: We will be able to see the chips on this sector on the surface.
+PICARD: I wonder if I've been able to see you that you were to send to the ship. 
+DATA: I hope you have been able to retrieve the ship when they are all right. 
+PICARD: We will be sorry to stay here. 
+PICARD: I'm sure I would have been all the command. It won't be. 
+RIKER: I don't know. 
+RASMUSSEN: You don't have a little too much. 
+PICARD: I want to see you to that point. 
+PICARD: I don't know. It's not a command. It was a ship to see you. 
+RIKER: I don't know that I would have to die and that you were there. 
+PICARD: It's not that I have to see that. 
+PICARD: I don't know.
+
+[Bridge]
+
+PICARD [OC]: Captain, we've been able to stand by the ship. 
+RIKER: What's wrong? 
+LAFORGE: I don't know. 
+PICARD: I don't know. 
+PICARD: We will be able to return to the Bridge. 
+RIKER: I think there's no way that you're ready to stay out of the cargo bay. 
+DATA:
+
+
+Validation
+Loss: 1.1009905
+Accuracy: 0.6695589

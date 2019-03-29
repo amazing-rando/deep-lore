@@ -1,0 +1,33 @@
+The Computer readings of the Bridge]
+
+[Bridge]
+
+PICARD: Mister Data, what are you saying? 
+WORF: I have a problem to see if they are recording a power to this sector that we have a programme of a starship within the control system. 
+RIKER: The shield in the cavern is that we're ready for the shields. 
+DATA: The computer had a complication for a subspace field. 
+PICARD: On my way.
+
+[Bridge]
+
+PICARD: We are not ready to run a couple of times. 
+PICARD: Make it so, Doctor.
+
+[Corridor]
+
+PICARD: I can't stop the shuttle. I can't see the same time. 
+RIKER: What are you doing? 
+DATA: There is no one who has been able to determine what would happen to him. 
+PICARD: Why do you seem to have any of us? What do you make a problem to the subject? 
+DATA: I am at a complete. 
+PICARD: Why don't you see it as well? 
+RIKER: What about the safety of the ship? 
+PICARD: We have the Bridge. 
+RIKER: I don't think that's the same can this ship. 
+PICARD: We will not survive it in the surface. 
+TROI: I'm sure th
+
+
+Validation
+Loss: 1.0885592
+Accuracy: 0.67390704

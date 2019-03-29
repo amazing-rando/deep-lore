@@ -1,0 +1,40 @@
+The Bort of the Bridge]
+Captain's log, stardate 47998.3. The Enterprise is clearly an interesting problem. 
+RIKER: Some of the subspace field is in sector three seconds.
+
+[Bridge]
+
+WORF: Sir, the Enterprise has activated an energy field on the shuttlecraft. 
+PICARD: Stop. 
+WESLEY: Starbase zero zero zero one five seconds and security teams and secord transfer. 
+PICARD: Set a course for the Enterprise. 
+WORF: An interesting sensor range. 
+PICARD: Stand by. 
+DATA: Sir, the shields have been in control.
+
+[Bridge]
+
+WORF: They're in stand by.
+
+[Bridge]
+
+WORF: Sensors indicate that the shuttle has been able to read their shields to secure the surface. 
+PICARD: Increase power to the surface. 
+WORF: Sir. 
+RIKER [OC]: It's all right.
+
+[Bridge]
+
+WORF: Sir, I am prepared to ready for the plane are struggling the ship. 
+PICARD: On my way.
+
+[Bridge]
+
+PICARD: Make it so. 
+(The time is standing by the shuttle and then takes the street of the ship and the ship stards at the bar) 
+RIKER: When they go t
+
+
+Validation
+Loss: 1.0741789
+Accuracy: 0.67814475

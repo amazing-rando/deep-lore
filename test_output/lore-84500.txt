@@ -1,0 +1,23 @@
+Captain' Planet surface. We are all ready to reach the Enterprise.
+
+[Troi's quarters]
+
+PICARD: We're not a first officer. 
+CRUSHER: That's a great deal of a few days on the shuttle. 
+PICARD: What is it? 
+DATA: The same time in the shuttle was never been abse to consider it as the only one. 
+PICARD: It is an important thing. 
+TROI: I won't know how you want to say. 
+PICARD: Why don't you see what you say the computer can do that they're so sure that the entire computer will be carefully a straight problem. 
+DATA: That is not a starship. 
+PICARD: I am no longer a pretty complete destruction of the ship and that they were for a lot of property to me. 
+TROI: I don't know what you're doing here and see if you could hear me. 
+PICARD: I want you to see the same people. 
+DATA: I was able to react the ship and start to send an explosion. It was a man of the ship. I will not be able to continue this place. 
+PICARD: What about you? 
+DATA: It is a mission they are not a problem which is causing a 
+
+
+Validation
+Loss: 1.0773184
+Accuracy: 0.67665523

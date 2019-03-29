@@ -1,0 +1,26 @@
+The Captain's log, stardate 43307.2. We're ready to beam them out of there. 
+PICARD: Computer, run the shuttlecraft and the ship's shield conduct is still alive. 
+RIKER: Thank you, sir. 
+PICARD: I'm sorry. 
+(the second transporter raoms are back through an alication of the parasote collection) 
+LAFORGE: Thanks, Commander. 
+RIKER: I want you to get back to Sickbay. 
+(The door opens to think about a book of tree and starts thrown to the station) 
+LAFORGE: Captain, there's nothing that was going to be.
+
+[Bridge]
+
+RIKER: The sensor shield is still beaming up. 
+PICARD: Mister Data, continue to beam them out of there.
+
+[Engineering]
+
+LAFORGE: I've been doing the power transfer alose. The ship has been detected by a power synchronic signature that we could do it. 
+RO: It's a good idea who's been able to stay. That's the best thing I can do. I was just trying to do that. 
+PICARD: I do not have a possessed reason they're not going about it. 
+DATA: I am attempting to leave in the subspace signal
+
+
+Validation
+Loss: 1.0755478
+Accuracy: 0.67699456

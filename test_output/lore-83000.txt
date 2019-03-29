@@ -1,0 +1,20 @@
+The Captain's log, stardate 41223.1. We have a contact with the Enterprise. 
+PICARD: And that's what I'm sure they're still in contact. 
+RIKER: That's what the ship's sensors are doing to be a computer sensor sensor syntem and completely and transport ship. It's a lifeform. I want you to reach the computer to the ship. 
+PICARD: I'm sure they're all right, Doctor. 
+CRUSHER: I'm sorry, I don't know. 
+PICARD: I wouldn't believe that you haven't been this to the part of the particles of the past. 
+DATA: It is a matter of componint. I ask you, Counsellor. I assure you the ship is not an android that I have never seen you anything to see that. 
+K'EHLEYR: I'm not sure. 
+PULASKI: That is not what you want to do. 
+RIKER: It was an android. I had to talk to the same time to see you. I'm not sure that you're ready to see that. 
+RIKER: I've been able to. 
+RO: I was a little thinking. 
+PICARD: I wouldn't believe that. 
+TASHA: I want to say you were to see the same parents. 
+PULASKI: I want to talk 
+
+
+Validation
+Loss: 1.0750192
+Accuracy: 0.67742664

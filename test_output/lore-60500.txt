@@ -1,0 +1,21 @@
+The Enterprise Cargo bay 
+
+Captain's log, stardate 42266.2. We are arming an energy field of the Enterprise. 
+PICARD: What was the ship in there? 
+DATA: There is nothing to do with the ship.
+PICARD: What was the computer do to this ship and the ship is successful? We can see that we will be able to return to the ship. 
+PICARD: What about the computer? 
+WORF: The Enterprise is clear to their computer and the starboard room. 
+LAFORGE: The computer has to get out of here. 
+PICARD: What about the ship? 
+DATA: The containment field is standing by for the planet surface. I am not sure that it is a chance to see it. 
+PICARD: What was it that they want to see? 
+DATA: There is a presence of a starship command of the Enterprise and the ship is concerned. 
+LEAH: Why would I say? 
+PICARD: We can tell you the same we were to the ship that would be a lot of communication in the planet. 
+PICARD: Well, if you'll be able to tell my that the condition is to see the ship's chip that we could be able to d
+
+
+Validation
+Loss: 1.08274
+Accuracy: 0.6760436

@@ -1,0 +1,30 @@
+The Bettle of Betazoid son) Captain, the shuttle was standing on the Enterprise to take us to the Enterprise. 
+PICARD: What are you doing? 
+DATA: It is a minute to sending an entire section. 
+RIKER: What's wrong with that ship? 
+LAFORGE: That's what the same way to the surface. 
+DATA: There is nothing we can do to take them and tricks. 
+LAFORGE: It's all right. I don't think so. 
+RIKER: I don't know. I don't know what to do. 
+PICARD: I don't know what they're doing.
+
+[Bridge]
+
+RIKER: There's nothing wrong with the Empire that was the only one that we had any offer to the surface. 
+RIKER: I was the only one. 
+DATA: That is a second pattern to the ship is settled. It will not be an incident. 
+LAFORGE: What does it mean? 
+LAFORGE: I don't know. 
+RIKER: Why would you see if you were the only one with that starship? 
+PICARD: That is a good time to stand by.
+
+[Bridge]
+
+WORF: The ship's communicative will send a signal for a missing section. 
+PICARD: Take us out of there. 
+DATA [OC]: Transpor
+
+
+Validation
+Loss: 1.0902134
+Accuracy: 0.67301726

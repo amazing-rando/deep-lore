@@ -1,0 +1,23 @@
+Thirty six months of the Enterprise in a computer) We're going to be standing by. 
+PICARD: Well, I've been able to contact the Enterprise. 
+RIKER: I don't think that's why I can find any other signs. 
+PICARD: What about the same control? We'll try and talk to the computer together. 
+TASHA: Aye, sir. 
+(Picard leaves) 
+RIKER: What are you doing? 
+DATA: This is a real story. 
+PICARD: We will be trying to completely return to your security synchronic system. 
+DATA: I am attempting to discontinue their shields and configuration is a security power to the surface. 
+RIKER: The controls were all alone. 
+DATA: It is a possibility. 
+PICARD: Mister Data, I want to transfer the ship through a computer system. 
+DATA: It is a problem. It is a sensor range of this sector. 
+PICARD: What about? 
+DATA: It is a similar strength of the shuttle will be designed by a second signal to the shuttlecraft. 
+PICARD: Where are you supposed to be able to discuss it through this planet? 
+DATA: I do not believe the s
+
+
+Validation
+Loss: 1.0770911
+Accuracy: 0.67777383

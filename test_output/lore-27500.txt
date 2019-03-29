@@ -1,0 +1,22 @@
+The Enterprise. 
+COMPUTER: Transporter room three three four. 
+COMPUTER: Programme to begin. 
+PICARD: The stars is in this point. 
+WORF [OC]: Captain, the Enterprise's reached an android is the same ship in the planet's ship as the Enterprise is a sense of probe. 
+RASHELLA: That's all I'm going to have to get on the Enterprise to see if you're going to be a computer ship on the Enterprise. 
+WORF: Captain, where are you determined? 
+RIKER: The Enterprise's sensitive in the ship's computer is the computer warp field. 
+RIKER: We can do it.
+
+[Sickbay]
+
+(Picard and Picard and Data and Data and Data are being heard on a starboard three ship and the door opens the bar) 
+RIKER: I thought you're going to be so long. I'll see you a few years ago, and you were a little time. 
+PICARD [OC]: Yes. 
+PICARD: That would be an empression officer to be a lot of possibility that you're going to be sure what happened to your signals. 
+LAFORGE: I have to get an analysis of the programme as a strategic survey
+
+
+Validation
+Loss: 1.0990037
+Accuracy: 0.67032826

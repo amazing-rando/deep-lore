@@ -1,0 +1,24 @@
+The Begree on the Bridge.
+
+[Bridge]
+
+DATA [OC]: Aye, sir. 
+(The container is a little shortly and takes the ship's shuttle in the core. The ship stops to get a look at the shuttle and starts so fast as a container is beaming away. The ship shoots him a strong reading an all the storms in the shuttlecraft as an alien containment blow) 
+PICARD [OC]: I wouldn't have to be able to see the ship. 
+DATA: It will be possible that the ship is cloaking at this signal. 
+PICARD: We could be in a second change of the probe and to the ship. 
+DATA: I am at any of this. It is a programme to be a chance. 
+LAFORGE: It's a little. 
+PICARD: I would be able to communicate with you. 
+RIKER: Welceme to the Bridge. 
+RIKER [OC]: Aye, sir. 
+(The shuttle is standing by and see it and the looks loke the control panel) 
+DATA: Captain, I am able to read the ship in orbit. 
+RIKER: That's a lot of people who's standing by for a word. 
+PICARD: Well, that was a little still in the same time we have to get. 
+RIKER: What
+
+
+Validation
+Loss: 1.0801134
+Accuracy: 0.676235

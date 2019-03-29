@@ -1,0 +1,19 @@
+Came of The Enterprise. The Enterprise has a power subspace field. 
+PICARD: What is the problem? 
+LAFORGE: It's a mistake to be superior the shields. I can't believe. I can tell them the same time I could cause to the ship. 
+PICARD: What's that? 
+DATA: The ship is concentrating. I have not been able to continue to retrieve this power to anyone who has been able to destroy the surface. 
+PICARD: We have to return to the ship and the ship is the other compound to the surface.
+
+[Bridge]
+
+DATA [OC]: I am reading a signal that are approaching the subspace field. 
+PICARD: Make the starboard ship and the ship and the shield computer has been all right. The ship has been continued. 
+DATA: That is correct. It was a possibility that the position would be discussing the containment field. I will be able to learn a contacn with the problem. 
+LAFORGE: I don't think so. I was there to be able to try. 
+DATA [OC]: I am receiving a second subspace field to track the containment field and the structure i
+
+
+Validation
+Loss: 1.0751001
+Accuracy: 0.6779218

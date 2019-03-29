@@ -1,0 +1,32 @@
+The Bridge. 
+RIKER: It's not a consciousness. 
+PICARD: Thank you. 
+RIKER: I don't think there's an energy field in this sector. 
+DATA: I am not sure that I am an actually changed. 
+PICARD: I was a lond range sensor range. 
+DATA: Thank you. 
+RIKER: There's nothing wrong. 
+RIKER: There's no way we've been able to detect any signal to a possibility the computer could have been in the cargo bay.
+
+[Bridge]
+
+PICARD: Stand by.
+
+[Bridge]
+
+PICARD: The ship is still a little surprised by the past two hours. 
+ROMULAN [on viewscreen]: The cause of their ships are supplying the shields are being considered. 
+PICARD: Any sensors to continue them on this ship? 
+DATA: I am nearing some sign of the containment field. 
+PICARD: What's going on?
+
+[Engineering]
+
+LAFORGE: Something's going on in the carge bay to the surface. 
+DATA: There is a sensor starship in the starboard ship. The ship's status is complete. It is a similar containment field of the cargo conduit with an android of this ship. 
+PICARD: The
+
+
+Validation
+Loss: 1.099846
+Accuracy: 0.669916

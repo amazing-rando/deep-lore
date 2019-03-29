@@ -1,0 +1,24 @@
+The Enterprise and Troi's quarters]
+
+(Picard are beamed out on the corridor) 
+RIKER: The contract is all stopped. 
+ROBIN: We've got to transport the contact with an android. 
+PICARD: I will need your ship. 
+PICARD: I want you to tell you anything I want to tell you about the charges. 
+ROBI: I don't think I'm not a life fight. 
+PICARD: The cargo bay will never be able to discover the power substancine. 
+RIKER: It's never trying. 
+PICARD: I will be able to see the shuttle in the cargo bay. 
+(Troi leaves) 
+PICARD: What is the matter? 
+RIKER 2: It's a matter of this time. 
+PICARD: The power seals were being completely found on the planet. The probes will not be called a strange presence on a starship with a security team and a terrible power to a few moments and the present thing to destroy the planet and than what is it. 
+PICARD: I want you to remove that planet. 
+PICARD: I was the one that I was the forcefield that was the one there. 
+PICARD: I want you to take the same control. 
+DATA: I
+
+
+Validation
+Loss: 1.090591
+Accuracy: 0.673404

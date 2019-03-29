@@ -1,0 +1,30 @@
+Cargo ban]
+(a security chamber is alive and starts to pressed the shuttlecraft)
+
+Captain's log, supplemental. We have already been discovered to be a second orbit of the colony. 
+RIKER: We're ready to beam up to the ship. 
+WORF: Aye, sir. 
+(Picard enters) 
+PICARD: Come. 
+(The station is being put to the corridor) 
+PICARD: What are they trying to say? 
+WESLEY: No, sir. 
+PICARD: Are you saying that the station was a complex presence of this ship, we will be able to. 
+RIKER: We're going to be able to stay on the surface. 
+PICARD: What's wrong? 
+WESLEY: What are you doing? 
+DATA: It is an incomposition of the ship's shields. I am not a survivor of any surprise of the surface. 
+PICARD: Welcome aboard, Mister Worf. 
+WORF: Aye, sir. 
+PICARD: Where is the ship? 
+DATA: It is not a precise power subspace. 
+PICARD: We have the shuttle in the control room. 
+DATA: Commander, the ship is complete. 
+PICARD: Mister Worf, this is Captain Picard. 
+PICARD [OC]: Go thead, Mister Worf.
+WORF: Captain, the p
+
+
+Validation
+Loss: 1.0808972
+Accuracy: 0.67600024

@@ -1,0 +1,34 @@
+Calebrating a class crew and starts to start a command of an enemy ship. 
+PICARD: I'm not an energy signal. 
+PICARD: I wanted you to see it.
+
+[Bridge]
+
+PICARD: Welcome aboard. 
+(Worf is starting to take a strategic complex section and starts too.
+
+[Bridge]
+
+PICARD: I'm sure you can't get this thing. 
+RIKER: It's all.
+
+[Sickbay]
+
+CRUSHER: Well, I do 't think I'm afraid there's no way to do. 
+PICARD: I want to see you the same time I can't be all right. I can't let you. 
+(Data gets an empty shoulder an and throws him) 
+PICARD: I was just a man with the probe that I would like to stop the plasma change. 
+PICARD: I'm sorry, I'm sure that's wrong and they're all right. 
+(Data leaves) 
+PICARD: Well, to see you about this planet. 
+DATA: I am not sure you will. 
+PICARD: What are you doing? 
+DATA: The problems are still alive. 
+LAFORGE: Well, I can see it. 
+PICARD: I don't know. I would have been a chance that you've been alone. 
+PICARD: Well, I wanted to stop this to you, but I was too lite a 
+
+
+Validation
+Loss: 1.1234761
+Accuracy: 0.6632359

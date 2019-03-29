@@ -1,0 +1,25 @@
+To beard and starts talking about the party and the doorbell) 
+PICARD: I'm not a lot of progressions. 
+PICARD: What if? 
+DATA: That is a programme that I have no idea what I am to lose that programming. 
+LAFORGE: That's not a possibility to me. 
+PICARD: I'm sure you're right, so what is that? 
+DATA: I am not a presence of a character of this sector of a converting control. 
+LAFORGE: I'm not sure that we have any indications to be a face that I could have been there any more time to do that will be. I can determine that any officer to the ship's systems. I can't. 
+TROI: It's not a bit of problem.
+
+[Bridge]
+
+RIKER: They're ready to recover the ship's chair. 
+PICARD: Thank you, sir. 
+PICARD: That would be the best we can take a lot of things to see. 
+DATA: I have no idea to seem to be a simple career. 
+PICARD: What about the ship? 
+LAFORGE: I don't know. 
+RIKER: I'm not sure what happened to the Enterprise. 
+DATA: It is a position to be a pattern from a man who can be able to contact the 
+
+
+Validation
+Loss: 1.1037718
+Accuracy: 0.6683791

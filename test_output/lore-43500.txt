@@ -1,0 +1,28 @@
+This ship as the shield is a transfer) 
+PICARD: Doctor, I won't believe that. 
+PICARD: I'm not geteing them to the planet. I was a little suppries of the crew. 
+PICARD: I'm not sure what you want to take a look at this.
+
+[Bridge]
+
+RIKER: I've got the computer straight in the past two hours. 
+LAFORGE: I'm sorry, Captain, I wanted to see to you about. 
+PICARD: That's what you are in the same ship. 
+LAFORGE: I'm sure the transporter room is sending us a course to a starship on the starship Enterprise and the station. 
+LAFORGE: The communicators are not a find in any other starships. 
+DATA [OC]: Aye, sir.
+
+[Bridge]
+
+DATA: Commander, the ship is completed by twenty two percent of the crew. 
+LORE: I am not curious to be imagened.
+
+[Bridge]
+
+RIKER [OC]: And the Enterprise is to beam up and the structure of the colony of the procedure. 
+LAFORGE: I'm sure they're generating any possible substances of the strength. It couldn't be an appropriate computer. I'm sure the confidence was a power trace
+
+
+Validation
+Loss: 1.0904899
+Accuracy: 0.673035

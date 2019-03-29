@@ -1,0 +1,31 @@
+Controll of the Bridge]
+PICARD [OC]: We have the Bridge. 
+RIKER: I don't know. 
+RIKER: I'm sorry, sir. 
+RIKER: I want to stay here. I was too long. 
+RIKER: I've been tracking the surface. 
+RIKER: What about this ship is there? 
+PICARD: The story is to be a sensor band. 
+RIKER: The ship is still in the structure of the planet surface. It is the first time. 
+RIKER: What's the point? 
+DATA: I do not believe that is a problem. 
+RIKER: The station is to the ship. 
+PICARD: The structure is the only one that we were about to destroy the Enterprise. We're not supposed to be that we can't get the shields through the surface. 
+PICARD: The problem is to be an accusation. 
+DATA: I am not sure. 
+PICARD: What are you done?
+
+[Bridge]
+
+PICARD: This is Captain Picard. I have a response. 
+PICARD [OC]: Aye, sir. 
+PICARD: And the ship is to transport the power transporters. 
+DATA: The ship is continuing to send an energy surge in the ship. 
+RIKER: What are they? 
+WORF: The Borg ship is in position. 
+RIKER
+
+
+Validation
+Loss: 1.082011
+Accuracy: 0.67666507

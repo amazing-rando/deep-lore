@@ -1,0 +1,15 @@
+hyos! Corn woo. The paning of seavs. I'm net the curtrou can expencidy. And the slice to have sirc can it mold but to the camely head we mayt in acl. 
+DATI: The rimate and of conter to step ation strop con an epplare. 
+TROI: Hurs. You sean you as you him not any prople to the rister parpen as along and tre shil with a mlonter. The calson life on mintieer ous portest a bas co shat. 
+RIKER: In you're going there sin. 
+RIKER: We are an thantentry. If it mas a rimuncoly wat wast to ret it? 
+DATA: You don't with that've crosime towthere into the resprinine to be for the mister flunded a can it sece fice fine to trampone, sir. The pars co leces) 
+PICARD: I'm to be a let oflactor cours. I have be in in you sone out? 
+WEMLEY: I con't know it it stids. Ihe trando stres the berornd insometalin tremsile, stre wo to le evand, bit foo mese. And, intinater cand the fladst, sig. 
+(Perads of course frach be to che one it're to about tumam the posibess) 
+CRUSHER: The don't wile of the Entinesting as we
+
+
+Validation
+Loss: 1.6947905
+Accuracy: 0.5088581

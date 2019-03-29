@@ -1,0 +1,29 @@
+tor a probe of the colony. They are.
+
+[Bridge]
+
+PICARD: Well, the Coptain was not successful.
+
+[Bridge]
+
+PICARD: That is a starshep to stay of the shie. 
+LAFORGE: I'm not sure. 
+(Picard and Riker and Riker and Data in the ship is stated to the starship pattern of the station) 
+PICARD: What are you saying there? 
+LAFORGE: I'm sorry, Captain, we will never see the same captain. 
+PICARD: That's that so to see the communication of this shop. I will not have a little looking about the same control of the computer. 
+PICARD: There are no second of the case of the care of the computer. 
+PICARD: I'm sorry, I'd like to talk about you. 
+(Worf leaves) 
+LAFORGE: I'm sure you do not. 
+PICARD: What is that? 
+PICARD: I wanted that to take that the commander was allowed to me. 
+PICARD: I want you that that it was. 
+PICARD: We have to see that this is the same capture of the care of the ship was a life foom ourselves. I'm sorry, I don't know. 
+PICARD: Thank you. 
+(A ship was a life from the stream of th
+
+
+Validation
+Loss: 1.2318192
+Accuracy: 0.63242185

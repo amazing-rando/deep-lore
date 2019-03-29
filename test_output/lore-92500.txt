@@ -1,0 +1,24 @@
+The Captain's log, Stardate 41603.4. The Enterprise is at a star system. 
+PICARD: Why do you read them? We're all right, Captain. It's a programme the control system. It'll be an anti-time on the shuttle. I don't think that's any problem. 
+PICARD: Why do you say what you could have done? 
+DATA: I am not concluded. I am aware of that. 
+LAFORGE: I'm not sure that'll be a sensor range of a survivor of the subspace. 
+PICARD: I wasn't able to represent the shuttle into a complete survivor. 
+DATA: Aye, sir. 
+PICARD: We'll be all right. I'm going to have to see that. 
+(the trantporter beam in) 
+PICARD: Make it so.
+
+[Bridge]
+
+PICARD: Mister Data, what's the point of the contract? 
+DATA: An accident is to transporter room three. I am receiving a security team on the surface. 
+RIKER: What's what? 
+DATA: And a security team is continuing the shuttle and the sector three six of our sensors to the ship's communicator and the ship's command core. 
+PICARD: Mister Data, we are ready for the ship. 
+DAT
+
+
+Validation
+Loss: 1.0765009
+Accuracy: 0.6771524

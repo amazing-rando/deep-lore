@@ -1,0 +1,26 @@
+Sickbay]
+Captain, I'm sure you will need to see me. 
+RIKER: I don't think I've seen that. 
+DATA: The saucer systems are in secure command of the ship's containment field and the ship's computer will be. 
+PICARD: Then, Mister Worf, we are the same time we came to the shields. 
+RIKER: It's not the same ship to continue. 
+PICARD: That's anything to do. 
+DATA: There are no sensor range of the planet's surface. 
+RIKER: The ship is to be able to restrict their ships and the computer considerable ship is a signal. 
+PICARD: What is it? 
+LAFORGE: I couldn't be able to see if they would like to know what happened to you. 
+PICARD: Why do we have to do that? 
+DATA: That is not the same signal. 
+PICARD: I don't know what you wanted. 
+TASHA: I didn't know. 
+PICARD: We will not have this. It is a matter of time. It was a matter.
+
+[Bridge]
+
+RIKER: We have a consistent with the planet. 
+PICARD: Well, that is a posstral pattern of this planet in the ship's computer and the computer was caused a control 
+
+
+Validation
+Loss: 1.0932875
+Accuracy: 0.6717053

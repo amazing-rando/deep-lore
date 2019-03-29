@@ -1,0 +1,31 @@
+Cargo bay 
+(The door appears) 
+PICARD: What do you mean? 
+DATA: To the ship with the star cyser of a survivors of an energy surface. 
+RIKER: What is it that the ship? 
+DATA: I am sorry, sir. The surface. 
+RIKER: We have not changed any of the ship and the planet was a little. 
+TROI: That's wrong, Captain. I have to get it to my ship. 
+PICARD: I haven't seen your ship in my quarters.
+
+[Transporter room]
+
+OGAWA: We have to go through it. 
+RIKER: We have a life form. 
+RIKER: Any sign off any other communications? 
+DATA: I have a considerably sense. It is a master of thinking on this ship. 
+RIKER: They're all right. 
+RIKER: What is? 
+TASHA: I don't know how much too much. 
+LAFORGE: Well, the shuttle was a matter of thinks that we've got to get there to think of this. 
+RIKER: We will not be able to stop the same control. 
+RIKER: What is it? 
+TROI: I was a little too long. I hope you wish to hear me. 
+(Worf and Wesley enter) 
+PICARD: I have to go to the ship. 
+(the good time took a starts ba
+
+
+Validation
+Loss: 1.1083095
+Accuracy: 0.668026

@@ -1,0 +1,31 @@
+Cargo bay 
+(The shuttle come back to the console) 
+RIKER: I don't know how to do.
+
+[Bridge]
+
+DATA: The probes are doing this time to the shuttle and computer systems. 
+RIKER: What is it? 
+DATA: The ship is complete. 
+PICARD: They haven't been able to respond to the ship. 
+DATA: I am afraid the computer is responding to the shields to the surface of the planet's surface. 
+PICARD: I want you to return to the Bridge.
+
+[Engineering]
+
+LAFORGE: I'm sorry, Captain. I've got the shields at the power system. 
+PICARD: I want to take a look at this. I want you to know that you have to get the control readings.
+
+[Ten Forward]
+
+(Picard is trying to go back away) 
+PICARD: I want you to get out of the ship. 
+RIKER: I can't be aboard the Enterprise and transporter room three. 
+PICARD: That was an incorperative possibility that the possibility is the same time they could have been able to receive this planet. 
+RIKER: The ship is a training signature that the programme. 
+DATA: To the planet she is about
+
+
+Validation
+Loss: 1.0752965
+Accuracy: 0.67698073

@@ -1,0 +1,31 @@
+The Enterprise to the Bridge.
+
+[Bridge]
+
+RIKER: That's all we can do that.
+
+[Bridge]
+
+PICARD: Transporter room two. 
+(they stant to an active stream on toe cargo bay. We are all right away. Singer and traces and takes her on the controls) 
+PICARD: What is it? 
+DATA: The communications were closed.
+
+[Sickbay]
+
+CRUSHER: I'm not sure that I can see you and the same android is a secure that I want you to sended them on a state of me. 
+TROI: I'm supposed to believe the things I'm sure you'd be able to stay on any survivors. 
+PICARD: I'm not sure. I'll take a little time to tell my mother to take a little time for them. 
+TROI: What's the different? 
+DATA: The strength is a man who is all as an exceptional strength of the shuttle. 
+PICARD: We had to tell me about that. 
+TROI: I do not know. 
+PICARD: We can't ask them to say to you about the same thing you're talking about. 
+PICARD: Why? 
+TROI: I do not know what you wast and it would be. I don't know. I do not know what you do was to learn. 
+
+
+
+Validation
+Loss: 1.088514
+Accuracy: 0.6742247

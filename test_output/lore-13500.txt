@@ -1,0 +1,23 @@
+The strange partiel of the container. 
+PICARD: I was a temporary conduit with your seconds. 
+DATA: It is an entire parent. 
+RIKER: It said that this sector is a strange preceder of this mission. 
+RIKER: It would be a problem. 
+DATA: Thank you. 
+(the patterns are singing through a starship beam in on the ship. The conduit was the station on the case and the computer is standing by a contact watches at the ship and transported by the condition and the starship appears in the core) 
+DATA: Captain, the probe is coming back out. 
+PICARD: What is it? 
+DATA: I am not a precisely transporting to the subspace station as the ship. 
+RIKER: It seems that the past the shuttle is a part of the shuttle is the shuttle an energy sector. 
+RIKER: I think I can't see what they're doing into a security survey. 
+PICARD: I am not an experiment. I am not sure you could have been sent them to the Enterprise. I will not be supposed to be a part of the structural.
+
+[Bridge]
+
+RIKER: What did you see? 
+DATA [OC]: 
+
+
+Validation
+Loss: 1.1216917
+Accuracy: 0.6639165

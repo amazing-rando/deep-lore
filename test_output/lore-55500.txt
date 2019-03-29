@@ -1,0 +1,40 @@
+The Border star system. 
+(a ball is a star system and stands through the shield and stops the strain) 
+PICARD: What are your sensors and start? 
+LAFORGE: They can see that the ship's subspace destruction in the surface is in the communication fire.
+
+[Corridor]
+
+(Troi is at a strange structure and starts back to the floor and storts to see the ship) 
+PICARD: Mister Data, yes, Mister Worf, you will need to see the ship.
+
+[Transporter room]
+
+PICARD: Come. 
+WORF: Aye, sir.
+
+[Cargo bay]
+
+(The signs of starship is a single station) 
+RIKER: What is this? 
+DATA: I have not been in the computer. 
+PICARD: What are you doing on the Enterprise? 
+DATA: The Enterprise is attempting to destroy the ship's sensors to survive a particle fountain.
+
+[Bridge]
+
+PICARD: Mister Worf, report to the Bridge.
+
+[Bridge]
+
+PICARD: Set course three three on the Enterprise. 
+CONOR: We have a sitting. 
+PULASKI: Anything wrong? 
+LAFORGE: It's all right. 
+DATA: There is a surface in an enemy. 
+PICARD: Make it so. What ab
+
+
+Validation
+Loss: 1.0860204
+Accuracy: 0.67484415

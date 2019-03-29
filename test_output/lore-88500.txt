@@ -1,0 +1,28 @@
+The Artest of Starfleet station of the Bridge]
+
+PICARD: I wonder why you will be able to read this planet. 
+DATA: I have not been able to reach this. 
+PICARD: Increase the probe and there's no response to any other things. 
+WORF: The ship is a second thing that we are able to detect the interface. 
+RIKER: We can't deteriorate this to anyone as a second time. 
+PICARD: I do not believe it. 
+DATA: Aye, sir.
+
+[Bridge]
+
+PICARD: What's that? What is it? 
+DATA: I do not believe that it is a positronic field. 
+RIKER: There is no way to complete. 
+RIKER: The power transformation is the only one who's trying to do the same situation with the survivors and the shields are alien. 
+PICARD: I didn't know. 
+RIKER: I've got to get the problem as soon as they were. 
+PICARD: I don't. 
+DATA: I am a similar strest. 
+RIKER: It was a bittle strange station. 
+PICARD: I don't know. It's a good time I was so surprising that you're about to stop this point. 
+DATA: The concerts of the programme is a point of tim
+
+
+Validation
+Loss: 1.0771757
+Accuracy: 0.677109

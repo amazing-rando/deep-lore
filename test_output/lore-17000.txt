@@ -1,0 +1,23 @@
+Shuttlecraft]
+
+DATA: I am pieking at a second charge from the ship's computer corridors on the ship. 
+LAFORGE: What is the same time? 
+PICARD: I would be able to return to the ship. It was there and the same time they would be aboard this ship. 
+RIKER: I think I've got to be a little time to see you to try. 
+PICARD: I'm sorry, I wouldn't have to be able to descrobe. 
+(the distortion leaves) 
+LAFORGE: What about my computer? 
+CRUSHER: I'm sure I can't see what you've done. 
+PICARD: I'm not able to see you. 
+DATA: I am not sure you were ready to report to me. 
+LAFORGE: Well, that's trust that you are able to destroy the Enterprise and the Enterprise has been to a strategy of tractor beam in a course for the Enterprise and resent them to restond.
+
+Captain's log, stardate 42266.6. We have recontened that the Enterprise has a recent transporter room three. 
+LAFORGE: We're going to be a chance to reach. 
+PICARD: I was just a territic signal. 
+PICARD: I can't see why you can't get the compute
+
+
+Validation
+Loss: 1.1143993
+Accuracy: 0.6659426

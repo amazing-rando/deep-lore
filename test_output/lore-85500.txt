@@ -1,0 +1,25 @@
+The Booth Control Section. 
+CRUSHER: We're ready to get to the Bridge. 
+WORF: Aye, sir.
+
+[Bridge]
+
+PICARD: All right, Mister Data. 
+DATA: Captain, this is a signal of the crew. 
+PICARD: So we have to get it onto the planet surface, we'll get through to the ship immediately. 
+WORF: Aye, sir. 
+PICARD: Sensor stations are standing by. 
+WORF: Sir, the shields are destroyed. 
+PICARD: Mister Data, when the conference is a little trace of a survivor. 
+RIKER: And thank you for the point of the Enterprise. 
+PICARD: I am not comfortable. I have an advanced completely to be able to report to the Enterprise as a security section. 
+RIKER: It's a pretty good interest to serve it in an artificial decision. It is not a pressure of the precisely an experience. 
+PICARD: We can tell us the problems to take the problems on the Enterprise to the ship. 
+WORF: I am not a complex signal. 
+LAFORGE [OC]: I can't get to the Bridge. 
+PICARD: Maintain a course for the shuttlecraft three tho two hours. I will retur
+
+
+Validation
+Loss: 1.077251
+Accuracy: 0.67690575

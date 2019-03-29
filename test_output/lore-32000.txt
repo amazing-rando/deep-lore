@@ -1,0 +1,44 @@
+The Enterprise.
+
+[Ten Forward]
+
+(The fire on his ship, the starship end of the controls) 
+PICARD: Mister Worf, you are a positive sensor range of this sector. 
+RIKER: We're going to have to see if we can get out of here, and there's a probe on a planet with a ship with the shields. 
+PICARD: We have a problem with the communicators. 
+DATA: There is no response to the planet. 
+RIKER: We have to go and stay with him. 
+PICARD: Where are they?
+
+[Bridge]
+
+RIKER: Transporter room three.
+
+[Bridge]
+
+PICARD: Mister Worf, when you can take any change of the ship. 
+WORF: Aye, sir.
+
+[Bridge]
+
+PICARD: We are proceeding with the ship.
+[Bridge]
+
+RIKER: We're ready to repost to the Enterprise. 
+RIKER: And we can detect the shuttle and show the shuttle in the past two percent. 
+RIKER: When we'll be right, we have to stop this place.
+
+[Bridge]
+
+PICARD: We are ready to put in the conduit of the ship. 
+RIKER: What is it?
+
+[Engineering]
+
+DATA: Commander, we have a probe in the communicator. 
+PICARD: Mister 
+
+
+Validation
+Loss: 1.0970677
+Accuracy: 0.6709852

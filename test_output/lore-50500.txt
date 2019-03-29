@@ -1,0 +1,28 @@
+Solid. 
+PICARD: Can we get the shuttlecraft? 
+WORF: Sir, we have a problem.
+
+[Bridge]
+
+PICARD: Maintain an actomatic level. 
+DATA: Aye, sir. I am picking up a sensor security section on the power system. 
+PICARD: What is that? 
+DATA: I am attempting to destroy the shield at a transporter range.
+
+[Bridge]
+
+PICARD: Captain Picard. 
+RIKER: I thought you were there and see if you can't detect the problim with the ship. 
+DATA: The probe is attacked by the ship. 
+PICARD: Thank you. 
+RIKER: Any sign that what we can do is the planet will travel be on the surface? 
+DATA: I have no information we can recommend their ship and the planet and the starship will accept that the storm continues. 
+PICARD: We haven't trued the ship and transported to the subspace. 
+DATA: The power training is now prepared to possibly be a precise power to sense that the shield is still in pain. 
+PICARD: Well, what's that this is too? 
+DATA: I have allowed to be able to detect a static sensor range and send a structural
+
+
+Validation
+Loss: 1.0886048
+Accuracy: 0.6739524

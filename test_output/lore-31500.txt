@@ -1,0 +1,27 @@
+Station and the ship's shuttlecraft]
+
+PICARD: Are you all right? 
+DATA: Yes, sir. 
+PICARD: Well, I want them. 
+CRUSHER: I don't think there were a problem in a course for the Cornisor building the shuttlecrift as the ship is sensing a course for the Enterprise and the Enterprise. 
+PICARD: Well, I've get to see you, Doctor. 
+CRUSHER: I'm goine to take a loop on the shuttlecraft. 
+PICARD: Well, I'm sorry, Captain.
+
+[Sickbay 
+
+CRUSHER: The Captain is still in the ship's strategies. 
+(Troi is setting on the street and she takes out an and a state on the correct street) 
+DATA: I will not be able to restore a completely disturbing sensor system. 
+PICARD: Well, that's what I'm sorry. 
+(Data and Worf and Data enter) 
+PICARD: Are you sure that you're ready? 
+PICARD: You're right. 
+CRUSHER: You can't believe the ship's control of the colony. I've got to stop the starship to the shuttle through the shield beam. 
+PICARD: And the Enterprise wants to beam us out of the corridor. 
+RIKER: We've got th
+
+
+Validation
+Loss: 1.0973603
+Accuracy: 0.6707682

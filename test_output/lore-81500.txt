@@ -1,0 +1,33 @@
+The Nineteen hours of Starbase 44715. 
+COMPUTER: This is Commander Riker. 
+PICARD: Make it so. 
+WORF: Aye, sir.
+
+[Bridge]
+
+WORF: Sir, I am prepared to detect a simulation. I am picking up a programme. 
+PICARD: Maintain the shields. 
+WOMAN: Aye, sir. 
+PICARD: Mister Worf, what do you see anything to say to the plan to see you on the shields? 
+WORF: Aye, sir. 
+(Picard enters) 
+PICARD: Mister Worf, what is the ship is the ship and transport ship about the ship any longer about them? 
+DATA: I do not believe so.
+
+[Bridge]
+
+WORF: Captain, there is no response for the ship is completely control of the ship's status on the ship.
+
+[Bridge]
+
+DATA: Captain, the probe's power drain containment systems. 
+PICARD: That's a simple progress. 
+DATA: It was a simple probe of the planet surface to the process. I was creased by an interesting problem. 
+RIKER: Well, the concert is a constant prevent. It should be too bar. 
+PICARD: It's a strange control signature. 
+DATA: The shuttle is considered the power 
+
+
+Validation
+Loss: 1.0775573
+Accuracy: 0.6771642

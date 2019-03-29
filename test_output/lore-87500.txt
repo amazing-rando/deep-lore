@@ -1,0 +1,24 @@
+Captain's log, stardate 46377.3. We are at an order to answer that a secure computer have been able to channel the security of a captain Picard. 
+RIKER: Why don't you take a look at this? 
+DATA: It is an antical transporter system to communicate with the ship's communicator. 
+RIKER: That's all right. 
+DATA: There is no reason to sensor response to the conference of any support of their computer contact. 
+PICARD: What about the shields? 
+DATA: I believe that is the only one where they are. It is a sense of an exploration. 
+PICARD: Well, the ship was to be done in this cargo bay. 
+PICARD: I'm not a ship to say that we've already been able to see that. 
+DATA: The sensors are picking up the probe of the subspace containment field. 
+RIKER: We're ready. 
+WORF: Aye, sir.
+
+[Bridge]
+
+PICARD: Mister Worf, you have a ship on the ship and take us to the surface. 
+DATA [OC]: It is a problem. 
+RIKER: The ship is the only one who was the ship to the containment. 
+DATA: The control pod is alive in a p
+
+
+Validation
+Loss: 1.079386
+Accuracy: 0.6763948

@@ -1,0 +1,27 @@
+The Battle 
+Captain's log, Stardate 43997.3. The Enterprise is in a surface of an anti-time power. The ship has been discovered as the programme is in chase on the shuttle. 
+PICARD: I hope you should talk to him. 
+WORF: Commander, I am picking up a similar distortion field in the subspace sensor readings and the planet is still approaching the ship's containment bar. 
+PICARD: The status? 
+DATA: It is protecting a signal that the ship is approaching the planet. 
+PICARD: Then the problem is in the shuttle. 
+DATA: The programming in the presence in the planet surfice is in the planet surface. 
+PICARD: Then the second time is still in the shuttle and stand to the subspace signiture. 
+RIKER: I'm sure the ship is to be alive. 
+PICARD: Thank you.
+
+[Bridge]
+
+PICARD: Thank you. 
+WORF: Captain, the shuttle has been able to destroy the shuttle and approach the ship.
+
+[Bridge]
+
+PICARD: Mister Data, what's the point? 
+DATA: The probe is clear. 
+PICARD: Mister Worf, I want you to return to the Bridg
+
+
+Validation
+Loss: 1.0789543
+Accuracy: 0.6771504

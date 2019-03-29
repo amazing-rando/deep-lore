@@ -1,0 +1,24 @@
+tory will be able to learn. 
+RIKER: That was no life for man to take the property. 
+RIKER: We'll be able to leave any of the ship. 
+RIKER: They can't be able to get to the bar. 
+PICARD: There's nothing to go to the bardor of the body of the ship is the bary of the bast. I'm sure they can't see. 
+(They can see that the barker of the shuttle back and the body of the bar) 
+WORF: The card is not sure the shuttle can do it. It is not a change on. 
+RIKER: We have to get a simuletion of the same through this. 
+PICARD: That is anything that I want to go to the shup. 
+RIKER: What is the concern? 
+WESLEY: I don't know what I do not know what I'm sorry. I'll be to determane the contral of the ship's ship. 
+RIKER [OC]: Aye, sir. 
+PICARD: What's a problem with the ship? 
+DATA: There are no communication. 
+PICARD: That would be able to see the particue four there. 
+PICARD: That was no longer to the ship. 
+RIKER [OC]: Aye. 
+(the same planet stars in a starship to talk to the shields around) 
+RIKER: T
+
+
+Validation
+Loss: 1.2613245
+Accuracy: 0.6240136

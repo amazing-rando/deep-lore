@@ -1,0 +1,35 @@
+Command on the shields and ships arrive)
+
+[Bridge]
+
+PICARD: Mister Worf, this is Commander Riker to the Bridge. 
+RIKER: We have to go through their shield stations. 
+RIKER: There's an energy fountain of their ship into the station off a course to the ship. 
+PICARD: Transport to me. 
+WORF: Aye, sir. 
+(The shuttlebay is beamed away)
+
+[Bridge]
+
+PICARD: Mister Data, what do you see? 
+DATA: I am ready. 
+PICARD: Make it so. 
+DATA: Sensors are approaching the shuttlebay two. 
+RIKER: There is a shuttlecraft. 
+WESLEY: Aye, sir. 
+PICARD: What is that? 
+DATA: I am now sure that we have no readings from the shuttle. 
+RIKER: We can see the presence of the shuttlecraft and the shields will be destroying the problem. 
+DATA: The probe is in the starboard containment field. 
+RIKER: What is it?
+
+[Bridge]
+
+PICARD: The Enterprise in the ship will be able to return on a sensor ship and shield to the shuttlecraft. 
+WORF: The Enterprise has a ship on any command system. 
+PICARD: Mister Worf, what's the probl
+
+
+Validation
+Loss: 1.1039137
+Accuracy: 0.66863954

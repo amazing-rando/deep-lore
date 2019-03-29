@@ -1,0 +1,40 @@
+Captain's quarters]
+PICARD: Can you get a ship in the progress? 
+WORF: I have a consciousness. 
+PICARD: Well, that wasn't the same thing I'd like to do. 
+TROI: I was just asking that. 
+PICARD: We have to get them to Sickbay. 
+COMPUTER: Warning. Warp. 
+RIKER: Report, Commander. 
+RIKER: Aye, Captain. 
+PICARD: Maintain the shuttle aboard.
+
+[Bridge]
+
+PICARD: Mister La Forge, what are you doing there? What about the station? 
+LAFORGE [OC]: Aye, sir. 
+RIKER: Riker ho Enterprise.
+
+[Bridge]
+
+PICARD: Mister La Forge, take us to the Bridge. 
+RIKER: Aye, sir. 
+PICARD: Make it so. 
+RIKER: We're right.
+
+[Ten Forward]
+
+RIKER: We have the Bridge. 
+WORF: Aye, sir. 
+PICARD: Mister Worf, what is the probe of your ship and the planet? 
+DATA: The station is coming with the ship and transporter room three. 
+PICARD: Mister La Forge, the shuttle appears to be all right. 
+WESLEY: Aye, sir. 
+RIKER: Riker to La Forge. 
+LAFORGE: We're ready for the station at the planet. 
+PICARD: Mister Worf, this is the Bridge.
+
+
+Validation
+Loss: 1.0793042
+Accuracy: 0.67668283

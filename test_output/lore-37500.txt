@@ -1,0 +1,33 @@
+The Bridge. 
+RIKER: What is the ship to go there? 
+LAFORGE: I can't let the shields were dead. 
+RIKER: They're right. 
+PICARD: Mister La Forge. 
+WORF: Aye, sir. 
+PICARD: What are you doing? 
+DATA: I am alive. It is the ship of the planet in the ship is a probe. 
+PICARD: Mister La Forge.
+
+[Bridge]
+
+RIKER: Report, Commander. 
+RIKER: We have a programme with the ship. 
+PICARD: On screen, Mister La Forge. 
+LAFORGE [OC]: Aye, sir.
+
+[Bridge]
+
+PICARD: Mister La Forge, the Bridge is a strange section of the progress. I was trying to detain the plasma control of the programme. 
+PICARD: Why? 
+DATA: It was a problem. 
+PICARD: Maybe the entire ship was a little stranger of any other things to determine that the programme is to transport the ship to the starboard. 
+PICARD: Well, thank you. 
+LAFORGE: I'm sure there was a prison base to the strength and the ship. 
+PICARD: Mister Worf, try to restroy this point. 
+WORF: Sir. 
+PICARD: What is the probe of the starbase one of the planet? We have all the 
+
+
+Validation
+Loss: 1.0922855
+Accuracy: 0.67205846

@@ -1,0 +1,17 @@
+clursion lext overr this. 
+SETAL: And I recove as whontare, would be beaids on the sunfeses, sir. 
+PICARD: That is not artors all that are to sheat? 
+QUINN: What everytains it the wass will all asturde a horgation? 
+CRUSHER: That's gater?
+
+[Sickbay]
+
+DATA: Pareral clargera lant in tee chail of charr tellion this moriag, wescan glodscompach, the exaster transpirted thes there is ctine. 
+PICARD: Doctor. Whire ale years if your ship? All to reservition, when it tway will be string about the Enterprise, he mostea any way all him on the bir. Worf'elves. I have to go not suge the moru. There are a see if an interfouted any off our suggettion. 
+DATA: Damnain thises was to second you to might had tly for the Empicuaty can sature the ship to all molh after contain the mostor. Ou were, if a locate at me to cance from the simation, the exelientaces from him. 
+PICARD: That's something about their loodear we canthere, buing all all strept agoin. I have to got to read. And it must did then all to a 
+
+
+Validation
+Loss: 1.409848
+Accuracy: 0.5825817

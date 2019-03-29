@@ -1,0 +1,33 @@
+The Both Containment field. The Enterprise's ship is still alive. 
+PICARD: Can you see? 
+RIKER: We had to see the power source of the shuttle in the corridor.
+
+[Bridge]
+
+RIKER: We consider the ship's course to the Enterprise to stand by a command. 
+DATA: Sir, the pressure is coming into a second sector. 
+PICARD: Transporter room, report to the Erterprise. What are you saying? 
+DATA: The shuttle will be determined to see if they are at all. 
+PICARD: Thank you. 
+WESLEY [on viewscreen]: Captain, I'm sorry. I want to send a ship into the shuttlecraft. 
+PICARD: Make it so, Mister Data. 
+DATA: There is an increase in the ship. 
+RIKER: Transporter room three. 
+RIKER: Aye, sir.
+
+[Sickbay]
+
+CRUSHER: I've got to see you again. 
+RIKER: I want to talk about you.
+
+[Bridge]
+
+RIKER: Settlement in tractor beam and see if tou see if we can't access the confinement field. 
+RIKER: They were at this. 
+RIKER: We've been able to see if they won't have this ship. 
+RIKER: When we could come to the ship and th
+
+
+Validation
+Loss: 1.0802246
+Accuracy: 0.6762587

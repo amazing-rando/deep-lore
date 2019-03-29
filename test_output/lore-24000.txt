@@ -1,0 +1,27 @@
+The Control room. 
+CRUSHER: The programme, we're not. 
+RIKER [OC]: We've got a life form on the ship. 
+PICARD: Mister Data, I haven't seen a man who was in the ship. 
+PICARD: The ship's contact, we were all right. 
+DATA: I am not a completely signature to survive that the programs indicate the shields. 
+PICARD: Then what's wrong? 
+RO: I'm sorry. 
+RO: The power source is a possibility of a presence. It's not a possibility to be able to do it to the storm. 
+RIKER: The progress is in the problem, Commander. 
+PICARD: What is it? 
+DATA: It is a possibility. 
+LAFORGE: Well, I'm not sure you wouldn't believe that you're a good time to go. 
+PICARD: I was an android. 
+PICARD: You shouldn't believe me. 
+DATA: I have already been able to determine that you will be all reght. 
+TASHA: I don't know. 
+LAFORGE: I don't think I would live to be serious. 
+PICARD: I'll be able to go through this. 
+PICARD: Well, I was a concern of the problems with you. 
+RIKER: You should have an interesting sense. 
+PICAR
+
+
+Validation
+Loss: 1.1051873
+Accuracy: 0.66872436

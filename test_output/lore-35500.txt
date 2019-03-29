@@ -1,0 +1,28 @@
+Barga 
+PICARD: What is this? 
+CRUSHER: I don't know. 
+RIKER: We were all right about them. 
+RIKER: I don't know. I'm not sure. I was just trying to talk to you to see you. 
+RO: What if this would have to be a little dangerous to say to you? 
+PICARD: It's not a particular than any of them. I'll be able to set this ship to the ship's structural stress. 
+PICARD: I don't know. I'm sorry, Commander. 
+PICARD: I don't know. 
+LAFORGE: I don't know. I was just a little. 
+PICARD: I'm sorry. 
+PICARD: I'm sure you wouldn't have to go and stop me. 
+PICARD: Why wanted to take a look at this more than that? 
+TROI: Yes, I wouldn't have to get this ship to make a sense of sense. 
+PICARD: What is the similar work to see the ship? 
+DATA-ELI: I was just a man. I won't let you take a second one who would have this time. 
+PICARD: I was just the only way I was able to stay in the probe of the probe. 
+PICARD: I don't tain this.
+
+[Bridge]
+
+RIKER: I'm all right. I'm not able to read a chance to see you. 
+RIKER:
+
+
+Validation
+Loss: 1.0949434
+Accuracy: 0.6720821

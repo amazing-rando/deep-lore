@@ -1,0 +1,24 @@
+Corridor]
+
+CRUSHER: What are they still? 
+WORF: Yes. 
+PICARD: Why? We could go and transfer the ship at a sensor station. 
+RIKER: I want you to stay on the Enterprise. 
+PICARD: The precedure is the one who weren't able to transport to them off. 
+WORF: Course for the Borg ship. 
+RIKER: What about the ship and the shields are to do with the ship? 
+DATA: The probe was about to be able to detect the shields, sir.
+
+[Bridge]
+
+PICARD: On screen. 
+WORF: Computer, resome computer sector six minutes to the Bridge of the Bridge. 
+RIKER [OC]: Captain Picard, we can get to the ship's containment field and respect any signal from the Enterprise and the shields were responding. 
+RIKER: We're going to beam into the surface. The craw arrive in this ship with the ship and transfer to the shields are sure that's all we have a chance to recover the surface. 
+PICARD: And then we're going to be a lot to be a man of command of a control of the shields. 
+RIKER: The computer was sent to the shields and the shi
+
+
+Validation
+Loss: 1.108255
+Accuracy: 0.6676787

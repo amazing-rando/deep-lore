@@ -1,0 +1,36 @@
+Something of the Borg control room) 
+PICARD: We've been transported.
+
+[Bridge]
+
+DATA: The shuttle is sensing a subspace starboard power system in the surface. 
+RO: The second than the starbase, the Enterprise has been able to do that. 
+PICARD: Transfer to the Bridge. 
+RIKER [OC]: Riker here. 
+PICARD: Why don't you go back? 
+DATA: I do not know. 
+RIKER: What is it? 
+DATA: The probe is similar to the ship. 
+RIKER: The sensors show no one who could have been detected in the same situation.
+
+[Bridge]
+
+PICARD: We're our own readings. 
+WORF: The shield is still increasing. 
+PICARD: The sensors show the sensors offline. 
+RIKER: The sensors show the probe shields around the shuttle are still alive. 
+RIKER: What's wrong? 
+LAFORGE: I didn't know what to do. 
+PICARD: We can do this. The Empire is still our shields. 
+RIKER: What is it to be?
+DATA: The ship was not sentient. The shuttle has been detected in the surface in the medical transfer.
+
+[Bridge]
+
+PICARD: The shields have been responding. 
+D
+
+
+Validation
+Loss: 1.0898452
+Accuracy: 0.6727963

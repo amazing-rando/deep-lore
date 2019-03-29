@@ -1,0 +1,39 @@
+The ship should be a starship and they can't be some kind of transporter room.
+
+[Bridge]
+
+RIKER: Transporter room three.
+
+[Sickbay]
+
+CRUSHER: What about their progress of the plan? 
+DATA: The storms are starting. 
+LAFORGE: The planet shakes is all of them. It was the planet she says what happens. 
+RIKER: That is not that this is the Enterprise. 
+RIKER: What are you supposed to be able to see the probe of the shields?
+
+[Bridge]
+
+RIKER: We can tell them any power.
+
+[Bridge]
+
+PICARD: That is the ship's children. 
+RIKER: We have to get a computer shuttle in the planet shape. They are a present communication on the shields. 
+PICARD: We can see that the ship is in control of the probe on the Enterprise in the planet. 
+RIKER: The probe in the ship are set out.
+
+[Bridge]
+
+RIKER: What are you doing? 
+RIKER: I'm sure they will never heard the probe.
+
+[Sickbay]
+
+CLARK: That is not the same time. 
+PICARD: That's not a completion. I didn't. I'm not sure they would have to be sure they will be done 
+
+
+Validation
+Loss: 1.141941
+Accuracy: 0.656761

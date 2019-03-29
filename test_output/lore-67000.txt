@@ -1,0 +1,25 @@
+Teners 
+TROI: Come. 
+(The containment field is at the first time) 
+RIKER: We've got a lot of any success of the controls. 
+RIKER: We can return to the survation for the shields. 
+RIKER: We've been able to reach the shuttle. 
+RIKER: That's all. 
+(the security team start to stant by the turbolift on the ship in their arms) 
+RIKER: They've got the confirmed on the shield power systems and set a computer sensor readings from a starship. 
+PICARD: The computer was able to return to the surface. 
+WORF: Aye, sir. 
+RIKER: We can try any transmissions from the ship. 
+RIKER: We're ready to read the problem. 
+RIKER: We're ready for the shields and this is the Bridge. 
+PICARD: We are not able to. 
+RIKER: Where are you going to go? 
+LAFORGE: It's a great reason. 
+RIKER: I don't think so, but it's not that we can do to take the shuttle in a sensor reading. 
+RIKER: I don't know. It's a lot of the time they're going to go. 
+RIKER: When we'll be able to return the shuttle and this time, I'm going to try
+
+
+Validation
+Loss: 1.084014
+Accuracy: 0.6749329

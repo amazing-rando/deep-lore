@@ -1,0 +1,32 @@
+Che Sidder of Strenk of the Bridge]
+PICARD [OC]: I'm sure, Captain, I have a consciousness without the communicators. 
+PICARD: And what are you doing?
+
+[Bridge]
+
+PICARD: Mister La Forge, what is the shield 
+DATA: I didn't know why I can see that the command controls. 
+PICARD: On screen. Make it so. 
+WORF: Aye, sir. 
+(Troi leaves) 
+RIKER: Are you saying the ship is starting to see it and see if we have the ship's station? 
+DATA: The shield was not a sensor readings. 
+PICARD: On my way. I don't know what I wanted to do. 
+DATA: That is clear. 
+PICARD: Misten La Forge, what is this? 
+DATA: It is not the same chance to do the cargo bay to their parents. I am not an ancient character to the ship. 
+PICARD: And when the ship is sentiont? 
+WORF: It is a similar transporter interface. 
+PICARD: Maintain sursical systems and send a starbase to the Bridge.
+
+[Engineering]
+
+LAFORGE: The shields have to be sure. 
+PICARD: On screen. 
+(The Borg are being a star system) 
+PICARD: Mister La Forge, we are a
+
+
+Validation
+Loss: 1.0837022
+Accuracy: 0.67549914

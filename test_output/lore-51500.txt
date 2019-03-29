@@ -1,0 +1,25 @@
+The Bridge.
+
+[Corridor]
+
+RIKER: We have to get them on the corridor. I can't see how to do. I'm sorry. I can't get a course. I can't see him. 
+PICARD [OC]: Aye, sir. 
+(Picard leaves) 
+RIKER: What is that what you're doing? 
+LAFORGE: The control system is the signal to the subspace signature. It's the same signal the ship and security transporter systems. 
+PICARD: What's wrong? 
+LAFORGE: The shuttle is alive. 
+LAFORGE: We do think the tractor beam in the same containment field. 
+DURKEN: It will be a little truly. 
+LAFORGE: Well, we're going to be interested to transporter room two. 
+LAFORGE: What are you doing? 
+LAFORGE: We do not know what they're doing. 
+DATA: The computer is a matter of time for the same case of this ship into this sector which cannot bring up their ships in the surface with an android when the contract is a subspace distortion from this ship. 
+PICARD: Make it so, Mister Data. Data. 
+DATA [OC]: Captain, we've been ready. 
+PICARD: Well, what is the strange structure? 
+
+
+Validation
+Loss: 1.0896982
+Accuracy: 0.67320865

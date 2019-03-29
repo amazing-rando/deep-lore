@@ -1,0 +1,22 @@
+The First Council 
+Captain's log. stardate 44708.2. What are they allowed to be sure? 
+PICARD: That is an accident. We are already at this situation. 
+LAFORGE: I don't think so, sir. I can't believe that. I don't know how the shields are about.
+
+[Bridge]
+
+RIKER: We can't be in a computer sector. 
+COMPUTER: Acknowledged.
+
+Captain's log, stardate 45858.2. We are approaching the Enterprise. 
+PICARD: What about this ship? 
+DATA: I have already come to analyse the surface and the shuttle in the surface is a signal from a subspace signal of the shuttle which are in the surface of this ship and the procedure is attempting to reconfigure a second of a starship. 
+RIKER: That would be almost a long simple. I have a problem with that power to be so simple to believe. I was able to see if that has been a lit of that sound. 
+DATA: The same as though that will be a little some simple and the same thing to do. 
+LAFORGE: We're not surprised as the only chance to see the probe. 
+PICARD: I haven't heard
+
+
+Validation
+Loss: 1.0811304
+Accuracy: 0.67563725

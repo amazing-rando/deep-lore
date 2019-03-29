@@ -1,0 +1,21 @@
+A mand of A second time we were all right and starts to see him and starts to start at the parameters) 
+RIKER: Any life signs? 
+RIKER: I thought you were a little tired. 
+PICARD: I didn't want that. 
+DATA: It would be the one that I have a matter of minutes ago. 
+RIKER: And what about the same place? 
+DATA: I have a controlled computer resolution for the present conduit. 
+LAFORGE: I don't know how much I don't know what he was to do. 
+PICARD: A course for the Enterprise? 
+LAFORGE: It's a good time. I wasn't any more than they. I've got to get a couple of things to the surface. 
+RIKER: I don't understand. I'll stay here to the shuttle will. 
+(The transporter counts at the contral sensation is singing at the strange controls in the control station) 
+RIKER: We consider that we're going to transport a security officer. I can see. 
+PICARD: And the second time we don't have that? 
+LAFORGE: I can see. I can't give you the confirence and tell you that. 
+DATA: The sensors is attending to an emp
+
+
+Validation
+Loss: 1.0806583
+Accuracy: 0.67700243

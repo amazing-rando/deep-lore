@@ -1,0 +1,33 @@
+Command of the Border of Streen.
+
+[Bridge]
+
+RIKER: Any information? 
+LAFORGE: I'm sorry that we can get the positronic security tends on the surface. 
+PICARD: We're going to be able to stop them out of the security.
+
+[Bridge]
+
+WESLEY: They're going. 
+PICARD: Mister Worf, we're going to be able to recognise this. 
+WORF: Aye, sir.
+
+[Shuttlebay]
+
+(the sensor ready rooms are standing by and the look on a ship and straight into the corridor) 
+RO: What is the problem? 
+RIKER: I don't know. I can't get anything to do with the ship to do is the ship. I can't get the ship to the shuttle. I'm sorry, I can't do this for you to see the past twenty. I'm sure they're still in the ship. 
+PICARD: Well, the morning we could be serving and the same way to save the shields. 
+DATA: I am now sure of the planet sir. 
+PICARD: What if the ship is to determine we have to run a sensor section? 
+DATA [OC]: Aye, sir.
+
+[Bridge]
+
+WESLEY: Sensors indicate a securety-field structure in thirty two seven percent. 
+RIKE
+
+
+Validation
+Loss: 1.085295
+Accuracy: 0.67615414

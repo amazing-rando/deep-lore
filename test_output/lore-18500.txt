@@ -1,0 +1,26 @@
+Thinks and trying to start the programme and the shuttlecraft is a contact with the shuttlecraft) 
+RIKER: I don't know what to do is. 
+(Troi leaves and the back on the corridor is at a bad) 
+LAFORGE: Well, that's what I was about to do with them. 
+PICARD: I don't know. I don't know. 
+PICARD: No. 
+(Troi ents and the barrier is a good design. 
+PICARD: Then what about your parent? 
+LWAXANA: No. 
+PICARD 2: I was to be able to tell you the enterprise. 
+PULASKI: I don't think that's why you can talk about. I want to start with that. 
+PICARD: No. It was never been a man. 
+TASHA [OC]: The subspace signature is in transmission from the star ship. 
+PICARD: Mister Worf, and I have an increase to you anything to disable you. 
+PICARD: No. 
+PICARD: No, necessary to report to the Bridge. 
+RIKER [OC]: The Borg ship wasn't started to bring the ship to reach an anti-matial control pattern. 
+PICARD: Transporter room two. 
+LAFORGE: There is a signal to a complete shuttlecraft. 
+PICARD: Thank you, sir. 
+PI
+
+
+Validation
+Loss: 1.110875
+Accuracy: 0.6669981

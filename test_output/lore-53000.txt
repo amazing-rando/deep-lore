@@ -1,0 +1,30 @@
+Sickbay]
+(The teams are beamed over to the ship's substance and throws the ship's ship into the controls and three through a strange ship) 
+PICARD: Mister Worf, take us out of here. 
+LAFORGE: Aye, sir. 
+PICARD: Then we are about to return to the shuttlebay three. 
+RIKER: Troctors, Commander. 
+LAFORGE: I don't know what the energy ship is to be doing. 
+PICARD: Mister Worf, take us to the Bridge. 
+WESLEY: The structure is still in the starboard ratiation system.
+
+[Ten Forward]
+
+LAFORGE: I'm sure there's any right to see the crystalline shup. 
+DATA: The ship was never attempting to reach the control room to this ship. 
+RIKER: There were no others about it.
+
+[Bridge]
+
+WORF: Sir, the section is attacked by the shields to transport the antimatter rock on this section. 
+PICARD: Mister Worf, this ssit will be a few million kilometres off the control room and transport a completely security field on an android of the starboard. 
+RO: Thank you, sir.
+
+[Bridge]
+
+RIKER [OC]: Anything that might be 
+
+
+Validation
+Loss: 1.0847384
+Accuracy: 0.67394453

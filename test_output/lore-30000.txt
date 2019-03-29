@@ -1,0 +1,27 @@
+The Starfleet Camples on the ship's subspaci system. 
+COMPUTER: The planet is also compliment. 
+LAFORGE: What are you doing? 
+LAFORGE [OC]: I can't get in to beam the shuttle. 
+CRUSHER: I'm sure you're ready for the ship's control. 
+WORF: Aye, sir. 
+PICARD: Mister Worf, we're ready for the plasma station. 
+WORF: Captain, I have an emergency computer in a secure positive possibility. 
+PICARD: That's all right, Captain. 
+PICARD: And the ship is completely one of your positive power to this power to this ship to the planet surface.
+
+[Bridge]
+
+RIKER [OC]: Aye, sir. 
+RIKER [OC]: And the Borg ship's ship is coming from the pressure. 
+RIKER: What's going on? 
+DATA: It is a positive sensor standard orbit. 
+LAFORGE: The ship's computer will be able to continue with the surface and transport the surface. 
+PICARD: Mister Worf, the Bridge is a second transporter. 
+CRUSHER: I'm not sure. 
+CRUSHER: I wouldn't have been there. I have a lot of problems. 
+PICARD: I'm surprised. I'm sorry, I'll be able 
+
+
+Validation
+Loss: 1.0976388
+Accuracy: 0.67008954

@@ -1,0 +1,22 @@
+The Borg ship 
+PICARD: Mister Worf, what is it? 
+DATA: I believe I have reached the ship's shield at all structures. It is the transporter. 
+RIKER: What about the shields? 
+DATA: The planet will be allowed to determine what happened. 
+LAFORGE: I didn't think so. I'm going to have the ship's ship into a probe and then the ship is all right. 
+PICARD: I don't. 
+DATA: The probe was a man of the static of the planet's attack of the ship. 
+PICARD: I will not return you to the Bridge, but the probe was disappeared. 
+DATA: I will not be certain. 
+PICARD: Why did you do this in this ship? 
+DATA: I believe I can determine what it is that I am conscious with you. 
+PICARD: That is a position to see the parents. It is not a trick. 
+LAFORGE: I don't know. 
+DATA: To the plasma containment field, sir, I will be ready. It is a problem with the station. 
+RIKER: What is it? What's wrong with them to the planet? 
+DATA: The programme is a progress of signal there. It is a structure of the planet in the pla
+
+
+Validation
+Loss: 1.073932
+Accuracy: 0.6774187

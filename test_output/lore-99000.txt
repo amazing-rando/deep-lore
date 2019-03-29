@@ -1,0 +1,28 @@
+Cargo bay 
+
+[Engineering]
+
+LAFORGE: I don't know what the ship is interesting. 
+PICARD: I'm sorry, Data. I don't know. 
+CRUSHER: I don't know. I'll go there. 
+PICARD: Well, it's always a little sorry to do. 
+DATA: I am a family capacity to me. 
+PICARD: Why not? 
+DATA: The computer is a fine containment field. 
+PICARD: I want you and the ship in the conference. 
+LAFORGE: I don't think so. 
+PICARD: I don't think that would be important to the computer to the ship and that's not a primary possibility. 
+DATA: I am not sure. 
+LAFORGE: I'm sure you were there. 
+DATA: That is not a simple possibility. 
+PICARD: I don't think so, sir. 
+RIKER: I don't know what you are. I've got a little longer than a chance. 
+PICARD: Well, it was more than that. 
+TALLERA: I don't know. I've never seen anything wrong with that. I don't think if I wanted to talk to you about him as any more than a word with your son. 
+PICARD: I'm not. 
+TROI: I'm sure the Council was a lot of people and I've been able to start to 
+
+
+Validation
+Loss: 1.0790472
+Accuracy: 0.67647177

@@ -1,0 +1,38 @@
+The Battle of The Bridge.
+
+[Engineering]
+
+LAFORGE: I can't believe that we can go. 
+PICARD: What are you doing?
+
+[Sickbay]
+
+CRUSHER: I don't know why I can't get out. 
+RIKER: What's that? 
+PICARD: I want to know that I was a channel for the same thing I could do. 
+DATA: It is an expert on this ship and trying to contact you and I will be able to complete the possible companion to ask you to die. 
+RIKER: And then you're the one we can do to the particle foundations. 
+RIKER: I'm not sure what's too much about the same computer to say about it. 
+RIKER: What are you doing? 
+DATA: There it a security transfer. 
+PICARD: And that is a contract of the primary command control of the ship's probe is continued. 
+RIKER: And the part of the Enterprise? 
+DATA [OC]: Aye, sir. 
+RIKER: We've been there. 
+RIKER: And there's nothing wrong with the shuttlecraft.
+
+[Bridge]
+
+PICARD: Well done. 
+DATA: Aye, sir.
+
+[Bridge]
+
+RIKER: Are you ready? 
+WESLEY: Aye, sir. 
+PICARD: Mister Worf, what's the same could be
+
+
+Validation
+Loss: 1.0797131
+Accuracy: 0.67594105

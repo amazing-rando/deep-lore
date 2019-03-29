@@ -1,0 +1,33 @@
+The Both Captain.
+
+[Bridge]
+
+PICARD: Come. 
+(the team starts to start a straight shot and the ship's chair) 
+PICARD: Make us a little like an antimatter ship. 
+WORF: Commander Raker, what is the ship? 
+PICARD: That's true. 
+RIKER: I've been trying to do that. 
+RIKER: We wish I want to say you're right. 
+PICARD: We will be able to retrieve that should help us. 
+TASHA [OC]: I was a little sort of the ship. 
+PICARD: What is it the ship was doing here? 
+DATA: The same conference was not responsible for the computer system. There is a computer system in the cargo bay four.
+
+[Bridge]
+
+PICARD: Can you report? 
+LAFORGE: The shuttle's log is immediately attacked. 
+RIKER: They are all right. 
+RO: It's a mistake. 
+PICARD: Mister Worf, what are you doing? 
+DATA: I do not believe the rest of the shuttle. 
+PICARD: Mister Data, what's wrong? 
+DATHON: The Enterprise is in the ship that will not be able to recover.
+
+Captain's log, Stardate 42774.4. We are receiving an energy seam. The station has alrea
+
+
+Validation
+Loss: 1.0817792
+Accuracy: 0.67568654

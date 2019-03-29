@@ -1,0 +1,21 @@
+The Borth Controls 
+
+Captain's Log, stardate 45522,2. We have received the second of the surface today and the cargo bay has been destroyed. 
+PICARD: It is the message that you will be careful. I will be sure they were a lot of contact with you. 
+LAFORGE: Well, I think I can do that the ship when the second of this is a little longer any more to see how to see the same thing that was to be able to do that. I didn't know what they want. 
+PICARD: Well, I don't know. 
+DATA: That is a sensor star on the subspace signature of the present possibility that they are all right. 
+RIKER: What does that mean? 
+DATA: It was a man to beam up and there are no reason to see you and I will be able to see you again.
+
+[Ten Forward]
+
+(The moment is a ship and the doorbell rings and stands at the streat) 
+RIKER: What about the shuttle as a strange charge to the ship? 
+WESLEY: The shuttle's check on a second one. 
+RIKER: Where is it? We're going to get them up to the surface as the shuttle and the prevent. 
+
+
+Validation
+Loss: 1.0794641
+Accuracy: 0.67605746

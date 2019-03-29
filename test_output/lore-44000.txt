@@ -1,0 +1,34 @@
+The New Federation Starship Enterprise and the ship is a shuttlebay two five three hours to the shuttlecraft) 
+PICARD: Mister Worf, we are already.
+
+[Sickbay]
+
+PICARD: Any other things about the chains they were all right? 
+DATA: No, sir. 
+PICARD: What is that? 
+DATA: It was not an exploration of any surprise. 
+PICARD: And what is the same? 
+DATA: I believe it is a man of the process to a problem. 
+RIKER: And to the starboard bar, when they came there and we're getting a lot back the way. 
+DATA: I have no indications of the ship. 
+PICARD: Are you all right? 
+DATA: No, sir. 
+PICARD: Why don't you tell me the truth? 
+PICARD: No, I'm not going to try that. I'm sure you had to get to the stranger of this ship. 
+WORF: Aye, sir.
+
+[Bridge]
+
+PICARD: Mister Data, what are you doing?
+
+[Bridge]
+
+PICARD: And the power grief wave through the shields. 
+DATA: The shuttlecraft was in the medical station and the ship was controlling the ship and are all right. 
+PICARD: Mister Data? 
+DATA: I believe I c
+
+
+Validation
+Loss: 1.0910822
+Accuracy: 0.67306066

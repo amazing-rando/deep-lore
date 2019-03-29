@@ -1,0 +1,24 @@
+Treaty) 
+CRUSHER: I'm supersed there are some thing that I can tell you. 
+PICARD: I thought you're going to take the shields on the Enterprise. I'm going to try to see you again, Commander. 
+RIKER: It's a simple concentration of a strange moment with the ship. 
+RIKER: The same way they've been able to do what I want. 
+PICARD: The computer was supposed to be a ship on the Enterprise. 
+PICARD: That's a little boy. 
+RIKER: Thank you, sir.
+
+[Bridge]
+
+(The second thing is still beamed away) 
+RIKER 2: Captain, the shields are being seen a channel to the Bridge. 
+PICARD: And we have the Bridge that we've been trying to take a ship on the shuttle. 
+RIKER: And the shuttle was standing by an antimatter containment field. 
+RIKER: The sensors are still. It won't be able to communicate. 
+RIKER: I think we have to see it. 
+PICARD: They were too lotting to see if we considered that the care of this. It was a complication of the problem. 
+PICARD: I can't believe it. I'm sorry, I can't go back to the E
+
+
+Validation
+Loss: 1.096915
+Accuracy: 0.6709024

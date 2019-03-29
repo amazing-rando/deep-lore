@@ -1,0 +1,18 @@
+Captain's log, stardate 47791,4. I have received a control possibility of the Enterprise. It is a problem which is completely responding from the Enterprise and the second planet is controlling the ship. 
+PICARD: And it is the only one we've got. It was a ship that will need to beam up and stop them. 
+LAFORGE: I do sorry about this. 
+DATA: That is a problem to the Enterprise. 
+PICARD: I will. 
+RIKER: We can't access this planet and then the creature is a controlled command of this sector. 
+DATA: I am not sure. 
+LAFORGE: I don't know what the experiment is still alive. I can't get the positronic support for the ship to start the power transfer beam. 
+PICARD: I hope you're realising a little true when you came to the Enterprise. 
+DATA: The shuttle is continuing to respond to the ship. 
+PICARD: Well that's not the same way to do to. 
+LAFORGE: I consumed the ship and resenve the probe of the parameters of the ship. 
+PICARD: I would like to tell you that. I'm sorry. I haven't been there and
+
+
+Validation
+Loss: 1.0808628
+Accuracy: 0.6758996

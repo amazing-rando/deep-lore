@@ -1,0 +1,18 @@
+The Boy of Starfleet officer's log, supplemental. What is the status of the Enterprise? 
+LAFORGE [OC]: I can't. 
+PICARD: All right, we have to go to warp five one five. 
+(The ship is sitting on the cargo bod) 
+LAFORGE: Stand by. 
+WORF: They're not ready to start to see it to a sensor readings on a simulated device. 
+RIKER: Transfer command on manual contact. 
+DATA: The subspace signals are born at thirty sir thousand. I am not considering anything. 
+RIKER: What did you see if the computer has been able to do the the samp thing? 
+DATA: The configuration of a contained interference is a considerable destruct of the planet's starship continuing an alien console that the ship is nearly destroyed. 
+PICARD: Anything we're destroyed? We'll have to take the chances to transport the two of the planet survivors to attempt. 
+DATA: The computer has been considered a power surge on this sector as a second officer and the shields. 
+RIKER: They will be able to determine that they are not a second thi
+
+
+Validation
+Loss: 1.0836266
+Accuracy: 0.6753038
