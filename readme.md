@@ -6,7 +6,7 @@ Lore is a character in the TV series [Star Trek: The Next Generation](https://en
 
 Deep Lore is a python program named after this fictional android that trains and uses a neural network to generate novel episode scripts of Star Trek: The Next Generation after training on a dataset of all previous episodes.
 
-A [recurrent neural network (RNN)](https://en.wikipedia.org/wiki/Recurrent_neural_network) is used to generate the next character in a random sequence.  When trained on highly structured text, like that found in screenplays, RNNs can be [unreasonable effective](http://karpathy.github.io/2015/05/21/rnn-effectiveness/).  Although this project was made with Star Trek in mind, this code can be used to train on any corpus with reasonable effectiveness.
+A [recurrent neural network (RNN)](https://en.wikipedia.org/wiki/Recurrent_neural_network) is used to generate the next character in a random sequence.  When trained on highly structured text, like that found in screenplays, RNNs can be [unreasonable effective](http://karpathy.github.io/2015/05/21/rnn-effectiveness/).  Although this project was made with Star Trek in mind, this code can be used to train on any properly prepared corpus!
 
 ## Dependencies
 
