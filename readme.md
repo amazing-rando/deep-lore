@@ -21,10 +21,7 @@ You can use [pip](https://pypi.python.org/pypi/pip) to install any missing depen
 
 First, a model must be trained on your dataset of interest.  Here, I've provided the transcribed scripts of every episode of Star Trek: The Next Generation.  I've also provided the most recent model currently training on this entire dataset.  This will be periodically updated as training continues.
 
-The training file, <b>lore_train.py</b>, contains several user-editable
-variables that should be changed to fine tune your model.  A new model can be
-trained by specifying which directory contains your corpus (the CORPDIR
-variable) and running:
+The training file, <b>lore_train.py</b>, contains several user-editable variables that should be changed to fine tune your model.  A new model can be trained by specifying which directory contains your corpus (the CORPDIR variable) and running:
 
 ```
 python lore_train.py
@@ -36,7 +33,7 @@ The text generating script, <b>lore.py</b>, also contains several user-editable 
 python lore.py
 ```
 
-If the corpus that you trained on is formatted with feature extraction in mind (as the included Star Trek scripts are), you'll find that text generation becomes eerily effective.  The <b>test_output</b> directory contains test text generation and statistics for every 500 checkpoints of the model currently being trained.
+If the corpus that you trained on is formatted with feature extraction in mind, you'll find that text generation becomes eerily effective.  The <b>test_output</b> directory contains test text generation and statistics for every 500 checkpoints of the model currently being trained.
 
 An output sample of this amazingly effective model follows:
 
