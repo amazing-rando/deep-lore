@@ -14,7 +14,7 @@ The mathematician [John von Neumann](https://en.wikiquote.org/wiki/John_von_Neum
 
 ![Lore loss and accuracy plots.](validation.png)
 
-With this in mind, loss and accuracy are carefully monitored and training was stopped at epoch 127,500 since training beyond this point results in [over-fitting](https://en.wikipedia.org/wiki/Overfitting).
+With this in mind, loss and accuracy of generated screenplays are carefully monitored and training was stopped at epoch 127,500 since training beyond this point results in [over-fitting](https://en.wikipedia.org/wiki/Overfitting).
 
 ## Dependencies
 
