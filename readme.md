@@ -8,6 +8,14 @@ Deep Lore is a python program named after this fictional android that trains and
 
 A [recurrent neural network (RNN)](https://en.wikipedia.org/wiki/Recurrent_neural_network) is used to generate the next character in a random sequence.  When trained on highly structured text, like that found in screenplays, RNNs can be [unreasonable effective](http://karpathy.github.io/2015/05/21/rnn-effectiveness/).  Although this project was made with Star Trek in mind, this code can be used to train on any properly prepared corpus!
 
+## Validation
+
+The mathematician [John von Neumann](https://en.wikiquote.org/wiki/John_von_Neumann) famously stated "With four parameters I can fit an elephant and with five I can make him wiggle his trunk."  In other words, it is very easy to over-fit a model when working with a large number of parameters.
+
+![Lore loss and accuracy plots.](validation.png)
+
+With this in mind, loss and accuracy are carefully monitored and training was stopped at epoch 127,500 since training beyond this point results in [over-fitting](https://en.wikipedia.org/wiki/Overfitting).
+
 ## Dependencies
 
   * [TensorFlow](https://www.tensorflow.org/)
@@ -19,7 +27,7 @@ You can use [pip](https://pypi.python.org/pypi/pip) to install any missing depen
 
 ## Basic Usage
 
-First, a model must be trained on your dataset of interest.  Here, I've provided the transcribed scripts of every episode of Star Trek: The Next Generation.  I've also provided the most recent model currently training on this entire dataset.  This will be periodically updated as training continues.
+First, a model must be trained on your dataset of interest.  Here, I've provided a model already trained on transcribed episodes of Star Trek: The Next Generation.  This model is in the *checkpoints* directory and will be used automatically by the generation script if no other model is provided.
 
 The training file, <b>lore_train.py</b>, contains several user-editable variables that should be changed to fine tune your model.  A new model can be trained by specifying which directory contains your corpus (the CORPDIR variable) and running:
 
