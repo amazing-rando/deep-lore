@@ -1,0 +1,6 @@
+  t  t     e        e     e  t tette    t tet t e e   ee        e               ee      eee    e       e   e e   e     eee    e ee e   e eeee e    e      e    e   e   ee e   e e e      e     e e e   ee  e  eees  eees   e e   e e   e e      e     eee      ee ex e e   e    eeeeste  eee ee   eee e   e    e  e e e ee     e     ee   eee e  e       e e    t ee     e ee  e   ee  ee e    e  ee exte  ee  e       eeees     e  t t  t   e ee ee ee e  t t  teet t   e    t        ee  e   ee     e    e    e   e e e  e        e  te  t   e ee e  e             e  t     e  te   e e e e e e     e    e           eeee    e  e   e          e  t   ee e e e   ee exe    eee e e  ee    ee  e  ee      eee  eeete     e e  t   eetet    t    t e e  e    e     e e ee e   e  e  t  t   e    e        e  t  t ee t      e     e   e  e ee ee      eee    e          e  ee    eeee t  e  e   e   e       ee            e  eee eee  eeee  tett  t ee e e ee eete   e    e e e          ee    e   e ee        ee   ee    e e e  eeeee te
+
+
+Validation
+Loss: 3.216882
+Accuracy: 0.17143899

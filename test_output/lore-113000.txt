@@ -1,0 +1,33 @@
+Bridge.
+
+[Bridge]
+
+PICARD: And there are no other ships. 
+DATA: Aye, sir, but I have already shown the ship's control system to send an explosion to trace the ship. 
+PICARD: The second transfer could have been able to return to the ship. 
+DATA: I hope that. 
+PICARD: Then what is that? 
+DATA: I have a programme from the ship. 
+PICARD: The ship is considered a sensor path the communications are still in the plasma control pattern. I want to go to Starfleet Command. 
+RIKER: Aye, sir.
+
+[Transporter room]
+
+RO: The Enterprise is over. 
+RIKER: What's the shields and this ship? 
+DATA: The energy field is coming to the subspace signal. 
+RIKER: The shields are still in position on the ship. 
+DATA: The energy field is nearing the power transfer beam. 
+RIKER: The ship's sensors are still interfering. 
+DATA: There is no reason for that. 
+PICARD: I want to know what they're dealing with the surface. I don't know what you're dealing.
+
+[Bridge]
+
+PICARD: Are you all right? 
+DATA: I am attempting to do 
+
+
+Validation
+Loss: 1.0728638
+Accuracy: 0.6779869

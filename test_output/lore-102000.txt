@@ -1,27 +1,26 @@
-The Border of Starfleet Control 
-
-RIKER: We're going to be able to start at thirty sive hundred kilometres. 
-RIKER: I'm sorry. 
-PICARD: What if you will? 
-DATA: I balieve it is a subspace defence programme. 
-PICARD: Where did you do?
+Corridor]
+(the medical starship extra seat of a single star and starts arriving in a crew and the container and the shuttle contained the crew and takes to the floor) 
+PICARD: When this is a starboard contact with the subspace. 
+WORF: Sir, the programme has been disturbed. 
+PICARD: I am afraid I have nothing to see what you want the ship and the other ship. 
+TROI: We didn't have to say what to do. 
+PICARD: It's a lot of programme and tell you. 
+CRUSHER [OC]: I'm sorry, Commander. 
+LAFORGE: I could have to be able to stop this.
 
 [Transporter room]
 
-PICARD: Well done, Data. 
-DATA: I have no response from any of them any more possible energy beam. 
-PICARD: Why did you discuss? 
-WESLEY: It was a subspace difference before we can't start to destroy the ship in this sector. 
-PICARD: It's a problem with the ship's subspace. 
-DATA: I believe I have several thousand kilometres on the planet sir.
+PICARD: I have a sensor range of a positronic matrix in an artefact of the probe to accept the planet and trace the presence. 
+DATA: It is a signal from the ship. 
+PICARD: Thank you. 
+DATA: Aye, sir. 
+PICARD: Well, we're going to be able to stay here to this ship. 
+WESLEY: I don't understand what I'm going to do with that. 
+PICARD: I will not allow you to see me. 
+(Worf and Troi are at the surface) 
+PICARD: I'm sorry, Data. I was able to talk
 
-[Ten Forward]
 
-(Picard is present and the sound of time is still at another sight. They arrive) 
-PICARD: I'm not serious that I wanted you to stay and take a couple.
-
-[Sickbay]
-
-CRUSHER: I don't think I can do this. I'm sure they're a little bit for you to do it. 
-PICARD: I will need the point on your ship and then you will be all right. 
-DATA: I hope you will be careful about her present concer
+Validation
+Loss: 1.0773587
+Accuracy: 0.6774759

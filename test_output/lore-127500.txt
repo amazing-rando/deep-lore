@@ -1,0 +1,19 @@
+This First Officer's quarters]
+(The ship starts to stand at the floor) 
+DATA: It is a problem with the ship. I am not sure that the ship's computer will be able to communicate with a construct on the planet. 
+PICARD: What's the point of this planet? 
+DATA: I am not angry as a strong experience. 
+PICARD: Where are they? 
+DATA: It is a second time the ship will be detected. 
+RIKER: That was no longer a part of a security system. 
+DATA: Then we are now at all. 
+PICARD: We can't see to them and then we could contact the Enterprise and the shuttle. 
+DATA: The ship is calling from the ship as a security control path. It will begin to continue to respect. 
+PICARD: Then there is nothing to do with it. 
+DATA: I believe that would be possible. I will be able to discover the same thing that I will not see if that is an antimatter control sensor system. 
+RIKER: Then they will be able to contain this ship. It was a simple common of the ship and continuing to consider the signal of the planet surfac
+
+
+Validation
+Loss: 1.0710582
+Accuracy: 0.67918247

@@ -1,0 +1,28 @@
+Capalities Batries
+
+[Cargo bay]
+(The ship's conduit is still a little blood and there's an excuse for the creature. 
+PICARD: Computer, result to standard section. 
+WORF: Aye, sir. 
+PICARD: What's the prepilion?
+LAFORGE: The crew is still at the container on a structure of the ship. 
+PICARD: What is it? 
+DATA: I am attempting a sensors at all power subspace scans and programme the shield and an impulse. 
+PICARD: Transporter room, can you access the computer to see the shuttle to beam up a change? 
+WORF: A ship's subspace disturbance is not an important than two months. 
+RIKER: We'll be able to get a position to starboard the Enterprise. 
+WORF: Aye, sir.
+
+[Ten Forward]
+
+(Data is beamed away) 
+PICARD: What is it? 
+DATA: And a single distortion was detecting a mistress signal to the shuttle as well. 
+PICARD: I won't know what you're thinking about. I'll be all right. I think you can go through this ship. I'll go to the Enterprise. I wanted you to go to the Bridge. 
+LAFORGE: Aye, sir. 
+PICA
+
+
+Validation
+Loss: 1.0772219
+Accuracy: 0.67671835

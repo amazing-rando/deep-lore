@@ -1,0 +1,38 @@
+Bridge.
+
+[Bridge]
+
+PICARD: And there are some time. 
+RIKER [OC]: Aye, sir. 
+RIKER: Geordi, what is it? 
+RIKER [OC]: Yes, sir. 
+RASMUSSEN: I'm sorry. I'll see you to the Bridge. 
+WESLEY: I'm not sure. 
+PICARD: Go ahead. 
+RIKER [OC]: I have another ship that we could start with the planet. 
+PICARD: I don't know if the computer has to be able to figure out the ship. 
+RIKER: Aye, sir.
+
+[Bridge]
+
+RIKER [OC]: And what about the surface as the ship?
+
+[Bridge]
+
+PICARD: Are they realising that? 
+DATA: No, sir. 
+RIKER: Station? 
+DATA: It is a problem with the planet and transferred a simulation from the ship. 
+PICARD: I would like to see that the ship is in a static chamber the shuttlecraft is about to be some sort of supply the cargo way to the shuttle. 
+RIKER: I would like to try the shuttle to the ship.
+
+[Transporter room]
+
+(The shuttlecraft is in the control station) 
+PICARD: Are you suggested a shuttlecraft is in the planet? 
+DATA: I had no reason for the ship to accept the ship to assist. 
+
+
+Validation
+Loss: 1.0720872
+Accuracy: 0.6786695

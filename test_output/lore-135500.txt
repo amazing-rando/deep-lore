@@ -1,0 +1,30 @@
+She transformed to an arrival the ship and takes him out and go to the controls) 
+WORF: Captain, I am receiving a chance. 
+RIKER: Where is the shuttle? 
+DATA: It's a complete security field in the first second station of the shields.
+
+[Bridge]
+
+PICARD: Tricorder in the ship is to break the strenging of the ship. 
+DATA: The ship is attacked. The ship is computer, a plasma compliment of transport to treat the ship as a second cargo. 
+PICARD: We're ready for the Enterprise.
+
+[Bridge]
+
+PICARD: The Bridge are there. 
+PICARD: Where are you saying the saucer sensors are an android? 
+DATA: The starboard strength is a signal that we cannot believe the ship is carrying.
+
+[Engineering]
+
+(Troi is attacked into the shuttlecraft) 
+PICARD: We have to get this to the Enterprise and the shields are attempting to run any things aboard this sector. 
+DATA: Captain, the entine controls andentation of the shuttlecraft is completely death. 
+RIKER: There's an android. 
+DATA: Change the shields on the ship. 
+D
+
+
+Validation
+Loss: 1.2154118
+Accuracy: 0.6426551

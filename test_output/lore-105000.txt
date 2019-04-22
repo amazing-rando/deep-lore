@@ -1,0 +1,27 @@
+The Bord of Starbase Sickbay]
+(The power supply station and shoots a planet in the cargo bay and throws him and they stop it) 
+PICARD: I would like to see it. 
+TASHA: I did not have an experience on the shuttle. 
+PICARD: I did not see your sensor system. 
+LAFORGE: Aye, sir. 
+(Picard enters) 
+PICARD: Mister Data, what are you doing? 
+WESLEY: That's all we could do. 
+PICARD: Where are they going to go through the shuttle on the surface? 
+DATA: That would be a similar transporter signal to this planet is too much to be so strange. I will run a second time we can report their shuttle. 
+RIKER: All right, that's all right. When the shuttle is gone. 
+PICARD: What's that? 
+DATA: The sensors indicate that they are all at the past six hundred minutes. 
+PICARD: Maintain any change of this ship. 
+WORF: Aye, sir. The controls are down.
+
+[Bridge]
+
+PICARD: Mister La Forge. Lieutenant La Forge here. We are all standing on the ship. 
+DATA: The ship has been attacked by the ship is a structural range. 
+
+
+
+Validation
+Loss: 1.0743836
+Accuracy: 0.6782848

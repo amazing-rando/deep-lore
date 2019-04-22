@@ -1,0 +1,17 @@
+The Bother Captain's log, stardate 44012.2. The Enterprise has been able to determine the starships we are to contain a structural analysis of the planet. 
+PICARD: And the challenge will be able to rule them on a status. 
+RIKER [on viewscreen]: I am not a problem. I am allowed them off. 
+RIKER: Why would he have a status than the same situation is so strange? 
+RIKER [OC]: I was able to come back. 
+DATA: The ship will not be able to disable the survivors. 
+RIKER: What about the ship? 
+DATA: That is a sign of substance to treat the plasma containment field and the probe. 
+RIKER: That's why I wouldn't be able to recover anything about the crew of the planet surface and see if they would have told us. 
+RIKER: We will be able to confirm them and the contract was the same time of a sensor strength and the same thing that have come to accomplish them to the ship. 
+RIKER: It would have been the same time to access the surface. 
+DATA: The same structure is considered the same surrounding power 
+
+
+Validation
+Loss: 1.074052
+Accuracy: 0.67780936

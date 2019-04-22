@@ -1,0 +1,24 @@
+The Enterprise. 
+PICARD: Computer, activate the Borg ship are still attacked. 
+WORF: She has been a lot of energy but the results of the ship's control system. 
+PICARD: Mister La Forge, prepare to enter when ready. 
+DATA: Acknowledged. 
+RIKER: We're going to have to try and transport a shield on a shuttle and thank to the shuttle. 
+WORF: Sir, we are ready to beam up the shuttle and the shuttlecraft was stabiled. 
+RIKER: What's wrong with this? 
+DATA: I have no idea that. 
+PICARD: What are you doing on? 
+DATA: The cardial starbase is a secure procedure in the ship. 
+ROBIN: The ship is destroyed by a terrible containment field. We're going to have to get the shield for a warp drive from this. 
+RIKER: Transporter room three one two two nener two seven seven seven three. 
+WORF: Aye, sir. 
+PICARD: Mister Data, what is it? 
+DATA: The secondary ship has been destroyed. 
+PICARD: Where did you see the shield ship? 
+LAFORGE: Aye, sir. 
+PICARD: Mister La Forge, we're going to have to go back to t
+
+
+Validation
+Loss: 1.078529
+Accuracy: 0.6768486

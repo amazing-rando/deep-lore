@@ -1,0 +1,39 @@
+The Alien Cargo bay]
+(and the door opens) 
+PICARD: What if you're going to see me? 
+COMPUTER: Affirmative.
+RIKER: The probe's shields are still on the planet.
+
+[Bridge]
+
+DATA: The shield is still alive. 
+PICARD: There is nothing to do with the starboard power systems to the shields and the probe in the ship. 
+RIKER: Aye, sir.
+
+[Bridge]
+
+DATA: Aye, sir. 
+(The ship is beamed away) 
+PICARD: What's that? 
+DATA: I have a problem to this shuttle. 
+PICARD: The ship's computer is at least a second time we can do it the same time.
+
+[Bridge]
+
+DATA: The shields are doing intercepted. 
+PICARD: That is a course. 
+WORF: Aye, sir. 
+PICARD: The shuttle's ready to see if we can do something. 
+DATA: Aye, sir. 
+PICARD: Mister Worf, we have a security guard on the ship. 
+WORF: Since the planet is alive, sir. 
+PICARD: The shuttle is too late. 
+DATA: That was not a programme. 
+RIKER: What's that? What about years? 
+DATA: I have no reason to see the ship. 
+RIKER: Well, if you want to save any indication, I'm
+
+
+Validation
+Loss: 1.0727186
+Accuracy: 0.67837554

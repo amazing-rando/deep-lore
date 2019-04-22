@@ -1,0 +1,6 @@
+   et  and    t e e    e t  ex ee e  a   e  a tes t t     e   e   e  a   e   e  att    ex teats      e     e   ex ei    e    e            e te te t  e tea e   e    e  a t    e t  exte t  e t      e  at t  to    e   e te te      e   a      ex  e tea     e te  e   e  a     e   e     ex   e te te        exters t tee      e t     exte teete  ex  e   e  at   e  et        e  a t     e t e e e t eet e    e  at t er  es  e  a  except        ex    et    tea    ext t    te     e t   e  e t e    et   e  a   e t  e    e teat    et a    e  at   ext     e  t e   e   e teat    e te       e  t  ext   e  ext  e   e t  e t  ett  e t te t          ext  ee a  e      ex   e    ext t     e  t te  ex   e teat     e t   ex  e            e       e tea  e   e  a t e exte teet   e  attace tore  a    e   at   exte t        e     ex   es    e     e  a   e t  ext  e     exte   e      e t e e  e     e tea     ex   ex     e   es e     e  at    e  a  exce te   ex eett  ee  at  ette at eas       e    e te     e   e  a 
+
+
+Validation
+Loss: 3.0696778
+Accuracy: 0.19914773

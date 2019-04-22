@@ -1,0 +1,22 @@
+The Enterprise.
+
+[Bridge]
+
+PICARD [OC]: I can tell you that you have to go back to Sickbay. 
+PICARD: We have to get the presence on the surface.
+PICARD: What are you doing? 
+DATA: I assume that it is a possibilities of the ship in the ship is a possible process than the power transfer. I hope they will be able to discuss this. 
+PICARD: It's an entire second time we're going to have to get to the ship. 
+DATA: I am not a position of an energy pulse. 
+LAFORGE: I'm not sure. I do not know what to do. 
+LAFORGE: You must have to go to the ship. 
+LAFORGE: Yes, sir. 
+RIKER: I'll get you to that. 
+DATA: That is another choice to be a little time to prepare for the ship's command. It is a part of the ship and the explosion is completely capable of a think. 
+LAFORGE: I don't know how to say. It was a lot to die. 
+DATA: It is not a ship with an expectable career. It is not that the contract will be able to run the ship and the position in this ship was supposed to be able to provide an energy burs
+
+
+Validation
+Loss: 1.0703582
+Accuracy: 0.6782868

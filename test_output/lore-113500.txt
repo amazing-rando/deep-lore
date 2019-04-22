@@ -1,0 +1,29 @@
+Security Chip]
+DATA [OC]: It is a mistake. 
+RIKER [OC]: I can't locate them. 
+LAFORGE: Aye, sir. 
+PICARD: I'm sorry, Data. 
+DATA: Thank you, Captain. 
+PICARD: I'll go along the control room. 
+LAFORGE: And what's going on? 
+RIKER: We can't do this at the same thing to do. 
+PICARD: What about the power surges? 
+LAFORGE: I don't know what happened. 
+PICARD: I won't believe this is an opportunity. I want you to get the shields on the Bridge. 
+LAFORGE: I'll have to. 
+PICARD: What is it? 
+LAFORGE: I don't know. 
+RIKER: Well the ship is alive. 
+RIKER: When we get to the ship and the station of the presence of the plot that's all they're going to have to do it. 
+ROBIN: I'm sorry. 
+WORF: I am a man. 
+LAFORGE: I want you to keep the power transfer to the surface and the storms are still alive. It seems to be a chance to transport them to the ship. 
+RIKER: I'm afraid that's not the same thing you do think is to be. 
+PICARD: I don't think so. 
+DATA: I would be able to respond to the ship. 
+LAFORGE
+
+
+Validation
+Loss: 1.0762304
+Accuracy: 0.677472

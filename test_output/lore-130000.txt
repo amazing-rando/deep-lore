@@ -1,0 +1,23 @@
+The Federation station.
+
+[Bridge]
+
+RIKER: This is Commander Date. 
+DATA: The sensors are attacked. The power song areas is completely attempting to do that the shuttle are already destroyed. 
+PICARD: Where is the static? 
+WORF: The security control is considerably detecting a serve on any subspace starships and stress in the antimatter control. 
+RIKER: We're ready. 
+PICARD: What is the shuttle as well as they've been able to do it? 
+DATA: It is a state of any other signs of a stranger that will be able to distroy the sensors of the process. 
+RIKER: We've got to get a course to the ship. 
+PICARD: They will be able to start the corridor. 
+PICARD: What's the procise? 
+DATA: It is not a strategy of a consistent control of the station of thirty seconds to destroy the ship. 
+PICARD: We're going to be in this sector. 
+WORF: The shuttle's still in one hundred metres are still at warp. 
+PICARD: They are not sure why the communicators are still in the station and the ship wants to detect the pow
+
+
+Validation
+Loss: 1.1131233
+Accuracy: 0.6670139

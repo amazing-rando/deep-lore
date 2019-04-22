@@ -1,0 +1,30 @@
+Second shap]
+
+[Bridge]
+
+DATA: The shields are prepare for the ship. 
+RIKER: We've got a particle security sensor radiation section on a second second time and. 
+DATA: Captain, the shields have been to the probe. 
+PICARD: The containment sensors are all security. 
+DATA: Captain. It is not to stay and take an entire. 
+PICARD: Stand by. 
+DATA: Captain, I have a communication form of the present power to the shience computer. 
+RIKER: The shuttlecraft is to see it and. 
+RIKER: They're at the planet.
+
+[Bridge]
+
+PICARD: Some kind of transporter room foun three point three. 
+RIKER: Sir? 
+RIKER: Sir, I'm supposed to be sure. 
+PICARD: Why are you sure? 
+DATA: The ship's captain are not to start a capability of transporter. 
+RIKER: Still, sir, the security transport readings are at the point. 
+PICARD: We've got the ship as we control the security. The security officers are recorded to the shields and the programme are all standing by. 
+RIKER: We can report to the ship in this planet. 
+PICARD: We 
+
+
+Validation
+Loss: 1.1793836
+Accuracy: 0.65073985

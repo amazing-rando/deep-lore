@@ -1,0 +1,35 @@
+The Enterprise.
+
+[Bridge]
+
+PICARD: Mister Data, what's that? 
+WESLEY: Aye, sir. 
+(Picard is beamed away from the ship and stands into the control room)
+
+[Shuttlebay three]
+
+(The chairs are beamed away from her head and the ship is beamed away from their holodeck) 
+PICARD: What if you want to stop it? 
+DATA: I am afraid the carrier is constructing the ship and allowed them to confirm the shuttle to the captain. I will be able to confine the computer subspace. 
+RIKER [OC]: Aye, sir.
+
+[Bridge]
+
+RIKER: The ship is is still being detecting an antimatter ship. 
+RIKER: The crashed on the shuttle is still in there, and it is the same situation that has been all right into the shields. 
+PICARD [OC]: What is it? 
+DATA: The containment sield is coming from the planet. 
+PICARD: Mister Worf, take us out of the engineering section. 
+RIKER: Take us to Sickbay. 
+RIKER [OC]: Aye, sir. 
+PICARD: Mister Worf. 
+WORF: Sir, the ship is close to signal.
+
+[Sickbay]
+
+CRUSHER [OC]: We can try to get the computer
+
+
+Validation
+Loss: 1.0761161
+Accuracy: 0.6776633

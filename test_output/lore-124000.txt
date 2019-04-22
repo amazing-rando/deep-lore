@@ -1,0 +1,26 @@
+Tenthty of Starfleet Command. 
+PICARD: What is it? 
+CRUSHER: I don't know. I was the one thing the way you can. 
+PICARD: I will be held to take you to the Enterprise. 
+(The team in a ship and the console are back into the containment field) 
+PICARD: I want you to send you to Sickbay. 
+CRUSHER: You're not going to help me. I was just the one who should help. I don't know. I would have thought. 
+PICARD: We had to send you a little tough to take a lot of things. 
+Q: Why? 
+PICARD: I don't know. I don't know. It's all. I want you to know why. 
+(the parasite is standing behind his hand) 
+RIKER: I was just trying to see you. 
+WORF: I am a transporter room three. 
+LAFORGE: I'm sorry, Captain. 
+PICARD: I will be here to return you to the Enterprise. 
+(The ship is started and stands out) 
+WORF: That is an energy pod. 
+(troi is beamed away, and the correct status are in the cavern) 
+RIKER: What are you doing of the shuttle and take us out? 
+DATA: The ship will be all ready. 
+LAFORGE: I don't know
+
+
+Validation
+Loss: 1.0725905
+Accuracy: 0.67887664

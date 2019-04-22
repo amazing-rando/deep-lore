@@ -1,0 +1,27 @@
+Ship]
+PICARD: Captain Picard has already been able to discuss. 
+RIKER: I was a patient of the ship. 
+PICARD: It's a little too bad and in the same captain. 
+TRAVELLER: I will not be in this sector to transport to the Enterprise and I will be the ones who was a matter of hours ago. 
+PICARD: I have to take a chance to take the ship and the ship's communications will be to be designed to be in this case. I want you to stay here as any of the ships on the Enterprise.
+
+[Transporter room]
+
+(Troi is in the crash) 
+PICARD: Transporter room three, continue to transporter room three. We have a lot of command. 
+RIKER: That's all right. 
+PICARD: What's the same programme? 
+DATA: I am at least three hours, sir. 
+PICARD: We have to try and stop the shields. 
+WORF: They are still all transporting to the surface. 
+PICARD: Stand by. 
+WESLEY: I don't think so, sir. 
+PICARD: Take us to the Bridge. 
+RIKER [OC]: I want you to go to Starbase Four three, sir. 
+PICARD: Transporter room three. 
+RIKER: I want t
+
+
+Validation
+Loss: 1.0746205
+Accuracy: 0.67840517

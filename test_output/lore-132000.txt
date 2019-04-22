@@ -1,0 +1,23 @@
+The Enterprise 
+
+Captain's log, supplemental. I was all right. 
+PICARD: I want to take the ship to the shield control tractor beam. 
+DATA: I am ready to run a secondary sensor band. 
+PICARD: Mister Worf, we are all sensing the shields to the surface which continues to bring this ship. 
+RIKER: And there's nothing wrong with the station. 
+PICARD [OC]: It's all right. 
+PICARD: The conference was the only one who would have been able to determine what he was trying to stay on the subspace. 
+RIKER: And we have any possibilities that we won't have to do that at the captain. 
+PICARD: I don't. I don't think that we could have to assume you we contain this planet. 
+DATA: I am an order to seem the same time I have a completely destroyed being to the street.
+PICARD: A secondary starship with a signal there is a computer to bring us the computer to the ship and the shuttlecraft will not be able to see.
+
+[Bridge]
+
+RIKER: I don't think so, sir. 
+PICARD: Mister Worf, we are to beam up the shield four
+
+
+Validation
+Loss: 1.128495
+Accuracy: 0.6637232

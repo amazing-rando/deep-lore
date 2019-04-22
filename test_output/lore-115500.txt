@@ -1,0 +1,37 @@
+Corridor]
+(Trent is in the shuttle in a control sector) 
+PICARD: We are already taking an energy fluctuation in the conduit. 
+RIKER: Aye, sir. 
+PICARD: On screen. 
+(and stops the ship's seat on a strand of their attacks then then the shuttlecraft arrives) 
+RIKER: I want you to get the command of a shuttlecraft. 
+WORF: Aye, sir. 
+PICARD: Make it so, Mister La Forge.
+
+[Engineering]
+
+LAFORGE [OC]: The problem is a position on the shields are at this sector. 
+PICARD: What's the difference between the planet? 
+DATA [OC]: A malfunction is no longer at the same computer. The plasma stream is all a member of the ship. 
+RIKER: That's what they want. 
+DATA: The sensor range is a possibility. 
+LAFORGE: I don't think they can get. 
+DATA: The shield is clear.
+
+[Bridge]
+
+DATA: The possibilities are reacting to the plasma shield. 
+RIKER: We have to get a lot of time.
+
+[Bridge]
+
+RIKER: We're ready to beam them out.
+
+[Bridge]
+
+RIKER [OC]: And there's a little strange that the Enterprise has been replac
+
+
+Validation
+Loss: 1.0744174
+Accuracy: 0.6780165

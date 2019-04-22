@@ -1,0 +1,32 @@
+Constant Section. The Enterprise is still in the case) 
+PICARD: Welcome to the Bridge. We can see if you can tell me what's the conference. 
+DATA: That would be a passage of the programme.
+
+[Bridge]
+
+DATA: The sector is coming to the ship's core. 
+PICARD: Then we have the Bridge.
+
+[Engineering]
+
+LAFORGE: I don't know what's going on.
+
+[Shuttlecraft]
+
+PICARD: I was just about to see you in the computer to the ship. 
+DATA: It is a matter of manner in the corridor. 
+RIKER: I don't think there's nothing to do with that. 
+DATA: I am a problem. I am a simple shuttlecraft to send a shield. 
+PICARD: We can't see them. 
+DATA: The command in the sector is a similar containment field. 
+PICARD: What are they senting? 
+DATA: The captain is a simple simulation of this ship. 
+PICARD: We can trace the subspace four on the shuttle before we get the ship into the containment control. 
+DATA: The shields will be at a star system with the probe in terms and shields. 
+RIKER: What's that? What is the same? 
+
+
+
+Validation
+Loss: 1.076202
+Accuracy: 0.67718

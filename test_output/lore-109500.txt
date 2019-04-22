@@ -1,0 +1,24 @@
+The Bert of Data's shuttlecraft] 
+PICARD: I won't have the chances of the ship and I have a problem with you. 
+RIKER: I want to see. I'm not sure. 
+RIKER: Well, the ship's shuttle is set in the plasma shields as the ship's shields are being. 
+RIKER: I don't think that is an entity. 
+DATA: I have already returned to the shuttlecraft. 
+PICARD: The primary status on the Enterprise, the Enterprise will never be able to retrieve them. 
+DATA [OC]: Aye, sir. 
+PICARD: Transfer three percent of the shields.
+
+[Engineering]
+
+DATA: The Borg ship is still in one of the computer to the surface and the plasma streamer was detected. 
+RIKER: That would be that we can do the same thruster. They've got a lot of starship was the same thing to do with the shields. 
+RIKER: I don't know. 
+RIKER: We can't see that the crime is too late. 
+DATA: I have not been able to remove the subspace field. It is the same and a few days ago. 
+PICARD: The primary ship is still all about. 
+DATA: It is the ship we have decide
+
+
+Validation
+Loss: 1.0759895
+Accuracy: 0.6779198

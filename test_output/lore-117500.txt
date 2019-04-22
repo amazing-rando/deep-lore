@@ -1,0 +1,22 @@
+The Enterprise Commander. The Enterprise is in the ship. There's a break on the planet's captain. 
+(The seconds of the core ship stands on the corridor in the control core) 
+DATA: I am prepared to determine that the command is not a completion. 
+RIKER: The sensor ready for the shuttlecraft and I will not be in trouble. 
+RO: I don't think so, sir. 
+PICARD: Well, I'm sorry, I could have to go there. 
+DATA: I am a female that I cannot apologise for the same time I would be able to respond to them. 
+LAFORGE: It's not true. We can tell you the point of the crew as they're on the Enterprise. 
+PICARD: I don't know. 
+DATA: The presence of my concerns with the aliens were concerned what you are doing here. 
+PICARD: I am a matter of contraction. 
+TROI: What about you? 
+PICARD: Well, I'm sorry, I don't think I would see you again. 
+DATA: I am not a more than a couple of times. 
+K'EHLEYR: What are you doing here? Why did you stop my presence? 
+PICARD: I don't know. 
+MADRED: I wonder what you want 
+
+
+Validation
+Loss: 1.075711
+Accuracy: 0.6777896

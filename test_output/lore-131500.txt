@@ -1,0 +1,28 @@
+The Bridge]
+PICARD: The star system is not.
+
+[Bridge]
+
+PICARD: The concentration sequence was the same thing to design the surface. 
+RIKER: We will see that what we have to do. 
+PICARD: We were through the surface. It's a presence of straight and seem a change of substation. 
+RIKER: I'm not sure that's an all transmitter.
+
+[Transporter room]
+
+PICARD: That is a computer station. 
+DATA: The shuttlecraft will send a ship to the surface. 
+PICARD: There is a survivor of a subspace device which we want the ship the same ship. 
+RIKER: I'm not sure. 
+RIKER: I was a little sorty of transmitter to this star system. 
+RIKER: It's not the man who hadn't get an empting support of the probe of this shuttle with the tractor beam to track. 
+RIKER: I was a little transportir. 
+PULASKI: I would like to see it at a little time.
+PICARD: We haven't got any sorried things. 
+ROBER: That would have been true that we were three to the surface. It's a powerfil subspace. 
+RIKER: It's almost that we're not a contr
+
+
+Validation
+Loss: 1.1655561
+Accuracy: 0.6553938

@@ -1,0 +1,41 @@
+The First Starfleet Control pattern) Stardate 43433.3. We are approximately second century all of the surface and the ship's power source. 
+RIKER: All right, there are some signs of the ship's power to all the process. 
+DATA: Acknowledged.
+
+[Engineering]
+
+LAFORGE [OC]: This is the Bridge, Captain. 
+RIKER: We've been allowed to restrict the programme. 
+PICARD: On screen. 
+WORF: Aye, sir. 
+PICARD: On screen.
+
+[Bridge]
+
+PICARD: What are they? 
+DAVIES: The Enterprise is on the Bridge. 
+PICARD: On screen.
+
+[Bridge]
+
+RIKER: And we have to accompany the ship's power. We have a reason to stop the ship and they're all about. 
+DATA: Acknowledged. 
+PICARD: On my way. 
+WORF: Aye, sir.
+
+[Bridge]
+
+RIKER: We've been able to accomplish a security security code. 
+RIKER: We've got to read our problems with the shields. I can't find the power to the plasma core. 
+RIKER: And where did you do is try and try to do this?
+
+[Engineering]
+
+LAFORGE: All range, there are no other ships. 
+PICARD: On screen. 
+WORF:
+
+
+Validation
+Loss: 1.0760474
+Accuracy: 0.67671245

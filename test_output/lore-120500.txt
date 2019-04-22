@@ -1,0 +1,20 @@
+Ten Forward]
+(Worf is staring around and the ship is starting to get through a starship and starts to see the ship is the figure on the forward) 
+PICARD: Welcome to the Bridge. 
+RIKER: We're going to be in the minds of the ship. 
+RIKER: We could see the communicators that can be able to discuss the shields the surface. 
+PICARD: Well there's nothing to say. 
+RIKER: We've got to go through the probe as we can destroy. 
+PICARD: Well, I would like to take a look at thes. 
+DATA: The sensors are picking up the probe in the metal system. 
+RIKER: Where is this ship? 
+DATA: I believe the ship was coming to the surface at the past two minutes. 
+RIKER [OC]: When would you carry out a sense of tricorder and try to take the ship at a security seat? We can't do this any life form. 
+RIKER: What's the same tissue from the shuttle is a strange destruction to the surface and the surface in the subject of any survivors? 
+WORF: It was a starboard bartle one of those things about them. I will not ask. 
+PIC
+
+
+Validation
+Loss: 1.0738517
+Accuracy: 0.67788035

@@ -1,0 +1,33 @@
+Shep Barks.
+
+[Cargo bay]
+
+CRUSHER: I'm not sure you were to leave. 
+PICARD: I don't know. I don't know. 
+CRUSHER: I don't think so. 
+PICARD: What is it you do? 
+TROI: I don't know. I don't know. 
+PICARD: I wanted you to stop this place. 
+TROI: I'll be able to stop it and tell you the compose of the station who was a little bit to be the same thing you're doing. I was all right. 
+PICARD: What is it your position? 
+Q: I don't know. 
+PICARD: Well, it's not a sense of problem. 
+Q: We didn't know what you want to see. 
+PICARD: Well, if the ship would be a serious distortion, we could be able to send you to the Enterprise.
+
+[Bridge]
+
+DATA: Commander, we are on our way. 
+PICARD: Well, I'll get you a complete programme. 
+LAFORGE: I'm sorry. 
+PICARD: What is it? 
+LAFORGE: I don't think so. 
+PICARD: Well done. I'm sorry that you are too long as you are an entire planet. 
+RIKER: I was just trying to stay here. 
+RIKER: We were to stay here. 
+PICARD: I will not be able to set a course for the Enter
+
+
+Validation
+Loss: 1.0734439
+Accuracy: 0.6771208

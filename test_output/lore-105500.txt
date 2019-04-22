@@ -1,0 +1,22 @@
+Control room]
+(We are still alive and the shuttle is staring at a command of the ship in a starship. The security systems are beamed away. Troi is beamed away from the control system. 
+RIKER: We're right now. 
+(The ship shakes) 
+DATA: Counsellor Troi, I am not comparing to the ship and to the Enterprise to this sensor. 
+PICARD: It's a little something to say. 
+TASHA: Thank you, Commander. 
+RIKER: I'm sorry, sir. I don't know what to do with you. 
+PICARD: I don't know what to do. 
+TROI: I will be telling you about the same thing you wanted me to do. 
+PICARD: It's a senies of solution and start the prisoners of the ship. 
+RIKER: I want to take a look at this and stay here as you were there. 
+PULASKI: I'm not sure yeu'll have them to stay at the same time. 
+PICARD: I don't know. 
+DATA: The communication is a subspace discovery of the structure. 
+LAFORGE [OC]: Computer, determine the ship's sensor shield confirms as the shields are standing. 
+PICARD: The Enterprise is the Enterprise and th
+
+
+Validation
+Loss: 1.0773305
+Accuracy: 0.6779198

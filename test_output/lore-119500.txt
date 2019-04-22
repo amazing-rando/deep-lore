@@ -1,0 +1,38 @@
+The Captain's log, stardate 45242.3. We are nearing a stranger contral. 
+PICARD: The probe is alive to the ship. 
+DATA: There is no way to destroy the ship is attempting to destroy the subspace sensors. 
+PICARD: Mister Data, you have the Bridge.
+
+[Bridge]
+
+PICARD: Mister Worf, report. 
+WORF: Sir. 
+PICARD: The station was a starship. 
+WORF: Sir. 
+PICARD: The starboard ship is dead. 
+RO: I've been able to respond to the shuttlecraft and the ship's station. 
+PICARD: Mister Worf, report to Sickbay. 
+CRUSHER: I'm sorry, Commander.
+
+[Bridge]
+
+PICARD: Transmitting the starbase? 
+DATA: The ship is designed to destroy the planet. 
+PICARD: Make it so. 
+(A bright glass is standing by an android with a part of the cargo bay) 
+LORE: I would like to see you. 
+(Worf looks out of this ship) 
+LAFORGE: What did your pressure here? 
+LAFORGE: I'm sure I don't. 
+RIKER: What about me? I want you to kill him. I can't get anything to do.
+
+[Cavern]
+
+PICARD: Come. 
+(Riker enters where the doorbell rings) 
+RIKER
+
+
+Validation
+Loss: 1.0724897
+Accuracy: 0.6779455

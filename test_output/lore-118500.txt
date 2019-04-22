@@ -1,0 +1,27 @@
+Basis of Sickbay. The Ferengi ship shows to see his shoulders) 
+LAFORGE: I don't know what to do. It must be a sharted time. 
+DATA: I would not have to do that. 
+LAFORGE: Well, the conclusion is there and I was a little to believe that the stars is to be a long tame and that I was a long way to see that what we have to do. 
+RIKER: I didn't want to say there. 
+PICARD: I don't know. 
+CRUSHER: I don't know.
+
+[Bridge]
+
+RIKER: I want this ship to the ship.
+
+[Bridge]
+
+PICARD: Mister Data, what is it? 
+DATA: I would like to take that power to tractor beam. 
+PICARD: Station the static station. 
+DATA: Sensors are picking up a signal from the planet surface. 
+PICARD: Stand by. 
+WESLEY: Sir, the ship is stable. We can try them and they are ready to be made on the ship. 
+PICARD: I wanted you to retrieve the shields and the shuttle interference with a starbase of this sector. 
+DATA: I will be able to determine that we have to reach the shields and complete. It is a power supply of the station and c
+
+
+Validation
+Loss: 1.0755749
+Accuracy: 0.6779139

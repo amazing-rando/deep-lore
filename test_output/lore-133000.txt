@@ -1,0 +1,30 @@
+The Enterprise. The planet's stars in the ship is a light through a straight beam) 
+RIKER: I don't know. 
+LAFORGE: I don't know wook and the ship was sensors too. I could be in the ship. 
+PICARD: That's what I would like.
+
+[Bridge]
+
+PICARD: That's the signal. 
+(The transmission ends in the core. 
+RIKER [OC]: I can take them the Enterprise. 
+LAFORGE: That's why I can do it. 
+(They start to take a start one of the shuttlecraft. The ship is a lot of ship in the ship) 
+LAFORGE: I'll go to the Bridge.
+
+[Ten Forward]
+
+PICARD: Can't you go to me in the shields? 
+DATA: Sensors are activated. 
+PICARD: There's no reason to talk to me. I was the only one that's not the time that we are about. 
+LAFORGE: The problem is coming by this ship and they're going to be able to come in. 
+PICARD: It is the ship. 
+LAFORGE: I would be able to contact you. I wanted to take a little. 
+LAFORGE [OC]: Captain, I want this. 
+LAFORGE: The presence of the planet sources are still being beamed aboard. 
+RIKER: That's w
+
+
+Validation
+Loss: 1.1315095
+Accuracy: 0.66167927

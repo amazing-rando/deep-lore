@@ -1,0 +1,24 @@
+The Heart.
+
+[Ten Forward]
+
+(Data is started to send the shields and takes the station and takes him on a stream of a station and the console is standing by the shuttlecraft) 
+PICARD: I won't be able to see the contract of a probe of the ship. 
+TROI: Well you know what you wanted to do to the state of time? 
+PICARD: I don't know what's the source of the safety one of those senses to be. It would be a minute. 
+TROI: I didn't know what I do.
+
+[Bridge] 
+
+PICARD: That was the only one that we're going to bring the ship's security team at the surface. 
+DATA: It is not a ship. 
+PICARD: When we stand to the surface when the programme was able to see the subspace survivors, we won't be able to send anything that would be able to destroy the planet. 
+DATA: I am ready to read the shuttle and the containment fields of the subspace computer in the surface of the ship and the ship. 
+LAFORGE: What is the point one of them? 
+WORF: The sensor star systems are not at the structure. 
+PICARD: That was a p
+
+
+Validation
+Loss: 1.1288705
+Accuracy: 0.6630189

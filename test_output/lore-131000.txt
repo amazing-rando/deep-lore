@@ -1,0 +1,33 @@
+The Enterprise 
+
+[Bridge]
+
+PICARD: What are the example? 
+LAFORGE: The engines are sensing the ship in the ship. 
+PICARD: The security containment field is a pattern of twelve seconds. 
+DATA: The sensors indicate the stress of a status are now a sensor reactor. 
+RIKER: It's a precise starship. It's the ship when the containment field in to be a communicator where we can answer that they allow me to see the problem. 
+PICARD: I want to see that this is the Bridge as a change. 
+RIKER: What are you doing? 
+LAFORGE: The sensors are all reading to the programme of the planet. 
+PICARD: I want you to set that there. 
+LAFORGE: I've got to take a shield and see that. 
+PICARD: I can see that they're receiving the ship and to beam. 
+LAFORGE: There's a subspace shield in the probe.
+
+[Bridge]
+
+RIKER: Static attempt to react the ship. 
+LAFORGE [On]: Aye, sir. 
+RIKER: Aye, sir. 
+RIKER: Aye, sir. 
+PICARD: There's no one who's going to happen to the ship.
+
+[Bridge]
+
+PICARD: Mister Data, we're ready to s
+
+
+Validation
+Loss: 1.1677186
+Accuracy: 0.6552636

@@ -1,0 +1,27 @@
+The Enterprise and the Bridge]
+DATA: Computer, report to the Bridge. 
+COMPUTER: There is no signal from anything wrong with the probe to return to the surface. 
+RIKER: We can try to destroy the planet's ship. 
+DATA: It is not a simulation. It is a signal there is no reason to save any of this. 
+RIKER: Thank you. 
+RIKER: We have to send a starship to the Bridge. 
+RIKER: Aye, sir. 
+PICARD: What's the mission? 
+DATA: The probe was near the starbase that would be a matter of signal at the same time. 
+PICARD: That's what they were too. 
+RIKER: Then we have to see them.
+
+[Bridge]
+
+PICARD: Transporter room three, what's the matter? 
+DATA: I am receiving a sensors and the programme is not a security system that will be a probe to access the ship. 
+RIKER: We have the Bridge. We'll be able to take this to the Bridge. 
+RIKER: Aye, sir. 
+RIKER: The shuttle is sending a distress call from the shields and the second room is over. 
+RIKER: The ship is to bring us a course to the shields. 
+DATA: The sh
+
+
+Validation
+Loss: 1.0735588
+Accuracy: 0.67806184

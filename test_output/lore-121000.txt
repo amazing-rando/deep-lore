@@ -1,0 +1,29 @@
+Trein of Sixty Chars
+
+Captain's log, stardate 45329.3. We are completely continuing to transport a channel to the Enterprise and the Enterprise has a reason to contact Starfleet officers. 
+PICARD: The Borg are an ancient point. 
+DATA: That would be the only one. 
+RIKER: The Enterprise is a communication.
+
+[Sickbay]
+
+CRUSHER: I don't know what you want about it. 
+DATA: I have no responsible response. 
+PICARD: The Enterprise will be detecting to a ship than anyone who was sent to the problem. 
+DATA: That would be to be the only.
+
+[Sickbay]
+
+CRUSHER: The shields are standing by. 
+RIKER: They were able to return to the ship. 
+RIKER: Aye, sir. 
+RIKER: I can tell you and I'll start with the probe that you will be detecting a choice. 
+DATA: It is an android and the shuttle of the probe. 
+PICARD: The Enterprise is a positronic particle force from the Enterprise. It's a little so strange. 
+DATA: I am not afraid of anything we would learn that we are able to contact the Enterprise. 
+PICARD: I wa
+
+
+Validation
+Loss: 1.072188
+Accuracy: 0.6782296

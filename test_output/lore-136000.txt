@@ -1,0 +1,29 @@
+The Enterprise of the Bridge. 
+PICARD: I don't think it's too lite a life of status of the ship. It's a second starboard computer and they're a problem while that's why I'm not sure I want to stay out. 
+PICARD: I want to stay the ship. 
+PICARD: What if you don't have to determine the power to the planet? 
+WORF: I am not servived about the shuttle. 
+RIKER: Well I don't know. 
+PICARD: I'll tell you.
+
+Captain's log, stardate 43955.2, Wes are a stand by. There are no problems. It is a sign of the plan to continue to be able to all stand by the prisoner of a security to the planet.
+
+[Bridge]
+
+PICARD: I would be here to see you to the Bridge. 
+RIKER: I don't know. I don't think I'll go to the Enterprise and I can do that. 
+PICARD: What are you said? 
+WORF: I am not able to read any power from the problem. 
+PICARD: I don't know. 
+PICARD: I'm a long time. I did not say that. 
+WORF: I am not so sure.
+
+[Bridge]
+
+RIKER: What is it that it would be a long time? 
+WORF: I am not sure I have not dest
+
+
+Validation
+Loss: 1.2102731
+Accuracy: 0.64336526

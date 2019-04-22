@@ -1,0 +1,37 @@
+Text 
+Captain's log, supplemental. The ship will not be able to discontinue the starboard bow. 
+PICARD: Make ut to this planet. We're going to have to get out of here.
+
+[Bridge]
+
+PICARD: Maintain an energy field in the containment pod from the ship. 
+DATA: The shuttle is detecting the sensors to reach the planet surface. 
+PICARD: Mister La Forge. 
+LAFORGE: We're going to be in the station system. 
+RIKER: And what is that? 
+LAFORGE: We can't stabilise the power systems.
+
+[Bridge] 
+
+RIKER: And the communicators are differint from a subspace distortion field in the substantial system and transport to a subspace field and transferred to the surface and the ship's computer system was still on the ship.
+
+[Cargo bay]
+
+(the devices are breaking away) 
+PICARD: I would be able to stay with you as a family morning. 
+ROBIN: Aye, sir.
+
+[Bridge]
+
+PICARD: We're ready. 
+(the shuttle rains) 
+PICARD: We're going to have to go back to the ship. 
+WORF: Aye, sir. 
+PICARD: Well done. 
+LAFORGE: Aye, sir. 
+(t
+
+
+Validation
+Loss: 1.0722545
+Accuracy: 0.67698663

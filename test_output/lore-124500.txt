@@ -1,0 +1,21 @@
+Ship's Barridary Station 
+Captain's log, stardate 43975.3. Where is Captain Picard? 
+CRUSHER: I've getting a concern of the planet surface. 
+PICARD: Mister Data, when the shields are sent to the shuttle as soon as they've been attacked in thirty six minutes, the precise subspace security systems are now entering an entire planet is a closing sector on this ship. 
+DATA: Commander, I am afraid I have a chance to beam you to Sickbay. 
+CRUSHER: That wouldn't be possible. 
+PICARD: I was thinking about them. 
+TROI: That would be a consistent wise to send a shuttle to the planet. 
+PICARD: I wish I had to detect the problem. 
+RIKER: I'll be able to send a ship to the ship. 
+PICARD: I would like to help her. 
+CRUSHER: The ship was alive and the probe has already decided to be sure. 
+PICARD: What did you know about the power? 
+DATA: I believe the power surge in the past, sir. I am afraid the problem was not a possible power. It is a simple past. 
+PICARD: Thank you, Doctor. 
+CRUSHER: The computer
+
+
+Validation
+Loss: 1.0733978
+Accuracy: 0.6782769

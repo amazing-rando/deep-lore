@@ -1,0 +1,22 @@
+The Captain's log, stardate 47020.2. We are approaching the Enterprise. 
+PICARD: I wanted to talk to you about the shuttle. 
+RIKER: I was able to determine what you've done about it. 
+PICARD: Why would you continue to see his crew? 
+DATA: No. 
+LAFORGE: I'm not sure that you're a problem. I wasn't the only ship who was able to continue to stop this. 
+DATA: Then I will not be able to stay home. I was able to retrieve the stress. I have a chance. 
+PICARD: What is the same tist of this plan? 
+DATA: I would like to see the problem. 
+PICARD: I don't know. I was the only one to destroy the ship and I want you to stop the starship of this containment field. 
+LAFORGE: What about the ship's subspace system? 
+LAFORGE: I don't think they're gentle in the same. 
+PICARD: We'll see. 
+DATA: I am afraid the explosion is considered a subspace disturbance. 
+RIKER: I was joining the power surge. I'll see you again, Captain. I don't know. I don't think I can get to see you. 
+PICARD: What are you doing? 
+DA
+
+
+Validation
+Loss: 1.0730115
+Accuracy: 0.6781329

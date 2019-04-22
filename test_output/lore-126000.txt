@@ -1,0 +1,29 @@
+Bargaidance 
+Captain's log, stardate 45242.2. There is a second containment field destroyed it as a strong radiation field. It will be a tractor beam to attempt to restore the ship. 
+PICARD: All stop, Captain. 
+PICARD: Computer, accompany me to the Bridge, Mister La Forge. 
+LAFORGE: Aye, sir.
+
+[Corridor]
+
+PICARD [OC]: I want to see the computer to the Borg ship. 
+RIKER: Aye, sir. 
+RIKER: We're ready for the same time they're ready. 
+PICARD: Mister La Forge, what are you doing on my ship and the control room is to the Bridge. 
+LAFORGE: I'm going to have to destroy the structure. 
+PICARD: Mister Data, where are you doing? 
+DATA: The controls of the ship is coming in again. 
+RIKER: We're receiving a secondary configuration from the cavern on a starship. 
+WORF: Aye, sir.
+
+[Sickbay]
+
+CRUSHER: I didn't want you to kill this particle fountain. It would be a child. It is a member of the same cards. 
+PICARD: What do you mean? 
+DATA: I am a termicle possibility of a matter of time ago. 
+RIKER: W
+
+
+Validation
+Loss: 1.074758
+Accuracy: 0.67754495

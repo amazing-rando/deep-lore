@@ -1,0 +1,28 @@
+Capacity of Being a crisinal distortion field and shows) Captain, the energy field is compateble. The shields are destroyed. 
+RIKER: The control records are destroyed between the ship.
+
+[Bridge]
+
+DATA: The ship is closing. 
+PICARD: Ensign, we've recovered the shield from a stream of transporter room two. 
+DATA: Captain, they are still in the atmosthere. 
+RIKER: Set course for that ship. 
+WESLEY: Aye, sir. 
+PICARD: Any sign of the shields? 
+DATA: It is a malfunction in the containment field. 
+RIKER: They're still all right.
+
+[Bridge]
+
+RIKER: Commander, we are ready to detect an antimatter control system. I can't start a similar to the ship in the ship. 
+PICARD: I'm sorry, Data. 
+DATA: It is a matter of differences and similar to the shuttle.
+
+[Bridge]
+
+RIKER: Coulse all right. What if they were transformed to the shields to stablish. The probe was still on the ship and the ship's security commands. The ship's ship's sensors indicate a sentimental device in the ship are already destroyed
+
+
+Validation
+Loss: 1.0724701
+Accuracy: 0.67856497

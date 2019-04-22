@@ -1,0 +1,31 @@
+The Enterprise is a string of the starboard ship then he starts) 
+PICARD: The Enterprise has been able to come on board. 
+RIKER: What are the ship's probe to see? 
+DATA: The starship is at the main sensor range. It is a problem. 
+PICARD: The computer is the same thing that you can do this to the ship at the container. 
+DATA: Aye, sir.
+
+[Sickbay]
+
+CRUSHER: I can see it. 
+CRUSHER: There is no other way of striking. 
+RO: That's all right. I don't know. 
+PICARD: Well, I want you to start all this interesting to see me about this and talk to you. 
+CRUSHER: Then I will be ready to return to the Enterprise. 
+PICARD: We haven't been thinking. 
+DATA: I have not returned. 
+PICARD: The concern of the ship's controls are too late, Doctor. 
+DATA: It is a possibility to survive the shields to the planet. 
+PICARD: We can continue with the problems. 
+DURKEN: The Captain is a threat of the crew. 
+PICARD: What is it?
+
+[Transporter room]
+
+(The ship's comm. controls are back into the corridor) 
+PICARD: Do
+
+
+Validation
+Loss: 1.0746464
+Accuracy: 0.6770794

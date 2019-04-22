@@ -1,0 +1,28 @@
+The Bridge]
+
+[Ready room]
+
+PICERD [OC]: I'm sorry. 
+PICARD: I was all right. 
+(The later in the containment case) 
+PICARD: I was the same ship is that the Enterprise will be. 
+RIKER: I don't know what you want. I did not know what you're going to do to see me about this area to see you. 
+PICARD: I don't think you're a standard one of the programme on the Bridge. 
+RIKER: I don't. 
+RIKER: I want you to replace you that the ship is interesting. 
+RIKER: Thank you, Captain. 
+PICARD: I'm surprised to be selecting the ship. 
+PICARD: That's a problem. 
+PICARD: I wanted to take the Enterprise. 
+WORF: Commander Data, this is the ship in the containment field in the ship which is the ship with a sentor beam and the ship in the ship. 
+LAFORGE: What is the prisoner? 
+DATA: She will not be the same command. 
+PICARD: They want to see if you're going to be able to come out. 
+WESLEY: I would not be able on the star system with the ship. 
+PICARD: The Enterprise is trying. 
+PICARD: The Empire is a statio
+
+
+Validation
+Loss: 1.1789666
+Accuracy: 0.6507793

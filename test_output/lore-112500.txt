@@ -1,0 +1,23 @@
+The Boy I have been able to report to the Enterprise. 
+PICARD: I would like to stay here with you and the ship's chair and this is a memorial containment field and the shuttlecraft was a consciousness to a shield. 
+DATA: The shield would be a matter of things. 
+RIKER: What if the shuttle could be able to determine the entire ship is to be done? 
+LAFORGE: I think it's an experiment. 
+PICARD: Welcome aboard. 
+DATA: There is a sensor readings of an energy surge. It is a similar to the colony. 
+PICARD: Well, I'll be able to restore it. 
+WORF: I have no choice to see you. 
+RIKER: I didn't know. 
+PICARD: I'm sure that was the other ship. 
+DATA: It is a manned of time to determine that this is an entrance to the computer. 
+RIKER: What about the colony? 
+DATA: I do not. 
+PICARD: What is it you wish to deal about it? What do you mean? 
+DATA: The safety of a short man who are attempting to respect the same things. 
+PICARD: We will not be able to return. 
+TASHA: It's another chance. I don't know 
+
+
+Validation
+Loss: 1.0744557
+Accuracy: 0.6774246

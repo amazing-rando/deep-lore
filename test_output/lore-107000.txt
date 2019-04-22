@@ -1,0 +1,31 @@
+Computer station 
+Captain's log. stardate 47882,2. We have a communication. 
+PICARD: What about the shuttle? 
+DATA: An impulse speed. The ship's survival is attempting to destroy the ship. 
+PICARD: Make it so, Mister Data.
+
+[Bridge]
+
+RIKER: I don't know what to do. 
+DATA: Commander. I am reading a simple shuttle to star on a course for the Borg ship. 
+PICARD: What are you? 
+DATA: The shuttle is at their sector two percent. 
+PICARD: Mister Worf, where are they? 
+WORF: The Enterprise is approaching the ship's surface. 
+PICARD: What about this? 
+DATA: The sensors are in trectors on any subspace destruction of the planet. 
+PICARD: We've got a signal from the shield pattern. 
+PICARD: We'll have to go to the surface. 
+DATA: Aye, sir. 
+(Picard leaves) 
+PICARD: What is it? 
+LAFORGE: I don't know. I'm sorry, sir. 
+PICARD: We're all still in a stranger of this sensor beam. 
+WESLEY: Captain, we are ready to beam them up and set a course for the Bridge. 
+RIKER: We haven't been thinking. 
+PICARD: W
+
+
+Validation
+Loss: 1.0770525
+Accuracy: 0.6775943

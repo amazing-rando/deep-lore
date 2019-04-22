@@ -1,0 +1,22 @@
+The Borg. The ship was a shart of a ship and the ship was a computer starship on the Enterprise. 
+PICARD: What's? 
+DATA: I have not that the problem. 
+LAFORGE: The ship is all right. 
+DATA: I was not a security console.
+
+[Cargo bey]
+
+(Deanna are seeing a security team and a complete analysis) 
+PICARD: Why? 
+DATA: It is a man who is a man of the control shields as well as it is to be the sent of this planet and the presence of the control ship. The ship is a consert to the core of the ship as anything that cauld have an explanation. 
+PICARD: What if the same ship wants to send them? 
+DATA: It's a shapp to the planet surface on the surface of the ship in the ship is coming about the starbase torpedo ship. 
+PICARD: The containment field has been the only one of a sensor ship. 
+PICARD: There's no reason to start to try that to the Enterprise. 
+WORF: That is a ship on the Enterprise. The Enterprise have been transported. 
+LAFORGE: The crew are alive and see if they will be a control of the 
+
+
+Validation
+Loss: 1.1683283
+Accuracy: 0.6529415

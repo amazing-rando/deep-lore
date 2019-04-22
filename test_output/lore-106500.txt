@@ -1,0 +1,23 @@
+The Enterprise of Starbase 45571.8. The Borg have received an energy fluctuation of their powers are still in the corridor.
+
+[Bridge]
+
+PICARD: What are the shields out of the core and the strength of the ship? 
+LAFORGE: I don't know. 
+PICARD: We're getting a course for the ship's ship. 
+DATA: There is no reason to see it. 
+PICARD: We have to stop them out of the shuttle that will be destruying the probe that will be destroyed. 
+LAFORGE: I can't believe that we've got this. 
+DATA: Thank you, sir. 
+PICARD: What are you doing?
+DATA: I am a similar to the shuttle is not a problem at all. It is a short time the ship's condition is a position to the planet. 
+LAFORGE: It's time that the ship's contraction is the same time we can do that. When we share this time, we'll be about to start a little started. 
+DATA: The containment signatures, sir. 
+PICARD: We have a preparation of an expert with the Enterprise. 
+DATA: It is an expect of the ship in the starboard transfor areas. 
+LAFORGE: I don't k
+
+
+Validation
+Loss: 1.0759101
+Accuracy: 0.67711294

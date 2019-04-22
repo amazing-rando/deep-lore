@@ -1,0 +1,36 @@
+She walks at them)
+
+[Ready room]
+
+PICARD: It won't be there a chance to try the security team to the Bridge. 
+DATH: I am reading a signal that we could destroy the programme.
+
+[Bridge]
+
+DATA: Sir, I have been at the control of the procedure of the ship any many times in the planet. 
+PICARD: What was that? 
+DATA: I believe that was not a change of a sensor reacting for the planet. 
+RIKER [OC]: I'm sure you were about to see the ship. 
+DATA: It will be the same capability. The primation is a computer for a second time. 
+PICARD: A disturbance than they were to stay. 
+DATA: The ship is a probe with the subspace field of the ship. 
+PICARD: Anything to do the shields together at all the shields the problem? 
+DATA: I am respecting to the surface. 
+PICARD: All right. 
+RIKER: Aye, sir. 
+PICARD: All stop. 
+DATA: I am reading a pressure on the surface.
+
+[Bridge]
+
+PICARD: What about this conduit as the surface? 
+DATA: The shields are being complicated.
+
+[Bridge]
+
+PICARD: And the subjection is on a
+
+
+Validation
+Loss: 1.1175601
+Accuracy: 0.66574335

@@ -1,0 +1,34 @@
+Cargo bay]
+COMPUTER: Deck thirty six. 
+(The shields go out)
+
+[Bridge]
+
+DATA: Captain, that's what he wanted to say. 
+PICARD: What are you doing? 
+DATA: I have a complete sensor shield to the condition. 
+RIKER: Transfer course far several minutes, three seven minutes. 
+DATA: Captain, that is closing. 
+PICARD: Mister Data, you have a course for Starbase Five One Five.
+
+[Engineering]
+
+LAFORGE [OC]: I can't stay on there. 
+PICARD: Well, the sensors will be able to contact the shields through the computer.
+
+[Engineering]
+
+DATA: Thirty seven hours to receive an interference creating three to the shuttlecraft. 
+RIKER: The shields don't have to do that. 
+RIKER: That would have been a charge to the subspace damage. 
+RIKER: What's going on? 
+RIKER: We have to go to the surface, sir. 
+RIKER: What are you doing? 
+DATA: I am afraid the shuttle is attacking. 
+RIKER: The cargo bay has been running on the core for the ship. 
+DATA: The cargo is allowed to determine the computer to their control conditi
+
+
+Validation
+Loss: 1.0786177
+Accuracy: 0.6768032

@@ -1,0 +1,32 @@
+The Bese Command Carridor]
+CRUSHER: It seems that I have a security ship at the starship Enterprise. 
+WORF: The ship's command control is clear. 
+RIKER: They were there. 
+DATA: The computer have been destroyed. 
+PICARD: We are a probe and the station is a third choice. 
+DATA: I have no right to discuss it. 
+PICARD: It's not that we have to do with her. We have no choice. 
+RIKER: I don't know.
+
+[Bridge]
+
+WORF: Commander, we are ready to be sure. I have not been in the surface. 
+PICARD [OC]: Mister Worf? 
+RIKER: I can't determine that. I'm sorry, Captain, I'm not sure what you're doing. 
+PICARD: We haven't successfully returned from this ship.
+
+[Ten Forward]
+
+RIKER [OC]: I was sure there is no response. 
+PICARD: It's not the only one we can stop in one of the orders.
+
+[Bridge]
+
+RIKER: I'm not sure that the explored contact with the ship. 
+DATA: I am reading a security search. 
+RIKER: We're going to be in the shuttle. What do we know about the surface who doesn't say the problem are so st
+
+
+Validation
+Loss: 1.0761226
+Accuracy: 0.6768584

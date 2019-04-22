@@ -1,0 +1,23 @@
+Shuttlecraft]
+(The transporter beam and the transfer on the shuttlecraft is being down to the corridor) 
+PICARD: What are you doing here? 
+WORF: The security system will need to see if we should be able to read the area. 
+PICARD: Well, that's true. We're ready. 
+(the ship starts to see) 
+PICARD 2: It's no matter that you are a life form of a transmission. 
+DATA: Aye, sir. 
+(They see a starship and starts to leave) 
+PICARD: Well, I'm sorry. I had an android. 
+DATA: I would never believe that you will be to the same thing. 
+LEAH: What do you mean? 
+RIKER: What are you doing here? 
+PICARD: It was a little time for this. 
+KEVIN: I toought you're a little touch. I was thinking that I was a traitor. I was just a lot to see you. I'm sure I can't see to the base that I was so little there. I wasn't trying to talk about this again. 
+PICARD: I was there. I think I was to take a life. 
+TROI: I'm sorried that I've stopped another minute. I can see you to talk to you. 
+(The terrible ship is sitting
+
+
+Validation
+Loss: 1.075753
+Accuracy: 0.67659605

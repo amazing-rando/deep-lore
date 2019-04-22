@@ -1,0 +1,28 @@
+Corridor]
+(Troi and Riker enter) 
+PICARD: Well that is the only command of these controls on the surface. 
+LAFORGE: Aye, sir. 
+(The shuttlecraft is standing by) 
+LAFORGE: The sensor range is to be so sorry. 
+DATA [OC]: Aye, sir. 
+RIKER: Take us out of this. 
+LAFORGE: Aye, sir. 
+(The shuttle are a little later)
+
+[Engineering]
+
+LAFORGE: The power substances are all at this sector. 
+LAFORGE: We're ready to stay on the ship's computer. 
+DATA: The parasite is controlled by the shuttlecraft and the sensor ready to transporter room three. 
+RIKER: The power to the planet's surface is all ready to destroy it as the magnetic stream of their ship. 
+LAFORGE [OC]: Aye, sir. 
+PICARD [OC]: Acknowledged. 
+RIKER: Aye, sir, but the second things have been transformed back to the ship's cargo beam. 
+RIKER: There's a sensor shall we start the ship's shields there. They can't believe the shields will be able th send a lot of time. 
+RIKER: The shuttle is increasing. 
+LAFORGE: We've got to transport them out
+
+
+Validation
+Loss: 1.0774453
+Accuracy: 0.6767894

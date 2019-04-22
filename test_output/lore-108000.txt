@@ -1,0 +1,22 @@
+The Borg station) Captain Picard of the Enterprise has been restroying the shields and the antimatter system in thirty three minutes ago. They are all right, sir. 
+PICARD: Try and report. 
+WORF: Aye, sir. The arrival is a fire power surge.
+PICARD [OC]: What is that? 
+LAFORGE: I don't think so. 
+PICARD: Well, thank you. 
+(They see the door) 
+RIKER: What are you doing of this ship? 
+DATA: There is a possibility that we're ready to return to the surface. 
+LAFORGE: I don't know anything else. I'm sure there was any more. 
+PICARD: I am so responsible for your programme. I want to tell you that you are not going to be able to retreat your situation. 
+TOMALAK [on viewscreen]: Then why are you saying that you are a present programme? 
+PICARD: I don't know. I was about to read the problem to the ship. 
+TASHA: I am not a pretend communication. 
+TASHA: I know you were to bring me a fair. 
+PICARD: I'm sure you're a part of the distortion frequency as a strategic matter. It's a man. 
+TASHA: I don't
+
+
+Validation
+Loss: 1.0782392
+Accuracy: 0.67700636

@@ -1,0 +1,27 @@
+The Bark 11
+
+(a starship is sitting)
+
+[Transporter room]
+
+PULASKI: The ship's sensors are detected by the sensor readings. 
+PICARD: The sensor shields are already detected. 
+PULASKI: I was just a little that the same time they were alive. 
+PICARD: It is a sign of the station of the planet's subspace signature while the ship's command probe will be destroyed by the planet's subspace signals. 
+RIKER: Any sign of a ship with a low console to this planet? 
+DATA: I am not a matter of position. 
+PICARD: I had the ship's ship's shields to see if we could be all right. I'm going to have to stay here and this way that we've got to get out of here. 
+PICARD: Mister Worf, take us to the shields. 
+WORF: Aye, sir. 
+PICARD: Thank tou. 
+LAFORGE: I could have been allering and send a channel to the ship. 
+PICARD: Mister Worf, are the ship in the ship which were interested in a course? 
+LAFORGE: I don't think so. 
+RIKER: I'm sorry, but the ship is in the main computer. 
+RIKER: I do 't know. 
+PICARD: It'
+
+
+Validation
+Loss: 1.0786176
+Accuracy: 0.6769176

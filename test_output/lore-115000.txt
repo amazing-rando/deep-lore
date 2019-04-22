@@ -1,0 +1,37 @@
+Containment]
+(Data and Troi are attempting to come in) 
+PICARD: Mister Data, what about your ship? 
+DATA: It is not the starboard particle surge of a ship. 
+RIKER: That won't be possible. 
+DATA: It would be a simple power substation of the surface.
+
+[Bridge]
+
+RO: The power systems are at the cargo bay. 
+RIKER: Transporter room three, this is Commander Data. 
+DATA: Than is an incredible signal. 
+RIKER: What are you doing? 
+DATA: That is an extreme sensor range.
+
+[Ten forward]
+
+(There is a compliment into the ship)
+
+[Bridge]
+
+ROBIN: I could be able to get the shields and started that sensor range and sensors indicate that they were able to detect the ship's command. 
+DATA: The subspace field is approximately twenty two minutes. 
+RIKER: Transporter room three. 
+WESLEY: I'm sorry, sir. 
+PICARD: What's going on? 
+LAFORGE: I don't know. 
+PICARD: Mister Data, you're ready for a second. 
+DATA: Aye, sir. 
+PICARD: Take us out of orbit, Mister Worf. 
+WORF: Aye, sir. 
+PICARD [OC]: Mister Worf, pre
+
+
+Validation
+Loss: 1.07444
+Accuracy: 0.6776357

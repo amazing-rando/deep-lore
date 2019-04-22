@@ -1,0 +1,24 @@
+The Bese Of Data's ship) Commander, what is the point of a ship? 
+PICARD: The programme was at the same condition of a parent. It's not the only one who was doing there. 
+DATA: The power system is clear the shields are stabilised by a pattern ship with a pressure that we could be able to detect the surface for the shuttlecraft with the surface. 
+PICARD: On screen. 
+RIKER: It is a power transforter beam. 
+PICARD: And when they continue without the survey of the ship is to come onto the Enterprise with the Enterprise to set up the position that would be able to discover the shuttle where the shields are stable in the shields, the sensor readinss we have been aligned by a sensor system than what they're doing in there.
+
+[Bridge]
+
+WORF: Captain. 
+PICARD: On screen.
+
+[Bridge]
+
+WORF: Shields are opposed on the probe section four six. 
+PICARD: Maintain a starbase on the Bridge. 
+WORF: Captain, the ship is attacked. 
+PICARD: Mister Data, take a look on a chair at the moment. 
+CRUSHER [OC]: Aye
+
+
+Validation
+Loss: 1.0740327
+Accuracy: 0.67861426

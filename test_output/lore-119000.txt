@@ -1,0 +1,27 @@
+The Ferengi ship 
+Captain's log, Stardate 47688,3. The Enterprise is at the starbase on any survey of the planet. 
+PICARD: Thank you. 
+LAFORGE: They're attacked. 
+PICARD: Stand by for a field of the plasma field. 
+LAFORGE [OC]: I'm sorry. I've been trying to take the shields and run a security team to see if that would be an explosive. 
+RIKER: The sensor range of the planet is a starship on the surface and transmitted a complete subspace field. 
+RIKER: Transporter Room to Enterprise. 
+RIKER: That's all right. The shield is standing by. 
+RIKER: Take us to the surface. 
+LAFORGE: Aye, sir.
+
+[Bridge]
+
+PICARD: Mister Worf, are you all right? 
+LAFORGE: No, sir, I've got a power to stand by for the secondary power transfer. 
+PICARD: Maintain the field. 
+(The ship is in an interface and takes a console) 
+LAFORGE: So to stay on the Bridge. 
+RIKER [OC]: Acknowledged. 
+PICARD: Mister La Forge, that would be a ship to take the shields to the Bridge. I'm sure that's what I want to discuss it. 
+LAFO
+
+
+Validation
+Loss: 1.0700517
+Accuracy: 0.6791016

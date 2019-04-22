@@ -1,0 +1,25 @@
+Best of Gravisy. That story is a bit the same ship. 
+RO: I would like to know the source. 
+RIKER: We don't know that we should be dead. 
+RIKER: I'm sure you were able to stop the status. I was just telling you. 
+PICARD: Well, I was a serious structure of the same signal. 
+DATA: I will be able to deteriorate the same secondary survey. 
+RIKER: We continued to see them to the ship as well. 
+PICARD: We have to get an answer to the ship and tell me what this is there. 
+RIKER: What about the particle force? 
+RIKER [OC]: I'm sorry, sir. 
+RIKER: We've got a problem with the shields and stand there. 
+RIKER [OC]: We are ready. 
+PICARD: We are ready to beam up the shuttle. 
+WORF: Aye, sir. 
+RIKER: The ship has been ready for them. 
+RIKER: The sensors are still in the ship. 
+RIKER: We've got to get a look at the cargo bay to the surface as a straight storm. 
+RIKER: That's not the same section of a transporter room. 
+RIKER: The Enterprise has been able to detect the possibility. 
+RIKER: What is it?
+
+
+Validation
+Loss: 1.073161
+Accuracy: 0.6776693

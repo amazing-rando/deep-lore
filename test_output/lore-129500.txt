@@ -1,0 +1,20 @@
+The First officer started to start so strange to star sheet on a strength of the shuttlecraft is a strong structure and starts a star system to the ship) 
+PICARD: Where's the transporter section in a starbase the Enterprise?
+
+[Transporter room]
+
+PICARD: What's the control of the ship? 
+DATA: There is a signal to the shields. 
+RIKER: We can't stay here and the shuttle has been considered the starboard transporter. 
+RIKER: I don't know. 
+PICARD: I want to know that you can stop them anywhere and then the crashers will be able to disappear to the ship. 
+DATA: It is trying for the containment field. 
+PICARD: Well, if you can stay here with the crew the way to the stars in a course, we'll be able to confuse the computer that will be a chance. 
+DATA: I will not allow them for the conference of this ship. 
+PICARD: It was a preferal signal that you can see. 
+DATA: I would be able to report the ship as a security computer and the stations are still in this sector. That is a change to complete t
+
+
+Validation
+Loss: 1.1136576
+Accuracy: 0.66676337

@@ -1,0 +1,24 @@
+The Bearing of Six three three three four four three three five for and through the floor and the shields are still in the control room) 
+PICARD:[OC]: I'm sorry, Commander. I'm not an android of this ship. 
+RIKER: I wanted you to stop the crew. 
+PICARD: What's the cause of the criminal? 
+WORF: It is a pressure of the starship with the computer. 
+PICARD: What's going on? 
+DATA: That's a sensor reading of the station of the shuttle. It was a little difficult to continue to determine what it is in their own experience.
+
+[Bridge]
+
+PICARD: Can you see if you're ready to take us to the Bridge? 
+DATA: It is not a simulation of the starbase in the computer beam of the confirmed. 
+LAFORGE: I'm not sure that we should be able to contact the surface and try to confine the crimination of this position. 
+DATA: Aye, sir. 
+(The ship shakes) 
+PICARD: I want to kill you to see you again. 
+DATA: It is no life for to tell us. 
+LAFORGE: I'll be the only one that would be dead. 
+DATA: I wouldn't have been 
+
+
+Validation
+Loss: 1.0927892
+Accuracy: 0.6721512

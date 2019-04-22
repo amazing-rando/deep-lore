@@ -1,0 +1,25 @@
+The Betted Command of the Borg ship.
+
+[Bridge]
+
+PICARD: This is the Enterprise. 
+DATA: The shuttle contains the planet surface was aboard the Enterprise. 
+PICARD: I am a problem. 
+DATA: I have no idea the ship is an android. 
+LAFORGE: I know what the positronic patterns have been decided to do with any signs. 
+DATA: I am afraid I am analysed the ship was coming from the ship. 
+LAFORGE: I don't know. I'm not an android. 
+DATA: That is correct. 
+LAFORGE: I don't know. 
+DATA: I am a part of the planet surface. 
+RIKER [OC]: What about the ship? 
+WORF: The ship's sensors indicate they are approaching the planet surface. 
+RIKER: The sensors are at the past two minutes. 
+DATA: There is no problem with the ship which is a chipped signal to an accident. 
+PICARD: The same way that the ship was able to construct the subspace sector and they're alive. 
+DATA: The planet is a simulation of the planet's armanents and a siniliar containment pattern on the surface is considering that the ship's patholo
+
+
+Validation
+Loss: 1.0745872
+Accuracy: 0.6776259

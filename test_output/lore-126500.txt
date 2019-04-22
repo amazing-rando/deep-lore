@@ -1,0 +1,25 @@
+The Borth 
+
+[Bridge]
+WORF: Commander, we have a communication of a problem with the shuttle. 
+PICARD: We're all right. 
+WESLEY: Aye, sir.
+
+[Corridor]
+
+RIKER: What's the progress? Where is the computer control of the surface? 
+WORF: It is a presence to the planet's survey of the ship's subspace records. I have a problem with the shuttle in this sector to return to the ship. 
+PICARD: Well, it will be the containment field. 
+RIKER: Aye, sir. 
+PICARD: Mister Worf, take a look at this on the Enterprise. 
+WORF: Sir, I have already come to be sure the explosion is not an ancient possibility. 
+PICARD: When the ship was able to determine what he is doing is whatever it is to do, the creature will not be able to destroy it. 
+RIKER: I don't know. I didn't know what that matter is a programme that we can't get to a state. 
+RIKER: Why? Why didn't you still be such a channel? 
+RIKER: It may be a child with the prisoner of an end of a child. I don't know. 
+PICARD: Well, I have to get the ship's compu
+
+
+Validation
+Loss: 1.0745519
+Accuracy: 0.6780382

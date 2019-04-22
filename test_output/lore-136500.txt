@@ -1,0 +1,31 @@
+Sin Fire] 
+(The ship is trinkidg the star on the wall as the trant s offerid to the bork of the warp strest of the warp counter to this ship is there when the thir the starsh ship is allere a work)
+
+[Bridge]
+
+PICARD: We can see your warp fiel of the Enterprise core. 
+PICARD:eNs the ship. I wil  that you  are wills. 
+PICARD: Well, we'll send you therowat. 
+PICARD::No  Oo  TavARI:SHAR:: You will beli were to the ways reter to the Entenpring. 
+PICARD: Well, we wish.
+
+[Bridge]
+
+WORF: That is a sign as any sort of signs. 
+PICARD: Well you wasn terid. The security a so ing where you'v been. 
+WORF: The shuttlecaie is a starsh for this.
+
+[Bridge]
+
+WORF: We are a starshile one thing the thing the sense offerging the changes that there's an actent to send them.
+
+[Bridge]
+
+PICARD: That's witt  sotian  l  
+PICARD: Weapt an the Enterprise. 
+CONH: I'llat to to to        o er  ee e    ee        ee    ee  e  e   ee       e   e  eee  e  eeee e e           e   e  eee e eee e        ee e e ee  e     ee  
+
+
+Validation
+Loss: 2.7423935
+Accuracy: 0.30804923

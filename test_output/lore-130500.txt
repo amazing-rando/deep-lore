@@ -1,0 +1,29 @@
+Beliefing the Engineering]
+LAFORGE: We'll be able to return to the Bridge. 
+RIKER: What's going on on the Bridge? 
+DATA: I have no responsible position of a planet on the ship. It wasnated to a starsh precise sensor standing by an android.
+
+Captain's log, stardote 41255.3  I have been the ship's control of the plasers. 
+PICARD: It's not an explanation of the ship. It is the same thing they will be able to complete. 
+RIKER: I won't have to destroy the planet. 
+PICARD: I see no response to see you again. 
+RIKER: We have to go there and we are all right. 
+DATA: The shuttle has been distrabed.
+
+[Bridge]
+
+RIKER: Standard orbit. 
+RIKER: All right. 
+(the stress is a lot of problems) 
+RIKER: It would be a little like a lot of the same way to do. 
+PICARD: What's the same thing that would be all right? 
+LAFORGE: I would like to talk about. 
+RIKER [OC]: We're recording a shield on a surface field. 
+DATA: The problems are fired. 
+LAFORGE: Where are you sure? 
+LAFORGE: Not that we're going to have 
+
+
+Validation
+Loss: 1.1615211
+Accuracy: 0.6567886

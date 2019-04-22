@@ -1,0 +1,32 @@
+Cargo bay]
+(The doorbell chimes) 
+RIKER: What are you? 
+DATA: That is not pretty answering.
+
+[Bridge]
+
+RIKER: I don't know. 
+RIKER: What if we can do this to the Bridge? 
+RIKER: We can't stop the status from the probe that the ship is stabilising the ship. 
+PICARD: What about the Enterprise? 
+DATA: The ship has breaked the ship and read that the sensors indicate a sensor status. 
+PICARD: That if we can determine that the sensors are all all aboard. 
+RIKER: What about your ship?
+DATA: I am attempting to read the ship and ready. It is not a possibility. I have a problem with an artefact. 
+PICARD: We are all right. 
+WORF: Captain, this is Captain Picard of the Bridge. 
+PICARD: I am a starship. 
+WESLEY: Aye, Captain. 
+PICARD: Transport r room three. 
+WORF [OC]: Aye, sir. 
+(Data ardesses the shuttlecraft and the ship is a box and a flash of the contacn water) 
+PICARD: Welcome aboard the Enterprase, Captain. 
+PICARD: Why? 
+DATA: It is a problem. 
+RIKER: It's all right. 
+DATA: The sensors are
+
+
+Validation
+Loss: 1.0727806
+Accuracy: 0.67835975

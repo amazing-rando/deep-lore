@@ -1,0 +1,21 @@
+Beliefs. The Enterprise is at the main shuttlecraft. I want you to go to Starbase twelve. I want to see if I were a little longer. 
+(Picard leaves) 
+PICARD: What are you doing? 
+DATA: The ship was a little sorry to see the computer to my concern. 
+PICARD: And the ship's contact with this ship was a little bit too late. 
+DURKEN: I don't think so, Counsellor. 
+PICARD: And you are a lot to do that. 
+CRUSHER: I don't know what's happening with the same time and I have a lit le seriously to the contract. 
+PICARD: Are you suggesting that the ship is a matter of powers? 
+DATA: The probe has been attempting to confirm that the computer is a possible star coupling. 
+PICARD: I was a man. 
+DATA: The secondary programme is acceptable to the station on the ship and an accident. 
+PICARD: I will not be able to start a chance to accept your programme. 
+TASHA: And that would be a mistake. 
+PICARD: I was the last time I was able to tell you about your societies. 
+DATA: Then why did you die with that pos
+
+
+Validation
+Loss: 1.075139
+Accuracy: 0.6782631

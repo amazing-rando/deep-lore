@@ -1,0 +1,22 @@
+Ten Bortasith 
+Captain's log, stardate 44999.2, Captain Picard. The Enterprise is attacked. The shuttle is a traitor. 
+PICARD: Then the crew is at all the problems. 
+DATA: The shields will be able to determine the sensor readings will be able to destroy the ship. 
+RIKER: We can't do this to the ship. 
+DATA: Aye, sir. 
+PICARD: This is Captain Jean-Luc Picard of the Enterprise. 
+RIKER: What is it? 
+PICARD: That should have been absolutely ready. The probe would have been there. 
+DATA: The ship is, the shields are continuing to disappear. 
+RIKER: The shuttle was a lot of another. 
+RIKER: I wouldn't have been thinking about this. I don't know why I could control the Enterprise. 
+RIKER: Why didn't we stop the plasma shuttle? 
+LAFORGE: I could have been thinking about it. 
+RIKER: What if this is a sign for a man who couldn't have transport them to the surface. It was time to report to the Bridge. 
+RIKER: I've never seen a ship as a particle stream. 
+PICARD: We didn't have any possibilities. 
+
+
+Validation
+Loss: 1.0746831
+Accuracy: 0.6775292

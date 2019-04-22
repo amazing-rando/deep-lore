@@ -1,0 +1,36 @@
+Terriforer 
+CRUSHER: What about the ship? 
+WORF: They are not at their sensors.
+
+[Bridge]
+
+PICARD [OC]: What's the ship? We're ready to set up a static condition of a course. 
+RIKER [OC]: What havpened to you? 
+LAFORGE: It's a signal to the planet surface. I can't see. I don't know how to see them. 
+PICARD: Well, I would like to know what they want. 
+RIKER: I don't think so.
+
+[Bridge]
+
+PICARD: We've got to get them up to the Bridge. 
+WORF: Aye, sir. 
+PICARD: What's happened? 
+DATA: There is no way of complete. 
+RIKER: Why did you do it? 
+DATA: I have been able to detect the power source. 
+RIKER: Take us to the Bridge. 
+RIKER [OC]: Aye, sir. 
+PICARD: The shuttle's engineering team is the same station. 
+RIKER: All right. We've been able to reach the containment field. 
+RIKER: That's why we've got to go back to the shields to the ship. They are all right. 
+WORF: The shuttle has been recorded. 
+RIKER: The storm has been ready to destroy them.
+
+[Bridge]
+
+WORF: Captain, I have a position of 
+
+
+Validation
+Loss: 1.0741771
+Accuracy: 0.6771642

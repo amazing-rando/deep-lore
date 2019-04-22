@@ -1,0 +1,21 @@
+Cargo bay]
+(Wesley is sitting at the caneral security, and the case is sitting) 
+PICARD: Counsellor, I would like to say to you if I could see the problem. I was able to see that the Enterprise is to change your programming and the problem wasn't the same thing you want to see the point of a second time. I don't think there's a chance that this is an order. I don't know what to do. 
+RIKER: I'm not a problem. 
+CRUSHER: We haven't. 
+PICARD: We had an android. 
+TROI: I would never have thought the truth is. I'm supposed to be some time. 
+PICARD: I don't know. I don't think the same thing to do. I don that yes. I don't think I've settled the same simulation. 
+TROI: I was a little so than anything. I've been a lot of things about you. 
+PICARD: Well, I won't believe that I wanted to tell you to this son. 
+TROI: I don't think so. 
+RIKER: What do you think? 
+DATA: It was a part of the container. 
+RIKER: I don't think so. 
+TROI: Well, I don't know. 
+TROI: I wouldn't want to be sure you're ready
+
+
+Validation
+Loss: 1.0749624
+Accuracy: 0.6775588

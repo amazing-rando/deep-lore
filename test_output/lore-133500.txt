@@ -1,0 +1,23 @@
+Section of the station. They are still in the back of the ship. 
+PICARD: Mister Worf, we're a little monitoring the planet. 
+PICARD: Make it so. 
+(the three holds are at the street) 
+LAFORGE: The power to security field stations. 
+DATA: The second officers have a second time to stand by to stand by to start to return to the Enterprise. 
+PICARD: Make it so. 
+DATA: The ship is in the planet surface. 
+LAFORGE: The power transfer in the planet surface. 
+DATA: The ship is in the planet. 
+LAFORGE: The ship is the same shields are at a second transport to the starboard shield. It's a starship on the planet. 
+PICARD: Mister Data, I want you to try to set to see the probe who they can start to be able to find on a second order on the Enterprise. 
+RIKER: It's not so something. 
+PICARD: It was a shart to break the present problem. 
+DATA: It was never to be problem to them. 
+PICARD: It is not an enemy. 
+DATA: I will not be able to continue to stop the possibilities. 
+LAFORGE: We are a thought whic
+
+
+Validation
+Loss: 1.1489232
+Accuracy: 0.65784997

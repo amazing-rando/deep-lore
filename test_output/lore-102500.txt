@@ -1,0 +1,29 @@
+Control of Starfleet Course. 
+PICARD: There was no response to the computer systems. 
+DATA: The cardissor is coming from the ship in the ship in the shuttle in the planet surface. 
+PICARD: We are now the only way to stop. 
+RIKER: We can't. 
+PICARD: What is it? 
+DATA: They are not successful to a constant progeess. 
+RIKER: We have nothing to do with the ship. 
+DATA: I believe so, sir. It is a signal from the planet surface. 
+RIKER: The son is too long to do with your signal. 
+WESLEY: I don't know. I can't stop it. 
+PICARD: What about the procedure? 
+DATA: It was a ship of the shuttlecraft. I believe I am able to destroy the shuttlecraft. 
+PICARD: The contrors were too late.
+
+[Bridge]
+
+PICARD: We're going to beam aboard. 
+DATA: The shuttle is impulse. 
+RIKER: They've got a lot of time. We can't get a standard orbit anyway. 
+RIKER: We've been trying to detect the ship. 
+RIKER: The computer has been able to detect the ship. 
+PICARD: What about your ship? 
+DATA: I am attempting to complicat
+
+
+Validation
+Loss: 1.0787408
+Accuracy: 0.6770893
